@@ -12,6 +12,9 @@ desktop.ini
 # Plugin data can contain API tokens/keys — never commit
 .obsidian/plugins/*/data.json
 
+# Obsidian Git generates this per-device at runtime — not portable
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
 # Secrets
 .env
 *.key
