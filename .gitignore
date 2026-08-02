@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian device-specific state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Plugin data can contain API tokens/keys — never commit
+.obsidian/plugins/*/data.json
+
+# Secrets
+.env
+*.key
+*.pem
