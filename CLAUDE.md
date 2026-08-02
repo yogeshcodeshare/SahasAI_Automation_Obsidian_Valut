@@ -53,10 +53,31 @@ may omit it; agents must not.
 
 ## How to FIND things (retrieval order)
 Do this instead of grepping the whole vault blindly:
-1. Read `MOC.md` (Map of Content) — the home index.
+1. Read `MOC.md` (Map of Content) — the home index, organized by category with a one-line
+   summary per note. **This is the entry point for every tool**, and the only one available
+   to cloud chats (Claude.ai / ChatGPT) that cannot search the filesystem.
 2. Read the relevant `_index.md` to confirm the folder.
-3. Then search within that folder; follow `[[wikilinks]]` outward.
+3. Then read the specific notes; follow `[[wikilinks]]` outward.
 4. Only fall back to a full-vault text search if the above misses.
+
+An index file plus link-following works well up to roughly a few hundred notes and avoids
+needing embedding/vector search. If the vault outgrows it, evaluate `qmd` (local Markdown
+search with hybrid BM25+vector and an MCP server) rather than adding a database.
+
+**Keeping `MOC.md` useful is mandatory.** Any agent that adds a note must add it to `MOC.md`
+under the right category with a one-line summary. An unlisted note is invisible to cloud tools.
+
+## The three operations
+- **Ingest** — new material in → normalized, classified, deduped, linked, `MOC.md` updated,
+  entry appended to `log.md`. One source may legitimately touch several existing notes.
+- **Query** — answer from the vault, citing note filenames. **A good answer is worth filing
+  back as a new note** so the exploration compounds instead of dying in chat history.
+- **Lint** — periodic health check. Look for: contradictions between notes, stale claims
+  superseded by newer material, orphan notes with no inbound links, concepts referenced but
+  lacking their own note, and missing cross-references. Report findings; fix only the
+  unambiguous ones, and never by deleting user-authored content.
+
+Every ingest and lint appends an entry to `log.md` (append-only, greppable). See that file.
 
 ## How to WRITE (write-back protocol)
 1. `git pull` (or run `pull.ps1`).
