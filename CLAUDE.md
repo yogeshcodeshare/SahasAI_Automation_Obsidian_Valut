@@ -33,12 +33,19 @@ title: Human readable title
 created: YYYY-MM-DD
 tags: [topic, client-name]
 source: where this came from (URL, chat export, conversation, person)
+origin: ai | human          # who authored this note
+author: claude-code | codex | hermes | claude.ai | chatgpt | yogesh
 ---
 
 # Human readable title
 
 Content...
 ```
+
+**`origin:` is required on every note an agent creates.** It keeps AI-written notes
+distinguishable from the user's own writing at a glance and in search — so a later agent
+never mistakes a machine-generated draft for a human-confirmed fact. Human-authored notes
+may omit it; agents must not.
 
 - Link related notes with `[[wikilinks]]`. A link to a not-yet-existing note is fine — it marks a gap.
 - Use `#tags` for cross-cutting themes that don't fit the folder tree.

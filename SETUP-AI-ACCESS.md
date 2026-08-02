@@ -56,6 +56,28 @@ scoped to this one repo (Contents: read/write). That gives full read + write.
 
 ---
 
+## Trust model — read this before giving an agent write access
+
+**Instructions are not a security boundary.** The rules in `CLAUDE.md` / `AGENTS.md` are a
+best-practices layer: agents forget them under context compression and don't always obey.
+They reduce accidents; they do not prevent them. Real enforcement, weakest to strongest:
+
+1. **Instruction files** (what we have) — convention only. Fine for trusted local tools.
+2. **Git** — the actual safety net here. Every agent write is a commit, so anything wrong is
+   reviewable and revertible. This is why the vault is version-controlled.
+3. **Mount / OS-level permissions** — the only true enforcement. If you later want an agent
+   that genuinely *cannot* touch certain notes, run it in a container with read-only bind
+   mounts (`hostPath:/workspace:ro`) and mask private folders by mounting an empty directory
+   over them. Per-agent profiles can then grant different scopes to different tools.
+4. **Scope tokens narrowly** — a fine-grained PAT limited to this one repo caps the blast
+   radius of any cloud tool.
+
+Practical stance for now: local tools (Claude Code, Codex, Hermes) get full access because
+Git makes every change reversible; cloud tools stay read-only unless you deliberately add a
+write path. If you ever add genuinely sensitive material (client contracts, personal
+journals), move it to a folder excluded from agent access rather than relying on a "please
+don't read this" instruction.
+
 ## Security
 
 - Use **fine-grained PATs** scoped to this single repo, minimum permissions. Never a classic all-repo token.
