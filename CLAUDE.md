@@ -35,6 +35,7 @@ tags: [topic, client-name]
 source: where this came from (URL, chat export, conversation, person)
 origin: ai | human          # who authored this note
 author: claude-code | codex | hermes | claude.ai | chatgpt | yogesh
+maturity: established | supported | emerging | theoretical
 ---
 
 # Human readable title
@@ -46,6 +47,30 @@ Content...
 distinguishable from the user's own writing at a glance and in search — so a later agent
 never mistakes a machine-generated draft for a human-confirmed fact. Human-authored notes
 may omit it; agents must not.
+
+**`maturity:` says how much weight a claim carries.** `origin:` answers *who said it*;
+`maturity:` answers *how solid it is*. Without it, a verified GSTIN and a speculative market
+hypothesis look identical to the next agent that reads them.
+
+| Value | Means | Example |
+|---|---|---|
+| `established` | Verified fact — documented, signed, shipped, or confirmed by Yogesh | GSTIN, signed reseller terms, code that runs |
+| `supported` | Good evidence, not formally verified | vendor pricing from their site, UAT findings |
+| `emerging` | Early signal, could change | competitor intel, a vertical that looks promising |
+| `theoretical` | Hypothesis or untested plan | a pitch angle nobody has tried yet |
+
+Default to `supported` when unsure. **Only Yogesh's confirmation makes something
+`established`** — an agent must never promote its own inference to `established`. When you
+cite a fact in an answer, carry its maturity across: *"per `grexa-competitor-intel.md`
+(emerging)…"*.
+
+### Decision records
+A decision is a first-class note, not a line buried in a project file — otherwise settled
+questions get re-litigated and the rejected options are lost. Use
+`_templates/decision-record.md`, tag it `#decision`, and file it where it belongs
+(`01_Agency/` for business decisions, `03_Projects/` for build decisions). Record what was
+decided, **what was rejected and why**, and what it depends on. That dependency list is what
+makes the reweave check below possible.
 
 - Link related notes with `[[wikilinks]]`. A link to a not-yet-existing note is fine — it marks a gap.
 - Use `#tags` for cross-cutting themes that don't fit the folder tree.
