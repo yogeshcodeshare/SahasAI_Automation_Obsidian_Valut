@@ -97,12 +97,30 @@ under the right category with a one-line summary. An unlisted note is invisible 
   entry appended to `log.md`. One source may legitimately touch several existing notes.
 - **Query** — answer from the vault, citing note filenames. **A good answer is worth filing
   back as a new note** so the exploration compounds instead of dying in chat history.
-- **Lint** — periodic health check. Look for: contradictions between notes, stale claims
-  superseded by newer material, orphan notes with no inbound links, concepts referenced but
-  lacking their own note, and missing cross-references. Report findings; fix only the
-  unambiguous ones, and never by deleting user-authored content.
+- **Lint** — periodic health check. **Structure is mechanical; meaning needs a human.**
+  - *Fix directly:* notes missing from `MOC.md` (they're invisible to cloud tools), orphan
+    notes with no inbound links, broken `[[wikilinks]]`, missing front-matter fields, agent
+    notes lacking `origin: ai` or `maturity:`.
+  - *Report only, never resolve:* contradictions between notes, duplicates, stale claims. If
+    one side is `origin: ai` and the other human-authored, say so — the human's likely wins,
+    but it stays their call.
+  - *Also report gaps:* a concept referenced across several notes with no note of its own is
+    usually the next thing worth writing.
+- **Reweave** — run after any significant ingest. For each `#decision` note, check its
+  **Depends on** list: has any of those notes changed, or any stated assumption stopped
+  holding, since the decision was made? If so, flag the decision for review — do not
+  silently revise it. This is what stops the vault from confidently repeating a choice whose
+  reasons expired. Also flag `maturity: emerging|theoretical` notes that newer material has
+  since confirmed or contradicted.
 
-Every ingest and lint appends an entry to `log.md` (append-only, greppable). See that file.
+Every ingest, lint, and reweave appends an entry to `log.md` (append-only, greppable).
+
+## Multi-agent writes (transaction discipline)
+When several agents work on one task, **workers return drafts; one orchestrator applies
+them.** A sub-agent must not commit to the vault directly — it hands back proposed note
+content, and the orchestrator reads the current files, merges, writes once, and commits once.
+Parallel writers racing the same `MOC.md` or `log.md` is how lines get silently dropped. One
+logical operation should be one reviewable commit.
 
 ## How to WRITE (write-back protocol)
 1. `git pull` (or run `pull.ps1`).
@@ -110,6 +128,22 @@ Every ingest and lint appends an entry to `log.md` (append-only, greppable). See
 3. Create/update the note with correct front-matter in the correct folder.
 4. Add a link to it from `MOC.md` or the parent `_index.md` so it is reachable.
 5. Commit with a clear message and push (or let the Obsidian Git plugin's 10-minute auto-sync handle it).
+
+## If you have MCP vault tools available
+Some hosts (Claude Desktop with an Obsidian MCP plugin) expose native vault tools —
+search, read, create. Use them like this:
+
+- **Read and search via MCP.** Semantic search finds notes by meaning, including ones missing
+  from `MOC.md`. Prefer it over blind file reads.
+- **Write via git.** A `git commit -m "ingest: …"` is a far better audit record than a file
+  that silently appears and gets swept into a generic auto-sync commit ten minutes later.
+- **If you must write via MCP**, you still owe the full protocol in the same pass: correct
+  front-matter, the `MOC.md` line, the `_index.md` entry, and the `log.md` append. The
+  transport changed; the rules did not.
+
+MCP is local-only (`127.0.0.1`). It is unavailable to Claude.ai, ChatGPT, and any agent
+running on a VPS — those reach the vault through GitHub. Never assume the other agents can
+see something just because you can.
 
 ## Sync
 - Remote: `origin/main` on GitHub (private).

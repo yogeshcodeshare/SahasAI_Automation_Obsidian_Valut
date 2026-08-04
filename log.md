@@ -33,3 +33,8 @@ Agent: claude-code
 ## [2026-08-02] ingest | Full agency knowledge base
 Ingested the Sahas AI knowledge base from the Claude planning chats: 6 agency notes (01_Agency), 4 Manovedh client notes (02_Clients/manovedh), 3 GMB Sarathi project companions (03_Projects), 6 knowledge/research notes (04_Knowledge). MOC + all _index.md updated. 19 notes total; no duplicates of the existing 5 pattern notes.
 Agent: claude-code
+
+## [2026-08-04] setup | Phase 0 conventions + MCP rule
+Added maturity: front-matter, decision-record template, reweave operation, lint mechanical/substantive split, multi-agent transaction discipline, and MCP usage rule. CLAUDE.md + AGENTS.md updated.
+Agent: claude-code
+
