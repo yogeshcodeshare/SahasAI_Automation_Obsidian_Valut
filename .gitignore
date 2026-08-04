@@ -19,3 +19,6 @@ desktop.ini
 .env
 *.key
 *.pem
+
+# MCP config holds the Local REST API bearer token — never commit
+.mcp.json
