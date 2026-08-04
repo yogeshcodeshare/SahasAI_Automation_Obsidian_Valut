@@ -29,3 +29,7 @@ grep "^## \[" log.md | tail -10
 ## [2026-08-02] setup | Vault initialized
 Structure, protocol files, and sync configured. No knowledge content ingested yet.
 Agent: claude-code
+
+## [2026-08-02] ingest | Full agency knowledge base
+Ingested the Sahas AI knowledge base from the Claude planning chats: 6 agency notes (01_Agency), 4 Manovedh client notes (02_Clients/manovedh), 3 GMB Sarathi project companions (03_Projects), 6 knowledge/research notes (04_Knowledge). MOC + all _index.md updated. 19 notes total; no duplicates of the existing 5 pattern notes.
+Agent: claude-code
