@@ -7,3 +7,6 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[gmb-sarathi-build-status]] — M0–M6 milestone status, MVP gate met, remaining queue.
 - [[gmb-sarathi-tech-setup]] — repo, keys, Supabase migrations, externally-gated blockers, Windows quirks.
 - [[gmb-sarathi-uat-fix-list]] — founder UAT findings (UAT-1..8).
+- [[sahas-ai-website]] — agency marketing website, production readiness, and source of truth.
+- [[whatsapp-api-onboarding]] — Veblika/Meta setup project and verification prerequisites.
+- [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook.

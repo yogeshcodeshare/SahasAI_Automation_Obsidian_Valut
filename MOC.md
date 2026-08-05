@@ -13,6 +13,7 @@ Home index for the vault. Links get added as content is ingested.
 ## Agency (Sahas AI)
 - [[sahas-ai-overview]] — who/what/launch/philosophy
 - [[brand-name-sahas-ai]] — name decision + rejected options
+- [[sahas-ai-logo-direction]] — original connected-mark brief; final asset pending review
 - [[pricing-ladder]] — service pricing
 - [[bizautomation-reseller-deal]] — GHL/Veblika/VPS reseller terms + risks
 - [[gst-legal-structure]] — GSTIN, SAC codes, Udyam, trade name
@@ -29,6 +30,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[gmb-sarathi-build-status]] — M0–M6 status, MVP gate met, remaining
 - [[gmb-sarathi-tech-setup]] — repo, keys, migrations, blockers, Windows quirks
 - [[gmb-sarathi-uat-fix-list]] — UAT findings
+- [[sahas-ai-website]] — static-first agency website, deployment and legal-content boundaries
+- [[whatsapp-api-onboarding]] — Veblika/Meta readiness, ownership checks, and document pack
+- [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook
 
 ## Knowledge — reference & research
 - [[ai-tools-stack-3-layer]] — n8n (sell) / Claude (build) / Hermes (own); DeepSeek costs; video tools

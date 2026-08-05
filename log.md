@@ -43,3 +43,11 @@ Agent: claude-code
 Named the specific Obsidian MCP tools agents may and may not call (no vault_delete, no command_execute; prefer git for writes). CLAUDE.md + AGENTS.md updated. Codex and Claude Code both verified connected.
 Agent: claude-code
 
+## [2026-08-05] ingest | Website, WhatsApp onboarding, and current brand boundaries
+Processed the local Sahas Website project documents and founder design direction. Created website, WhatsApp onboarding, and logo-direction notes; corrected the AI-written brand note to distinguish the chosen public brand from unverified registration status.
+Agent: codex
+
+## [2026-08-05] ingest | Sahas AI website production deployment
+Added the verified public website, legal-name display, Dokploy, domain, firewall, and stale-checkout record as [[sahas-ai-website-production]]. Updated MOC.md and 03_Projects/_index.md.
+Agent: codex
+
