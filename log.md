@@ -38,3 +38,8 @@ Agent: claude-code
 Added maturity: front-matter, decision-record template, reweave operation, lint mechanical/substantive split, multi-agent transaction discipline, and MCP usage rule. CLAUDE.md + AGENTS.md updated.
 Agent: claude-code
 
+
+## [2026-08-04] setup | MCP tool guardrails
+Named the specific Obsidian MCP tools agents may and may not call (no vault_delete, no command_execute; prefer git for writes). CLAUDE.md + AGENTS.md updated. Codex and Claude Code both verified connected.
+Agent: claude-code
+

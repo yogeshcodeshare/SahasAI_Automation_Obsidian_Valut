@@ -141,9 +141,23 @@ search, read, create. Use them like this:
   front-matter, the `MOC.md` line, the `_index.md` entry, and the `log.md` append. The
   transport changed; the rules did not.
 
+**Tools you may use freely:** `search_query`, `search_simple`, `vault_read`, `vault_list`,
+`vault_get_document_map`, `tag_list`, `open_file`, `active_file_get_path`.
+
+**Tools you must NOT call:**
+- `vault_delete` — never. Deletion is the human's decision, and an MCP delete leaves no
+  reviewable commit. If something should go, say so and let Yogesh do it.
+- `command_execute` / `command_list` — runs arbitrary Obsidian commands. Out of scope for
+  memory work; ask first if you think you need it.
+- `vault_write`, `vault_patch`, `vault_append`, `vault_move`, `vault_copy` — prefer editing
+  files in the working tree and committing, so the change carries a commit message and is
+  revertible. If you do use them, complete the full protocol in the same pass (front-matter,
+  `MOC.md`, `_index.md`, `log.md`).
+
 MCP is local-only (`127.0.0.1`). It is unavailable to Claude.ai, ChatGPT, and any agent
 running on a VPS — those reach the vault through GitHub. Never assume the other agents can
-see something just because you can.
+see something just because you can. **MCP also requires Obsidian to be running** — if the
+tools are missing, fall back to filesystem + git rather than reporting failure.
 
 ## Sync
 - Remote: `origin/main` on GitHub (private).
