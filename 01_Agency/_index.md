@@ -4,6 +4,7 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 
 - [[sahas-ai-overview]] — who/what/launch/expansion/philosophy
 - [[brand-name-sahas-ai]] — name decision (Sahas AI) + rejected options
+- [[sahas-ai-logo-direction]] — original logo direction and review guardrails
 - [[service-offerings]] — GMB, WhatsApp, n8n, content, ads
 - [[pricing-ladder]] — service pricing ladder
 - [[bizautomation-reseller-deal]] — GHL/Veblika/VPS reseller terms + risks

@@ -51,3 +51,7 @@ Agent: codex
 Added the verified public website, legal-name display, Dokploy, domain, firewall, and stale-checkout record as [[sahas-ai-website-production]]. Updated MOC.md and 03_Projects/_index.md.
 Agent: codex
 
+## [2026-08-05] ingest | Website record reconciliation
+Reconciled the architecture and brand-boundary notes with the production deployment record: the public site is live, but the formal legal/trade-name status is still tracked separately.
+Agent: codex
+

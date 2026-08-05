@@ -2,14 +2,23 @@
 title: Brand Name Decision — Sahas AI
 created: 2026-08-02
 tags: [agency, sahas-ai, branding]
-source: Claude planning conversation
+source: Founder direction + Sahas Website brand documents
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Brand Name Decision — Sahas AI
 
-Final agency brand: **Sahas AI** (साहस = courage/boldness). Registered as the Udyam enterprise name and used for the Meta Business portfolio ("Sahas AI Business Automation Agency") and WhatsApp setup.
+Chosen public agency brand: **Sahas AI** (साहस = courage/boldness). Use **Sahas AI Business Automation Agency** as the explanatory public descriptor.
+
+## Current legal-name boundary
+
+The agency operates through **Chitrartha Enterprises**, the existing proprietorship. Until an official trade-name amendment and supporting registrations are confirmed, public material must describe Sahas AI as a **service brand of Chitrartha Enterprises** rather than claim that Sahas AI is already registered in Udyam, GST, Meta, or WhatsApp.
+
+The production website currently presents the public brand as **Sahas AI Business Automation Agency**. That display choice must not be treated as proof that GST, Udyam, bank, invoice, or Meta legal records have changed. Confirm each formal record separately before making that broader claim.
+
+The brand is chosen; the formal registration/trade-name status remains a follow-up item. See [[sahas-ai-website]], [[sahas-ai-website-production]], and [[whatsapp-api-onboarding]].
 
 ## Why (and what was rejected)
 The agency's whole product is "make businesses rank/findable on Google," so the name MUST be ownable — a coined/uncommon word, not a common one. Every meaningful common word or famous soundalike was already taken:
