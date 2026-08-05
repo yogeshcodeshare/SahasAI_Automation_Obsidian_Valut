@@ -5,6 +5,7 @@ tags: [knowledge, n8n, automation, infra]
 source: Claude research (n8n docs + web)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # n8n Self-Hosting for the Agency

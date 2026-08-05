@@ -5,6 +5,7 @@ tags: [client, manovedh, plan, delivery]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: emerging
 ---
 
 # Manovedh — Free First-Month Plan (draft, under discussion)

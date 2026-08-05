@@ -5,6 +5,7 @@ tags: [knowledge, vertical, coaching, pitch, sales]
 source: Claude research + planning conversation
 origin: ai
 author: claude-code
+maturity: emerging
 ---
 
 # Coaching Class Vertical — Pitch Playbook

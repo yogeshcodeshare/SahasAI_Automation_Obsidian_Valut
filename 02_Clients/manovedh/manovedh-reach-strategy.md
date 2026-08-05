@@ -5,6 +5,7 @@ tags: [client, manovedh, strategy, reach, mental-health]
 source: Claude planning conversation + client interview
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Manovedh — Reach-not-Conversion Strategy

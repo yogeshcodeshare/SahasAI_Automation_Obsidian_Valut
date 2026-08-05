@@ -5,6 +5,7 @@ tags: [gmb-sarathi, project, infra, keys]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: established
 ---
 
 # GMB Sarathi — Tech Setup, Keys, Blockers

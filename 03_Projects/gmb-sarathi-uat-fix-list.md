@@ -5,6 +5,7 @@ tags: [gmb-sarathi, project, uat, bugs]
 source: founder UAT 14 Jul 2026
 origin: ai
 author: claude-code
+maturity: established
 ---
 
 # GMB Sarathi — UAT Fix List

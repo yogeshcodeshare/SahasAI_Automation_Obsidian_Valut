@@ -5,6 +5,7 @@ tags: [knowledge, whatsapp, vendors, veblika, ghl]
 source: Claude research (vendor sites + web)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # WhatsApp Automation Vendors

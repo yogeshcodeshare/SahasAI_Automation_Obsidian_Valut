@@ -5,6 +5,7 @@ tags: [client, manovedh, reviews, mental-health, pattern]
 source: Claude planning conversation + client interview
 origin: ai
 author: claude-code
+maturity: emerging
 ---
 
 # Manovedh — Review Hesitancy Solution

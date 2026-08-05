@@ -5,6 +5,7 @@ tags: [pattern, safety, db-trigger, workflow, gmb-sarathi]
 source: GMB Sarathi P12 Optimization Sprint (Claude Code build)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Approve-before-publish + immutable baseline (manual-mode sprint)

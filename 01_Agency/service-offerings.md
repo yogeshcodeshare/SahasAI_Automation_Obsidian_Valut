@@ -5,6 +5,7 @@ tags: [agency, offerings, sop]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Service Offerings

@@ -5,6 +5,7 @@ tags: [pattern, feature-flag, safety, supabase, gmb-sarathi]
 source: GMB Sarathi CR-1 (Claude Code build)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Feature kill-switch (fail-safe OFF)

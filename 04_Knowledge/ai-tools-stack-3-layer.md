@@ -5,6 +5,7 @@ tags: [knowledge, ai-tools, n8n, hermes, strategy]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # AI Tools Stack — 3-Layer Model

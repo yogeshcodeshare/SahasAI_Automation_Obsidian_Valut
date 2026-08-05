@@ -5,6 +5,7 @@ tags: [knowledge, meta, whatsapp, verification]
 source: Claude research (Meta community + docs) + Sahas AI setup
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Meta Business Verification Notes

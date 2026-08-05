@@ -5,6 +5,7 @@ tags: [pattern, workflow, git, multi-agent, methodology, gmb-sarathi]
 source: GMB Sarathi 7-day build (Claude Code, MAIN agent)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Three-agent worktree + HANDOFF workflow

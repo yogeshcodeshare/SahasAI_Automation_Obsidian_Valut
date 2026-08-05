@@ -5,6 +5,7 @@ tags: [gmb-sarathi, project, build-status]
 source: Claude planning conversation (7-day sprint)
 origin: ai
 author: claude-code
+maturity: established
 ---
 
 # GMB Sarathi — Build Status

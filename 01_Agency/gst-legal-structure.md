@@ -5,6 +5,7 @@ tags: [agency, gst, legal, compliance]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: established
 ---
 
 # GST & Legal Structure

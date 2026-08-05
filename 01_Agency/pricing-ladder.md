@@ -5,6 +5,7 @@ tags: [agency, pricing]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: emerging
 ---
 
 # Pricing Ladder (tier-3 Karad; validate on first 3 sales calls)

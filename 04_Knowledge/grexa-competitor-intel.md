@@ -5,6 +5,7 @@ tags: [knowledge, competitor, grexa, gmb]
 source: Grexa website + prospect audit report
 origin: ai
 author: claude-code
+maturity: emerging
 ---
 
 # Grexa AI — Competitor Intel

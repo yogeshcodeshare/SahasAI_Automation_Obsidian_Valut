@@ -5,6 +5,7 @@ tags: [pattern, demo-data, testing, safety, gmb-sarathi]
 source: GMB Sarathi UAT-2 (Claude Code build)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Demo mode (deterministic synthetic generator)

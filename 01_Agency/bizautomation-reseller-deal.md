@@ -5,6 +5,7 @@ tags: [agency, vendors, bizautomation, ghl, veblika]
 source: Claude planning conversation
 origin: ai
 author: claude-code
+maturity: established
 ---
 
 # Bizautomation Reseller Deal

@@ -5,6 +5,7 @@ tags: [client, manovedh, first-client, gmb]
 source: Claude planning conversation + in-person meeting
 origin: ai
 author: claude-code
+maturity: established
 ---
 
 # Manovedh Hypnoclinic — Client Profile

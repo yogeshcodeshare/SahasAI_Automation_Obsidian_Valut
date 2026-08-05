@@ -5,6 +5,7 @@ tags: [pattern, cost-control, paid-api, safety, gmb-sarathi]
 source: GMB Sarathi SpendGuard (Claude Code build)
 origin: ai
 author: claude-code
+maturity: supported
 ---
 
 # Spend guard (paid-API cost control)
