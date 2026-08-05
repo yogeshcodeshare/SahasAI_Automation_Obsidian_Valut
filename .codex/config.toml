@@ -1,0 +1,10 @@
+# Codex MCP config for the Sahas AI vault.
+# The Obsidian "Local REST API with MCP" plugin serves this endpoint from inside Obsidian,
+# so Obsidian must be running for these tools to exist.
+#
+# The API key is NOT stored here — it is read from the OBSIDIAN_API_KEY environment
+# variable, so this file is safe to commit.
+
+[mcp_servers.obsidian]
+url = "http://127.0.0.1:27123/mcp/"
+bearer_token_env_var = "OBSIDIAN_API_KEY"
