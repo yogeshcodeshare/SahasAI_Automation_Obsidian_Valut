@@ -13,7 +13,7 @@ maturity: established
 > Not legal/tax advice — confirm with a Karad CA. Yogesh is salaried → agency runs under wife's proprietorship for privacy.
 
 ## The GST used
-- **GSTIN:** 27GZUPS7885C1Z9 (PAN GZUPS7885C)
+- **GSTIN:** 27GZUPS7885C1Z9 *(PAN deliberately not stored in the vault — read it from the GSTIN or your own records)*
 - **Legal Name:** BHAGYASHRI YOGESH MOHITE · **Constitution:** Proprietorship · **Status:** Active (reg 09/01/2026)
 - Trade name was CHITRARTHA ENTERPRISES (unused Amazon-retail plan) → to be amended to the Sahas AI brand (core amendment, REG-14, ~15 days).
 - **Udyam registered** as "Sahas AI Business Automation Agency" (enterprise name under wife's Aadhaar+PAN) — done Aug 2026, satisfies Veblika's requirement.

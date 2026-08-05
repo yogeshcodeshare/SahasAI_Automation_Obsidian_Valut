@@ -10,6 +10,21 @@ Any agent working here — Claude Code, Codex, Hermes — follows the rules belo
 4. **One idea per note.** Small, linkable notes beat long documents.
 5. **Never commit secrets.** API keys, tokens, passwords and client PII stay out. `.env`, `*.key`, `*.pem`, and `.obsidian/plugins/*/data.json` are gitignored — keep it that way.
 
+## Never store these in the vault
+Concrete list — this is not advisory. Five tools read this vault, including cloud services, so
+anything written here leaves your machine.
+
+- **PAN numbers** — never, including inside a GSTIN annotation. GSTIN alone is acceptable
+  (it is on your invoices anyway); PAN is an identity document number and is redundant here.
+- **Aadhaar numbers, bank account or UPI IDs**
+- API keys, tokens, passwords, `.env` contents, bearer tokens
+- **Client personal contact details** — personal phone numbers, personal email addresses, home
+  addresses, health information. A client note records business context, not a contact card;
+  contacts belong in the CRM. Business support lines published on a vendor's own website are fine.
+
+If source material contains one, leave it out of the note and tell the user. If you find one
+already in the vault, flag it — do not silently delete a note around it.
+
 ## Where things go
 | Folder | Put this here |
 |---|---|
