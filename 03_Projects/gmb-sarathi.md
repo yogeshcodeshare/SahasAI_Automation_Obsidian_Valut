@@ -50,3 +50,8 @@ logins). Built as a 7-day sprint with a 3-agent workflow (see [[three-agent-work
 ## Hard constraints (never violated)
 DataForSEO = only paid service · spend-guard on every paid call · no client passwords (OAuth /
 manager-access) · approve-before-publish · Devanagari everywhere · RLS enforced (anon blocked).
+
+## Companion records
+- [[gmb-sarathi-build-status]] - M0-M6 milestone status and remaining queue.
+- [[gmb-sarathi-tech-setup]] - repo, keys, Supabase migrations, blockers, Windows quirks.
+- [[gmb-sarathi-uat-fix-list]] - founder UAT findings.

@@ -63,3 +63,7 @@ Agent: claude-code
 ## [2026-08-05] lint | Backfill maturity across all pre-schema notes
 Added the maturity: field to 24 notes written before the field existed (2026-08-04). Founder approved: established for gst-legal-structure, bizautomation-reseller-deal, manovedh-profile, gmb-sarathi-build-status, gmb-sarathi-tech-setup, gmb-sarathi-uat-fix-list. emerging for pricing-ladder (its own text says validate on first 3 sales calls), manovedh-review-hesitancy, manovedh-free-month-plan, grexa-competitor-intel, coaching-class-vertical-playbook. Remainder supported. gmb-sarathi and the 5 GMB build-pattern notes defaulted to supported pending founder review - not self-promoted. Welcome.md and PROTOCOL.md left alone (not knowledge notes). Verified the earlier 19-note ingest (commit 912252d) landed complete: all on disk, tracked, indexed in MOC and folder indexes.
 Agent: claude-code
+
+## [2026-08-05] lint | Full vault pass
+Audited all 41 knowledge notes. Clean: every note listed in MOC.md, zero broken wikilinks, zero front-matter gaps, maturity present everywhere. Fixed 2 orphans by adding inbound links - gmb-sarathi now lists its three companion records, and whatsapp-lead-sop-8-stage links the shipped deliverables note. Verified commits 2576c84 (brand/website/WhatsApp onboarding, ChatGPT) and dca2b49 (website production record, Codex) both landed complete. Flagged for founder: the ChatGPT "Plan Sahas AI website build" session only READ the vault and wrote nothing, so its planning content is not captured.
+Agent: claude-code

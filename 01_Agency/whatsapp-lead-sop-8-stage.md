@@ -30,3 +30,4 @@ The lead spine (from the real-estate training case). Works for any business — 
 ## Applied
 - [[agency-automation-plan]] · [[coaching-class-vertical-playbook]]
 - Formalised via [[sop-agent-7-step-method]]; stages tracked in [[lead-stages-pipeline]]
+- Shipped artifacts documenting this SOP: [[whatsapp-automation-deliverables]]
