@@ -2,6 +2,8 @@
 
 Sahas AI itself: offerings, SOPs, pricing, and positioning.
 
+- [[agency-go-to-market-sequence]] — staged launch and reseller-to-own-stack review trigger
+
 - [[sahas-ai-overview]] — who/what/launch/expansion/philosophy
 - [[brand-name-sahas-ai]] — name decision (Sahas AI) + rejected options
 - [[sahas-ai-logo-direction]] — original logo direction and review guardrails

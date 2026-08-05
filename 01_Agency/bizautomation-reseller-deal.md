@@ -24,6 +24,12 @@ Bizautomation (Delhi, ~3 yrs, ~200 clients) mentors Yogesh and provides reseller
 3. Confirm Veblika WABA ownership: client's number should sit in CLIENT's Meta Business Manager (churn-safe), not Veblika/Bizautomation's.
 4. Confirm GHL sub-account price stays ₹1k as clients are added (per-account vs flat).
 
+## Review trigger — reseller rails vs own SaaS
+
+Remain on the reseller arrangement while Sahas AI validates demand and delivery. **Revisit the reseller-vs-own-SaaS question when: 5–8 stable paying clients AND written portability/ownership terms are in hand.**
+
+That review must confirm WABA ownership, client-data export, account migration, pricing-change notice, and the commercial cost of an independent agency stack. The open WABA ownership questions are tracked in [[whatsapp-api-onboarding]].
+
 ## Account reuse when a client leaves
 - **n8n** — fully yours; delete + reuse instantly (default layer for this reason).
 - **GHL** — delete sub-account (permanent after 24h) or pause; recreate from snapshot. No one-click wipe.

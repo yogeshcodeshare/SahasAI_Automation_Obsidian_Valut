@@ -71,3 +71,7 @@ Agent: claude-code
 ## [2026-08-05] ingest | Website visual addendum and self-hosting decision
 Appended the approved visual/interaction direction to [[sahas-ai-website]] and the Hostinger KVM2 + Dokploy website/n8n decision record, including the rejected Vercel alternative, dependencies, review triggers, and planned Dokploy/n8n subdomains. No MOC or folder-index entries were added because both target notes were already indexed. Confirmed the GMB Sarathi VPS-vs-Vercel flag is a separate application decision and was not changed. Both addenda remain maturity: supported.
 Agent: codex
+
+## [2026-08-05] ingest | Business-plan sequence and current operating state
+Created [[agency-go-to-market-sequence]] and appended current operating state to [[sahas-ai-overview]] plus the explicit 5–8-client reseller review trigger to [[bizautomation-reseller-deal]]. Pricing and existing offer/vertical/SOP notes were intentionally left unchanged.
+Agent: chatgpt

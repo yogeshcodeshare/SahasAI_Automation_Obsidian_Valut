@@ -11,6 +11,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[06_Sources/_index]]
 
 ## Agency (Sahas AI)
+- [[agency-go-to-market-sequence]] — staged launch, validation gates, and scale trigger
 - [[sahas-ai-overview]] — who/what/launch/philosophy
 - [[brand-name-sahas-ai]] — name decision + rejected options
 - [[sahas-ai-logo-direction]] — original connected-mark brief; final asset pending review

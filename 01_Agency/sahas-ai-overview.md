@@ -18,6 +18,15 @@ maturity: supported
 - **Expansion path:** Karad → Satara / Kolhapur → Pune / Mumbai.
 - **Name chosen:** "Sahas AI" (साहस = courage/boldness). See [[brand-name-sahas-ai]].
 
+## Current business-plan state (August 2026)
+
+- The public website is live; treat it as the agency's front door, not proof of formal trade-name changes. See [[sahas-ai-website-production]] and [[brand-name-sahas-ai]].
+- WhatsApp/Meta onboarding is in progress. The ownership and portability questions remain open in [[whatsapp-api-onboarding]].
+- Manovedh is a pilot/free-month opportunity, not recurring revenue until a paid agreement is confirmed. See [[manovedh-profile]] and [[manovedh-free-month-plan]].
+- DataForSEO is deliberately deferred. Do not include its deposit or live-call cost in the current operating budget; the GMB product continues in clearly labelled demo/synthetic mode until Yogesh explicitly re-enables it. See [[gmb-sarathi]] and [[feature-kill-switch-fail-safe-off]].
+
+The phased operating sequence is in [[agency-go-to-market-sequence]].
+
 ## Core services
 See [[service-offerings]]. Delivered mainly via the in-house tool [[gmb-sarathi]] + n8n + WhatsApp (Veblika/GHL).
 
