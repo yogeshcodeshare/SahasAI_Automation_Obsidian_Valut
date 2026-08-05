@@ -27,6 +27,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[manovedh-free-month-plan]] — free first-month delivery plan
 
 ## Projects
+- [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard
 - [[gmb-sarathi-build-status]] — M0–M6 status, MVP gate met, remaining
 - [[gmb-sarathi-tech-setup]] — repo, keys, migrations, blockers, Windows quirks

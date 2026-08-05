@@ -33,13 +33,19 @@ The frontend is a React 19 single-page application using CRACO. Its public conta
 - Production domains configured in Dokploy: `sahasai.in` and `www.sahasai.in`.
 - Both were configured to reach the Nginx container on port 80 and to use Let's Encrypt HTTPS.
 - The temporary `sslip.io` preview domain was deleted after custom domains were added.
-- Hostinger VPS firewall was configured to accept TCP ports 22, 80, and 443, then drop other inbound traffic.
+- Hostinger VPS ingress hardening was configured; detailed firewall rules are intentionally not stored in this vault.
 
-The firewall rules and HTTPS hosts were observed during setup, but are time-sensitive. Re-check certificate renewal, both hostnames, and that raw port 3000 is not publicly reachable after any VPS, Dokploy, DNS, or firewall change.
+Ingress controls and HTTPS hosts were observed during setup, but are time-sensitive. Re-check certificate renewal and both hostnames after any VPS, Dokploy, DNS, or firewall change.
 
 ## Important checkout warning
 
 The older local checkout at `C:\Yogesh - personal\Claude\Cluade Projects\Ai Automation\Sahas-AI-Website` was reviewed on 2026-08-05 and still contains the former public-name wording and uncommitted files. Treat it as a stale working copy, not as the approved production source. Before any further site work, locate the active `yogeshcodeshare/Sahas-AI-Website` checkout, pull `main`, verify the latest commit, and run the production checks again.
+
+## Deployment configuration boundary
+
+- The verified Dokploy source was the private GitHub repository on `main`, using the repository Dockerfile and Nginx container port 80.
+- Service environment fields were empty for this static frontend. Do not add environment files, credentials, or keys to the repository or this vault.
+- The release was manually started and verified in Dokploy. Do not assume automatic deployment from the Git trigger; confirm the live service setting before relying on it.
 
 ## Vault contradiction to resolve
 
@@ -50,23 +56,6 @@ The uncommitted companion draft [[sahas-ai-website]] describes the site as previ
 - [[sahas-ai-overview]] - agency positioning.
 - [[gst-legal-structure]] - legal/tax details requiring separate verification.
 
-## Addendum: self-hosting decision for the website and n8n (2026-08-05)
+## Hosting decision
 
-### Decision
-
-For the Sahas AI marketing website and self-hosted n8n, the selected production direction is the Hostinger KVM2 Ubuntu VPS with Dokploy. The website remains a static React build deployed through Dokploy; n8n is kept as a separate service. Planned hostnames include `dokploy.sahasai.in` for the Dokploy administration panel and `n8n.sahasai.in` for the n8n service. The GitHub repository is private and is connected to Dokploy for controlled deployment.
-
-### Rejected alternative and reason
-
-Vercel was rejected for this combined setup because it can host the static frontend but cannot replace the self-managed Dokploy and n8n services. Using Vercel would split the website and automation stack across providers, add another deployment/secret/ DNS boundary, and weaken the intended single-VPS operating model. This is a hosting decision for the website+n8n combination, not a resolution of the separate GMB Sarathi Playwright/PDF hosting question.
-
-### Depends on
-
-- The KVM2 VPS remains available at an acceptable cost and has sufficient capacity for the website, Dokploy, n8n, backups, and monitoring.
-- Dokploy remains maintained and suitable for the required private-repository deployment flow.
-- DNS, HTTPS renewal, access control, backups, and secret handling continue to be managed safely.
-- The website remains a static frontend and n8n remains the intended self-hosted automation layer.
-
-### Review triggers
-
-Reopen this decision if VPS cost or reliability changes materially, traffic or workflow volume requires horizontal scaling, Dokploy maintenance becomes burdensome, a CDN/edge deployment becomes necessary, or Playwright/PDF workloads create resource or isolation requirements. Review before adding client workloads that could exceed the current capacity assumptions.
+Hosting decision and rejected alternatives: [[decision-hostinger-kvm2-dokploy-website-n8n]].

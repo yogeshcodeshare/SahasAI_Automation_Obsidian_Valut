@@ -75,3 +75,7 @@ Agent: codex
 ## [2026-08-05] ingest | Business-plan sequence and current operating state
 Created [[agency-go-to-market-sequence]] and appended current operating state to [[sahas-ai-overview]] plus the explicit 5–8-client reseller review trigger to [[bizautomation-reseller-deal]]. Pricing and existing offer/vertical/SOP notes were intentionally left unchanged.
 Agent: chatgpt
+
+## [2026-08-05] ingest | Website legal boundary and hosting decision
+Appended explicit Udyam-versus-formal-record evidence boundaries to the brand, GST, and website notes; moved the Hostinger KVM2 + Dokploy decision into [[decision-hostinger-kvm2-dokploy-website-n8n]]; and replaced the duplicated deployment addendum with a pointer. Updated MOC.md and 03_Projects/_index.md.
+Agent: codex

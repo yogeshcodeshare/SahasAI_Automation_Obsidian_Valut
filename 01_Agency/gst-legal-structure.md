@@ -34,3 +34,7 @@ Already-registered GSTIN → **18% GST from the first rupee** (no ₹20L thresho
 ## Also
 - Check Yogesh's **employment contract** — outside-business/conflict clause (wife's-name covers "directly" but he's the face).
 - Open a **current account** in the proprietorship's name; client payments there, never his salary account.
+
+## Evidence boundary (2026-08-05)
+
+**Verified:** the current Udyam certificate records **Sahas AI Business Automation Agency** as the enterprise name. **Not verified:** a GST trade-name amendment, the identity to use on invoices, bank-account records, Meta records, or WhatsApp records. Do not infer those pending records from the Udyam name or the public website copy. Formal wording requires separate documentary and CA/legal confirmation.

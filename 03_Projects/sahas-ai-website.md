@@ -43,6 +43,10 @@ The public site is live at [sahasai.in](https://sahasai.in). The older local `Sa
 
 Related: [[brand-name-sahas-ai]], [[sahas-ai-logo-direction]], [[whatsapp-api-onboarding]], [[service-offerings]].
 
+## Public copy boundary (2026-08-05)
+
+This section supersedes the earlier interim-footer instruction for the live public website only. The approved live website displays **Sahas AI Business Automation Agency** and its corresponding copyright wording; it must not reintroduce the former service-brand footer unless the founder gives a new written instruction. This is a public-copy decision, not evidence of any GST, invoice, bank, Meta, or WhatsApp legal-record change. See [[brand-name-sahas-ai]] and [[gst-legal-structure]].
+
 ## Addendum: approved visual direction from website-planning review (2026-08-05)
 
 The founder's preferred direction is a premium editorial, scroll-led marketing site. The Spark Interact screenshot and insell.io were supplied as visual and content references only; the implementation must remain original and must not copy distinctive artwork, layouts, or marks.

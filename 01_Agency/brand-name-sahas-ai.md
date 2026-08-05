@@ -20,6 +20,10 @@ The production website currently presents the public brand as **Sahas AI Busines
 
 The brand is chosen; the formal registration/trade-name status remains a follow-up item. See [[sahas-ai-website]], [[sahas-ai-website-production]], and [[whatsapp-api-onboarding]].
 
+## Evidence boundary (2026-08-05)
+
+This section supersedes only the earlier Udyam-status wording above. **Verified:** the current Udyam certificate records **Sahas AI Business Automation Agency** as the enterprise name. **Not verified:** any GST trade-name amendment, invoicing identity, bank-account identity, Meta record, or WhatsApp record. The live website may use the approved public brand wording, but it must not present that display choice as evidence that those separate records changed.
+
 ## Why (and what was rejected)
 The agency's whole product is "make businesses rank/findable on Google," so the name MUST be ownable — a coined/uncommon word, not a common one. Every meaningful common word or famous soundalike was already taken:
 - ❌ **Sarathi** — collides with sarathi.parivahan.gov.in (national driving-licence portal)

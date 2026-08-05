@@ -11,3 +11,4 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[whatsapp-api-onboarding]] — Veblika/Meta setup project and verification prerequisites.
 - [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook.
 - [[whatsapp-automation-deliverables]] - the two HTML deliverables from the 2 Aug session.
+- [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers.
