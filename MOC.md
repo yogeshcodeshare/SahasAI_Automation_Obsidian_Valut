@@ -42,6 +42,20 @@ Home index for the vault. Links get added as content is ingested.
 - [[coaching-class-vertical-playbook]] — #1 vertical: pitch + objections
 - [[meta-business-verification-notes]] — verification timeline + status
 
+## WhatsApp automation offer
+- [[whatsapp-lead-sop-8-stage]] — the 8-stage lead spine; backbone of the WhatsApp offer
+- [[crm-and-field-model]] — masters, capture fields, generalised field groups
+- [[lead-stages-pipeline]] — stage dropdown, site-visit sub-statuses, maturity ladder
+- [[agency-automation-plan]] — the SOP applied to Sahas AI's own funnel
+- [[whatsapp-message-templates-mr-hi-en]] — tri-lingual approvable template library
+- [[agency-intake-form]] — agency lead capture field set
+- [[coaching-intake-form]] — coaching lead capture field set
+- [[client-onboarding-brief]] — reusable step-1 capture for any new client
+- [[whatsapp-api-pricing-model-india]] — Meta per-message costs; verify before quoting
+- [[sop-agent-7-step-method]] — the 7-step client-onboarding framework
+- [[training-lesson-3-sop-crm-logic]] — Lesson 3 takeaways (trainer's view, unvalidated)
+- [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
+
 ## Patterns & learnings (from GMB Sarathi)
 - [[feature-kill-switch-fail-safe-off]]
 - [[demo-mode-synthetic-audit-generator]]

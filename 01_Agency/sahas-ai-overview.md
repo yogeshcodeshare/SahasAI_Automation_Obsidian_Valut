@@ -27,3 +27,10 @@ See [[service-offerings]]. Delivered mainly via the in-house tool [[gmb-sarathi]
 - Partner: **Bizautomation (Delhi)** mentors + provides reseller access (GHL/Veblika/VPS). See [[bizautomation-reseller-deal]].
 
 Monthly burn pre-revenue ≈ ₹3,285/mo + one-time DataForSEO ₹5,000. One ₹2,999 client covers costs; two = profitable.
+
+## Positioning & delivery guardrails — WhatsApp automation
+*Added 2026-08-05 from Claude Desktop (AI Automation project).*
+
+For the WhatsApp-automation offer, positioning rests on: Marathi-aware & local; **approve-before-publish** (see [[approve-before-publish-immutable-baseline]]); **no client passwords, ever**; "we save more time than we cost"; and we **dogfood** — Sahas AI runs its own lead funnel on the same system (see [[agency-automation-plan]]).
+
+Offer surface: WhatsApp automation on [[whatsapp-automation-vendors|Veblika]], delivered via the 8-stage SOP ([[whatsapp-lead-sop-8-stage]]). Target verticals start with coaching classes ([[coaching-class-vertical-playbook]]).

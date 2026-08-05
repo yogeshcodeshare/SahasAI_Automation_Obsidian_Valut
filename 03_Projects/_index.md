@@ -10,3 +10,4 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[sahas-ai-website]] — agency marketing website, production readiness, and source of truth.
 - [[whatsapp-api-onboarding]] — Veblika/Meta setup project and verification prerequisites.
 - [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook.
+- [[whatsapp-automation-deliverables]] - the two HTML deliverables from the 2 Aug session.

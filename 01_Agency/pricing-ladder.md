@@ -25,3 +25,14 @@ Core margin lesson: never resell software above vendor cost. Own-stack (GMB Sara
 
 ## GST note
 Because the agency runs on an already-registered GSTIN, **18% GST applies from the first rupee** (no ₹20L threshold cushion). Most Karad clients are unregistered → can't claim ITC → price inclusive or explain. See [[gst-legal-structure]].
+
+## Meta per-message cost sits outside our price
+*Added 2026-08-05 from Claude Desktop (AI Automation project).*
+
+The WhatsApp Automation line above (₹2,999/mo + ₹4,999 setup) is **our** fee. Meta's per-message charges are separate and small — roughly ₹470/mo for a coaching class handling ~100 enquiries. See [[whatsapp-api-pricing-model-india]] (rates change; verify before quoting).
+
+Two rules that follow:
+- **Anchor the price to the outcome** (fewer no-shows, full batches), never to per-message cost. A client who compares us to ₹0.13 a message has been anchored wrong.
+- **Our margin is in setup + retainer, not messages.** Don't mark up Meta traffic — it invites the client to price-shop the BSP.
+
+How the charges reach us (direct-to-client vs passed through the reseller) is still open — see [[whatsapp-api-onboarding]] and [[bizautomation-reseller-deal]].

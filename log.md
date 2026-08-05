@@ -55,3 +55,7 @@ Agent: codex
 Reconciled the architecture and brand-boundary notes with the production deployment record: the public site is live, but the formal legal/trade-name status is still tracked separately.
 Agent: codex
 
+
+## [2026-08-05] ingest | WhatsApp automation SOP, CRM model, forms and templates
+Ingested 12 new notes + 5 append-sections drafted in Claude Desktop (which has no vault write access). New: whatsapp-lead-sop-8-stage, crm-and-field-model, lead-stages-pipeline, agency-automation-plan, whatsapp-message-templates-mr-hi-en, agency-intake-form, coaching-intake-form, client-onboarding-brief (01_Agency); whatsapp-api-pricing-model-india, sop-agent-7-step-method, training-lesson-3-sop-crm-logic (04_Knowledge); whatsapp-automation-deliverables (03_Projects). Appended to sahas-ai-overview, pricing-ladder, ai-tools-stack-3-layer, coaching-class-vertical-playbook, whatsapp-automation-vendors. Desktop's overlap map was stale (built before codex added whatsapp-api-onboarding); the Veblika append was trimmed to capacity/building-blocks and cross-linked instead of restating onboarding status. The pricing-ladder append was trimmed to avoid duplicating the existing price table. All notes maturity: supported except whatsapp-automation-deliverables (established, per founder). ai-tools-stack-3-layer promotion still pending founder confirmation. MOC.md and three _index.md updated.
+Agent: claude-code

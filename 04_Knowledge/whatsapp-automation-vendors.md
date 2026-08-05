@@ -24,3 +24,14 @@ Marketing ₹1.09, Utility ₹0.145, Service free. Pass to client.
 
 ## Model that makes churn free
 Client owns their WABA + number in THEIR Meta Business Manager; you're admin; they pay BSP/Meta directly; you charge setup + management → zero stranded cost, no ToS risk. Matches the "no client passwords" rule ([[sahas-ai-overview]]).
+
+## Veblika — plan capacity & building blocks
+*Added 2026-08-05 from Claude Desktop (AI Automation project).*
+
+Commercial terms: [[bizautomation-reseller-deal]]. Account setup, ownership checks and document pack: [[whatsapp-api-onboarding]]. Per-message model paid by the client: [[whatsapp-api-pricing-model-india]].
+
+**Plan capacity:** unlimited API/webhooks - 100 team members - 5 lakh contacts - tags - unlimited bots (100 flows).
+
+**Building blocks:** bot flows - approved templates ([[whatsapp-message-templates-mr-hi-en]]) - tags - broadcasts - team inbox (handoff) - WhatsApp Flows (forms) - Click-to-WhatsApp ads - analytics.
+
+These are the primitives the module SOPs assemble; see [[agency-automation-plan]] and [[coaching-class-vertical-playbook]].

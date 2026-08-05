@@ -25,3 +25,21 @@ Open: "सर, मी तुमच्या क्लासचं Google वर 
 
 ## Pricing
 "Admission Machine" ₹4,999/mo or "Season Sprint" ₹19,999 (Feb–June) + ₹1,999/mo off-season. See [[pricing-ladder]].
+
+## WhatsApp automation module set for coaching
+*Added 2026-08-05 from Claude Desktop (AI Automation project).*
+
+Applies [[whatsapp-lead-sop-8-stage]] to coaching. Lead = parent/student; intake via [[coaching-intake-form]]; fields -> [[crm-and-field-model]].
+
+**Admissions funnel:** greeting bot -> qualify (std/subjects/board/medium/area) -> batch card + toppers image + free-demo offer -> book demo (Flow) -> 24h/1h reminders -> post-demo "ready to enroll?" -> fee pay link -> welcome.
+
+**Everyday parent automations (retainer goldmine, mostly Utility):** fee-installment reminders - absent/attendance alerts - test schedule & results cards - new-batch broadcasts (Marketing) - holiday/timing notices - PTM scheduling.
+
+**Module SOPs (numbered):**
+- *Qualify + Demo Booking:* msg (free) -> Veblika bot Q&A -> n8n -> Student Master (New Lead) -> batch card + demo offer -> Flow books demo -> n8n Calendar + Stage=Demo Scheduled -> reminders -> *booked & logged*.
+- *Fee Reminder:* n8n checks Fee Master daily (due in 3 days) -> Veblika utility + pay link -> status update -> escalate if unpaid -> *faster collections*.
+- *Attendance Alert:* faculty marks absent -> n8n evening sweep -> Veblika utility to parent -> *same-day trust*.
+- *Result Broadcast:* marks entered -> n8n -> Veblika utility marks-card -> *transparent results*.
+- *New-Batch Campaign:* segment past enquiries -> Veblika marketing broadcast -> interest routes into demo booking -> *batches filled cheaply*.
+
+Templates: [[whatsapp-message-templates-mr-hi-en]]. Per-message costs: [[whatsapp-api-pricing-model-india]].

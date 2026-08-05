@@ -16,3 +16,8 @@ Reference material, how-tos, research, and saved learnings.
 - [[spend-guard-paid-api-cost-control]] — atomic reserve/settle daily cap for paid APIs.
 - [[three-agent-worktree-handoff-workflow]] — parallel-agent build methodology (MAIN integrator + HANDOFF).
 - [[approve-before-publish-immutable-baseline]] — manual-mode safety: no auto-writes, human tap, DB-enforced baseline.
+
+## WhatsApp automation reference (added 2026-08-05)
+- [[whatsapp-api-pricing-model-india]] - Meta per-message categories; verify rates before quoting.
+- [[sop-agent-7-step-method]] - the 7-step client-onboarding framework.
+- [[training-lesson-3-sop-crm-logic]] - Lesson 3 takeaways (trainer's view, not yet validated).
