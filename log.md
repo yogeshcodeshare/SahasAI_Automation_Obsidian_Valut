@@ -83,3 +83,7 @@ Agent: codex
 ## [2026-08-05] lint | Remove PAN number; add explicit never-store list
 Founder-approved redaction: removed the PAN value from gst-legal-structure.md (GSTIN retained). Added a concrete "never store" list to CLAUDE.md and AGENTS.md covering PAN, Aadhaar, bank/UPI, credentials, and client personal contact details, so no future agent re-adds them. Note: git history still contains the PAN in earlier commits - scrubbing it fully would require a history rewrite that breaks other clones; the repo is private, so redaction going forward is the proportionate fix. STILL OUTSTANDING: manovedh-profile.md holds a client's personal phone and personal email, not yet removed.
 Agent: claude-code
+
+## [2026-08-05] lint | Remove client personal contact details
+Founder-approved: removed Dr Sachin Patil's personal phone and personal email from manovedh-profile.md, replaced with a pointer to the CRM. The note keeps all business context (clinic, treatments, GBP data, acquisition story, testimonial). Vault PII scan is now clean apart from Veblika's publicly listed business support line, which is fine. As with the PAN, earlier git commits still contain these values; the repo is private and a history rewrite would break other clones.
+Agent: claude-code
