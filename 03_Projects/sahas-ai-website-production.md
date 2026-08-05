@@ -49,3 +49,24 @@ The uncommitted companion draft [[sahas-ai-website]] describes the site as previ
 
 - [[sahas-ai-overview]] - agency positioning.
 - [[gst-legal-structure]] - legal/tax details requiring separate verification.
+
+## Addendum: self-hosting decision for the website and n8n (2026-08-05)
+
+### Decision
+
+For the Sahas AI marketing website and self-hosted n8n, the selected production direction is the Hostinger KVM2 Ubuntu VPS with Dokploy. The website remains a static React build deployed through Dokploy; n8n is kept as a separate service. Planned hostnames include `dokploy.sahasai.in` for the Dokploy administration panel and `n8n.sahasai.in` for the n8n service. The GitHub repository is private and is connected to Dokploy for controlled deployment.
+
+### Rejected alternative and reason
+
+Vercel was rejected for this combined setup because it can host the static frontend but cannot replace the self-managed Dokploy and n8n services. Using Vercel would split the website and automation stack across providers, add another deployment/secret/ DNS boundary, and weaken the intended single-VPS operating model. This is a hosting decision for the website+n8n combination, not a resolution of the separate GMB Sarathi Playwright/PDF hosting question.
+
+### Depends on
+
+- The KVM2 VPS remains available at an acceptable cost and has sufficient capacity for the website, Dokploy, n8n, backups, and monitoring.
+- Dokploy remains maintained and suitable for the required private-repository deployment flow.
+- DNS, HTTPS renewal, access control, backups, and secret handling continue to be managed safely.
+- The website remains a static frontend and n8n remains the intended self-hosted automation layer.
+
+### Review triggers
+
+Reopen this decision if VPS cost or reliability changes materially, traffic or workflow volume requires horizontal scaling, Dokploy maintenance becomes burdensome, a CDN/edge deployment becomes necessary, or Playwright/PDF workloads create resource or isolation requirements. Review before adding client workloads that could exceed the current capacity assumptions.

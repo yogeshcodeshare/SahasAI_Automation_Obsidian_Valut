@@ -42,3 +42,15 @@ The public site is live at [sahasai.in](https://sahasai.in). The older local `Sa
 4. Use the live website in the Meta/Veblika business-verification package.
 
 Related: [[brand-name-sahas-ai]], [[sahas-ai-logo-direction]], [[whatsapp-api-onboarding]], [[service-offerings]].
+
+## Addendum: approved visual direction from website-planning review (2026-08-05)
+
+The founder's preferred direction is a premium editorial, scroll-led marketing site. The Spark Interact screenshot and insell.io were supplied as visual and content references only; the implementation must remain original and must not copy distinctive artwork, layouts, or marks.
+
+- Use a dark ink/green hero and CTA sections, warm cream content sections, and a restrained saffron/orange accent.
+- Use a professional display face paired with a highly readable sans-serif body face, with strong hierarchy and generous whitespace.
+- Keep the home page structured around the three practical systems: **Get found on Google**, **Reply faster on WhatsApp**, and **Remove repetitive work**.
+- The “Get found on Google” visual should use the founder-supplied static Karad map image as a subdued background layer, with a clear location marker and business-card overlay; it must remain legible and decorative rather than imply live Google data.
+- The WhatsApp section should show an understandable mobile conversation mock-up, and the repetitive-work section should show a centered, readable n8n-style workflow path with nodes, approval state, and a clear completion signal.
+- Add tasteful scroll-reveal, path-drawing, and staggered-card motion with `prefers-reduced-motion` support. Animations must explain the workflow rather than distract from the CTA.
+- Maintain responsive mobile layouts, accessible contrast, keyboard navigation, and working links to Services, About, Contact, Privacy Policy, and Terms.

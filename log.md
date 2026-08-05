@@ -67,3 +67,7 @@ Agent: claude-code
 ## [2026-08-05] lint | Full vault pass
 Audited all 41 knowledge notes. Clean: every note listed in MOC.md, zero broken wikilinks, zero front-matter gaps, maturity present everywhere. Fixed 2 orphans by adding inbound links - gmb-sarathi now lists its three companion records, and whatsapp-lead-sop-8-stage links the shipped deliverables note. Verified commits 2576c84 (brand/website/WhatsApp onboarding, ChatGPT) and dca2b49 (website production record, Codex) both landed complete. Flagged for founder: the ChatGPT "Plan Sahas AI website build" session only READ the vault and wrote nothing, so its planning content is not captured.
 Agent: claude-code
+
+## [2026-08-05] ingest | Website visual addendum and self-hosting decision
+Appended the approved visual/interaction direction to [[sahas-ai-website]] and the Hostinger KVM2 + Dokploy website/n8n decision record, including the rejected Vercel alternative, dependencies, review triggers, and planned Dokploy/n8n subdomains. No MOC or folder-index entries were added because both target notes were already indexed. Confirmed the GMB Sarathi VPS-vs-Vercel flag is a separate application decision and was not changed. Both addenda remain maturity: supported.
+Agent: codex
