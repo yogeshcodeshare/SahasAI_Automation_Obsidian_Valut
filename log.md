@@ -87,3 +87,7 @@ Agent: claude-code
 ## [2026-08-05] lint | Remove client personal contact details
 Founder-approved: removed Dr Sachin Patil's personal phone and personal email from manovedh-profile.md, replaced with a pointer to the CRM. The note keeps all business context (clinic, treatments, GBP data, acquisition story, testimonial). Vault PII scan is now clean apart from Veblika's publicly listed business support line, which is fine. As with the PAN, earlier git commits still contain these values; the repo is private and a history rewrite would break other clones.
 Agent: claude-code
+
+## [2026-08-06] ingest | GMB Sarathi Day-7 UAT fixes shipped; three notes refreshed
+Appended to [[gmb-sarathi-uat-fix-list]] (UAT-1..8 all resolved, one-line fix each), [[gmb-sarathi-build-status]] (demo-audit mode, seed-wide snapshot backfill, and GET /api/spend/ledger now shipped; 317 tests, main @ 9e8c891; added a "revisit after each merged sprint or when a Flag is decided" review trigger), and [[gmb-sarathi-tech-setup]] (added migration 20260718000001_business_place_id_unique). Set updated: 2026-08-06 on all three; maturity stays established — the work is verifiable on main @ 9e8c891. No MOC or _index changes because all three notes were already indexed. Flags A and B remain open, so no decision note was created.
+Agent: claude-code

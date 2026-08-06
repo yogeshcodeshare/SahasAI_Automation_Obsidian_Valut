@@ -1,6 +1,7 @@
 ---
 title: GMB Sarathi — Tech Setup, Keys, Blockers
 created: 2026-08-02
+updated: 2026-08-06
 tags: [gmb-sarathi, project, infra, keys]
 source: Claude planning conversation
 origin: ai
@@ -20,7 +21,7 @@ Companion to [[gmb-sarathi]] and [[gmb-sarathi-build-status]]. No secrets stored
 DataForSEO login/pw, Supabase URL+publishable+secret, Groq, PSI, Google OAuth (Testing mode), Cloudflare Turnstile, FEATURE_PDF=on. Deferred: OpenRouter (Groq-only accepted), WhatsApp (Veblika pending).
 
 ## Supabase migrations applied (in order)
-init_schema, seed, spend_functions, grants (fixed RLS-without-GRANTs bug), grid_top_ranks, is_demo, ai_fixes_type, dataforseo_live_enabled (CR-1), sprint_p12_hardening (baseline immutability trigger).
+init_schema, seed, spend_functions, grants (fixed RLS-without-GRANTs bug), grid_top_ranks, is_demo, ai_fixes_type, dataforseo_live_enabled (CR-1), sprint_p12_hardening (baseline immutability trigger), business_place_id_unique (`20260718000001` — place_id + cid partial-unique, UAT-6 dup-row guard; added 2026-08-06).
 
 ## Externally-gated blockers (NOT bugs — waiting on outside world)
 1. **DataForSEO UNVERIFIED** → paid endpoints 403 (40104). Needs a **$50 deposit** to activate (client DEFERRED). Everything gated behind CR-1 (OFF). Unlocks live audits/grids/competitor data.
