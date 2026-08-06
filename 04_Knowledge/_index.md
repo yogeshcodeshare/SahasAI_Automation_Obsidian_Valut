@@ -21,3 +21,10 @@ Reference material, how-tos, research, and saved learnings.
 - [[whatsapp-api-pricing-model-india]] - Meta per-message categories; verify rates before quoting.
 - [[sop-agent-7-step-method]] - the 7-step client-onboarding framework.
 - [[training-lesson-3-sop-crm-logic]] - Lesson 3 takeaways (trainer's view, not yet validated).
+
+## WhatsApp automation reference (added 2026-08-06, Lesson 4)
+- [[training-lesson-4-tagging-contacts-compliance]] - Lesson 4 takeaways; the tag-vs-custom-field distinction.
+- [[whatsapp-marketing-capping-and-deliverability]] - Meta's per-user daily marketing cap; 3-5% normal failure.
+- [[whatsapp-number-safety-warm-up]] - protect the number: no cold broadcasts, warm up 100-200 at a time.
+- [[whatsapp-tag-numbering-convention]] - numbered stage tags, and when a tag beats a custom field.
+- [[bizautomation-contact-filtering-and-import]] - filter logic, bulk actions, CSV country-code rule.
