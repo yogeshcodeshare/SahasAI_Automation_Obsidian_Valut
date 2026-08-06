@@ -46,6 +46,7 @@ Every note starts with front-matter:
 ---
 title: Human readable title
 created: YYYY-MM-DD
+updated: YYYY-MM-DD          # only when you append to or revise an existing note
 tags: [topic, client-name]
 source: where this came from (URL, chat export, conversation, person)
 origin: ai | human          # who authored this note
@@ -73,6 +74,11 @@ hypothesis look identical to the next agent that reads them.
 | `supported` | Good evidence, not formally verified | vendor pricing from their site, UAT findings |
 | `emerging` | Early signal, could change | competitor intel, a vertical that looks promising |
 | `theoretical` | Hypothesis or untested plan | a pitch angle nobody has tried yet |
+
+**`created:` never changes.** When you append to or revise an existing note, set `updated:` to
+today. A note whose `updated:` is far behind the work it describes is the main signal a lint or
+reweave pass looks for — an `established` note can still go stale, and staleness is not the same
+as being wrong.
 
 Default to `supported` when unsure. **Only Yogesh's confirmation makes something
 `established`** — an agent must never promote its own inference to `established`. When you
