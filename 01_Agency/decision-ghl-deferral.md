@@ -1,4 +1,3 @@
-<!-- INGEST: NEW -> 01_Agency -->
 ---
 title: Decision — Defer GoHighLevel; run on Veblika + n8n + Sheets
 created: 2026-08-06

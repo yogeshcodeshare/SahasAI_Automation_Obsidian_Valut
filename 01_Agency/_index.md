@@ -21,3 +21,4 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[agency-intake-form]] - agency lead capture field set.
 - [[coaching-intake-form]] - coaching lead capture field set.
 - [[client-onboarding-brief]] - reusable step-1 capture for any new client.
+- [[decision-ghl-deferral]] - #decision: defer GoHighLevel, run Veblika + n8n + Sheets; review triggers recorded.

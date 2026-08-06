@@ -12,6 +12,7 @@ Home index for the vault. Links get added as content is ingested.
 
 ## Agency (Sahas AI)
 - [[agency-go-to-market-sequence]] — staged launch, validation gates, and scale trigger
+- [[decision-ghl-deferral]] — #decision: defer GoHighLevel, run Veblika + n8n + Sheets (awaiting founder confirmation)
 - [[sahas-ai-overview]] — who/what/launch/philosophy
 - [[brand-name-sahas-ai]] — name decision + rejected options
 - [[sahas-ai-logo-direction]] — original connected-mark brief; final asset pending review
