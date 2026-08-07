@@ -1,6 +1,7 @@
 ---
 title: Training — Lesson 4 (Compliance, Tagging & Contact Management)
 created: 2026-08-06
+updated: 2026-08-06
 tags: [training, whatsapp, tagging, crm, compliance, knowledge]
 source: Class 4 recording — "WhatsApp Marketing Compliance, Tagging & Contact Management" (39:03)
 origin: ai
@@ -35,7 +36,7 @@ If you only want a count of how many leads sit at a stage, the field is enough. 
 
 ## Automation vs AI
 
-Rule-based automation is predictable by design — it does exactly what you configured, every time. AI carries roughly 2–10% variability in exchange for handling what you cannot enumerate in advance. The deciding question: if you know every possible input, automate; if you do not (an open-ended chatbot), use AI. Understand the process manually first — you cannot automate what you do not yet understand.
+Rule-based automation is predictable by design — it does exactly what you configured, every time. AI carries roughly 2–10% variability in exchange for handling what you cannot enumerate in advance. The trainer draws this as a whiteboard progression — **SOP → Automation → AI** → [[sop-automation-ai-progression]]. The deciding question: if you know every possible input, automate; if you do not (an open-ended chatbot), use AI. Understand the process manually first — you cannot automate what you do not yet understand.
 
 ## Rule the trainer repeated three times
 
@@ -46,3 +47,7 @@ Every stage in your pipeline **must exist as a tag**. Keeping stages as a custom
 Create dummy contacts and work them in the Inbox · update custom fields from both sides and confirm they stay in sync · create notes · add the team under Settings → Team, including both front-end and back-end staff because task-management automation depends on it · create the numbered stage tags.
 
 Next lesson: WhatsApp Templates and WhatsApp Forms.
+
+## Course context
+
+Lesson 4 of a 12-lesson module. Assumes lesson 3; depends on lesson 5 for the templates every broadcast here sends. Full arc, platform and the 39:03-vs-50:38 recording caveat in [[whatsapp-course-curriculum-map]].

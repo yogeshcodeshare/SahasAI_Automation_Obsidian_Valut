@@ -28,3 +28,5 @@ Reference material, how-tos, research, and saved learnings.
 - [[whatsapp-number-safety-warm-up]] - protect the number: no cold broadcasts, warm up 100-200 at a time.
 - [[whatsapp-tag-numbering-convention]] - numbered stage tags, and when a tag beats a custom field.
 - [[bizautomation-contact-filtering-and-import]] - filter logic, bulk actions, CSV country-code rule.
+- [[sop-automation-ai-progression]] - the whiteboard model: SOP first, automation second, AI last.
+- [[whatsapp-course-curriculum-map]] - the 12-lesson source course and what each lesson assumes.

@@ -62,6 +62,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[whatsapp-number-safety-warm-up]] — never cold-broadcast; 100–200 start, 5,000 session ceiling
 - [[whatsapp-tag-numbering-convention]] — number your stage tags (1.1, 1.2…) or they sort alphabetically
 - [[bizautomation-contact-filtering-and-import]] — OR-in-group / AND-between-groups, bulk actions, CSV rules
+- [[sop-automation-ai-progression]] — SOP → Automation → AI; why AI is never the first step
+- [[whatsapp-course-curriculum-map]] — the 12-lesson module, what each lesson assumes, recording caveat
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 
 ## Patterns & learnings (from GMB Sarathi)
