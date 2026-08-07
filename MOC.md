@@ -64,6 +64,10 @@ Home index for the vault. Links get added as content is ingested.
 - [[bizautomation-contact-filtering-and-import]] — OR-in-group / AND-between-groups, bulk actions, CSV rules
 - [[sop-automation-ai-progression]] — SOP → Automation → AI; why AI is never the first step
 - [[whatsapp-course-curriculum-map]] — the 12-lesson module, what each lesson assumes, recording caveat
+- [[training-lesson-5-templates-mastery]] — Lesson 5 takeaways: templates are the only way to broadcast
+- [[whatsapp-template-anatomy]] — header/body/footer, the four footer actions, every character limit
+- [[whatsapp-template-categories-and-approval]] — marketing/utility/auth × general/carousel, and the approval loop
+- [[compress-media-before-upload]] — 1.79 MB → 358 KB; why a heavy image costs you a broadcast
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 
 ## Patterns & learnings (from GMB Sarathi)

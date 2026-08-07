@@ -1,6 +1,7 @@
 ---
 title: WhatsApp Automation Course — Curriculum Map
 created: 2026-08-06
+updated: 2026-08-07
 tags: [training, whatsapp, curriculum, reference, knowledge]
 source: Course platform sidebar, read from Class 4 recording frames
 origin: ai
@@ -26,7 +27,7 @@ Where each training note sits in the source course, so a reader knows what a les
 |---|---|---|
 | 3 | Designing SOPs & Sales Pipelines with WhatsApp Automation | [[training-lesson-3-sop-crm-logic]] |
 | 4 | WhatsApp Marketing Compliance, Tagging & Contact Management | [[training-lesson-4-tagging-contacts-compliance]] |
-| 5 | WhatsApp Templates Mastery: Text, Media, CTA & Quick Replies | — |
+| 5 | WhatsApp Templates Mastery: Text, Media, CTA & Quick Replies | [[training-lesson-5-templates-mastery]] |
 | 6 | WhatsApp Catalog & Payments: Selling Directly on WhatsApp | — |
 | 7 | Building WhatsApp Forms with Templates and JSON code | — |
 | 8 | Workflow Automation vs AI Automation in WhatsApp | — |

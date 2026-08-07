@@ -30,3 +30,9 @@ Reference material, how-tos, research, and saved learnings.
 - [[bizautomation-contact-filtering-and-import]] - filter logic, bulk actions, CSV country-code rule.
 - [[sop-automation-ai-progression]] - the whiteboard model: SOP first, automation second, AI last.
 - [[whatsapp-course-curriculum-map]] - the 12-lesson source course and what each lesson assumes.
+
+## WhatsApp templates reference (added 2026-08-07, Lesson 5)
+- [[training-lesson-5-templates-mastery]] - Lesson 5 takeaways; templates are the only broadcast route.
+- [[whatsapp-template-anatomy]] - the three parts, four footer actions, and every stated limit.
+- [[whatsapp-template-categories-and-approval]] - the category x structure matrix and the approval loop.
+- [[compress-media-before-upload]] - compress before upload; 81% saved with no quality loss.
