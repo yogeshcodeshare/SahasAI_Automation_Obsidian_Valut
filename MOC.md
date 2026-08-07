@@ -73,6 +73,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[meta-business-portfolio-map]] — what lives where in business.facebook.com settings
 - [[whatsapp-api-billing-credit-line]] — no prepaid; a card at Meta before any marketing message sends
 - [[whatsapp-payment-configuration-india]] — gateways, gateway-generated UPI only, and the payment-link shortcut
+- [[training-lesson-7-whatsapp-forms]] — Lesson 7 takeaways: forms are how data enters the system
+- [[whatsapp-forms-builder-reference]] — three build methods, field types, limits, rejection rules
+- [[whatsapp-forms-json-portability]] — build a form library once, deploy per client in seconds
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 
 ## Patterns & learnings (from GMB Sarathi)

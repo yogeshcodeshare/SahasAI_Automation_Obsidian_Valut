@@ -43,3 +43,8 @@ Reference material, how-tos, research, and saved learnings.
 - [[meta-business-portfolio-map]] - the settings window: people, partners, accounts, WhatsApp account.
 - [[whatsapp-api-billing-credit-line]] - credit line not prepaid; the onboarding blocker.
 - [[whatsapp-payment-configuration-india]] - supported gateways and the payment-link alternative.
+
+## WhatsApp forms reference (added 2026-08-07, Lesson 7)
+- [[training-lesson-7-whatsapp-forms]] - Lesson 7 takeaways; forms close the data-capture loop.
+- [[whatsapp-forms-builder-reference]] - the three build methods, every field type and limit.
+- [[whatsapp-forms-json-portability]] - export as JSON, redeploy per client; the agency practice.
