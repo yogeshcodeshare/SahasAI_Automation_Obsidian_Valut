@@ -48,3 +48,9 @@ Reference material, how-tos, research, and saved learnings.
 - [[training-lesson-7-whatsapp-forms]] - Lesson 7 takeaways; forms close the data-capture loop.
 - [[whatsapp-forms-builder-reference]] - the three build methods, every field type and limit.
 - [[whatsapp-forms-json-portability]] - export as JSON, redeploy per client; the agency practice.
+
+## Workflow vs AI automation (added 2026-08-07, Lesson 8)
+- [[training-lesson-8-workflow-vs-ai-automation]] - the distinction, and where each belongs.
+- [[automation-trigger-and-action]] - trigger vs action; transfers to every builder.
+- [[ai-agent-five-components]] - the five parts of any AI agent, and why memory needs a key.
+- [[whatsapp-chatbot-builder-reference]] - every node, every limit, the keyword-reuse pattern.

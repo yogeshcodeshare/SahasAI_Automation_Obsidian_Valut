@@ -30,7 +30,7 @@ Where each training note sits in the source course, so a reader knows what a les
 | 5 | WhatsApp Templates Mastery: Text, Media, CTA & Quick Replies | [[training-lesson-5-templates-mastery]] |
 | 6 | WhatsApp Catalog & Payments: Selling Directly on WhatsApp | [[training-lesson-6-catalog-payments]] |
 | 7 | Building WhatsApp Forms with Templates and JSON code | [[training-lesson-7-whatsapp-forms]] |
-| 8 | Workflow Automation vs AI Automation in WhatsApp | — |
+| 8 | Workflow Automation vs AI Automation in WhatsApp | [[training-lesson-8-workflow-vs-ai-automation]] |
 | 9 | From Welcome Message to Appointment Booking: WhatsApp Chatbot Design | — |
 | 10 | Lead Capturing, Management, Segmentation & Bulk Broadcasting | — |
 

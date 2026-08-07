@@ -1,6 +1,7 @@
 ---
 title: SOP → Automation → AI (the progression)
 created: 2026-08-06
+updated: 2026-08-07
 tags: [automation, ai, sop, method, knowledge]
 source: Class 4 recording — whiteboard drawn at 05:25–06:16
 origin: ai
@@ -42,6 +43,16 @@ The deciding question: **do you know every possible input?** If yes, automate. I
 ## Where this matters commercially
 
 It is a sequencing argument to use in a sales conversation. A client asking for "an AI chatbot" on day one usually has no SOP, which means there is nothing to automate and nothing for the AI to be measured against. Selling the SOP and automation first is not upselling — it is the only order that works.
+
+## The boundary rule (added from Lesson 8)
+
+Lesson 8 supplies the rule this note was missing. The progression above gives the **order**; this gives the **boundary**:
+
+> Where workflow automation can be set up, AI is not needed. AI belongs where workflow automation cannot reach.
+
+The trainer states it twice. It pairs with the deciding question already recorded here — *do you know every possible input?* — and with his own honest account of where a defined workflow runs out: you can offer four, five, maybe ten menu options, but a customer can ask anything.
+
+Full treatment: [[training-lesson-8-workflow-vs-ai-automation]]. The agent's internals are at [[ai-agent-five-components]].
 
 Covered in depth in lesson 8 of the module, "Workflow Automation vs AI Automation in WhatsApp" → [[whatsapp-course-curriculum-map]]
 

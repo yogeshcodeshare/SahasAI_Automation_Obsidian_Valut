@@ -76,6 +76,10 @@ Home index for the vault. Links get added as content is ingested.
 - [[training-lesson-7-whatsapp-forms]] — Lesson 7 takeaways: forms are how data enters the system
 - [[whatsapp-forms-builder-reference]] — three build methods, field types, limits, rejection rules
 - [[whatsapp-forms-json-portability]] — build a form library once, deploy per client in seconds
+- [[training-lesson-8-workflow-vs-ai-automation]] — Lesson 8: the distinction the whole course rests on
+- [[automation-trigger-and-action]] — the universal grammar of every automation builder
+- [[ai-agent-five-components]] — system prompt, user message, memory, knowledge base, tools
+- [[whatsapp-chatbot-builder-reference]] — all 16 builder nodes, limits and the reusable-keyword pattern
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 
 ## Patterns & learnings (from GMB Sarathi)
