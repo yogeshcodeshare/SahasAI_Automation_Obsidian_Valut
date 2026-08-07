@@ -36,3 +36,10 @@ Reference material, how-tos, research, and saved learnings.
 - [[whatsapp-template-anatomy]] - the three parts, four footer actions, and every stated limit.
 - [[whatsapp-template-categories-and-approval]] - the category x structure matrix and the approval loop.
 - [[compress-media-before-upload]] - compress before upload; 81% saved with no quality loss.
+
+## WhatsApp commerce reference (added 2026-08-07, Lesson 6)
+- [[training-lesson-6-catalog-payments]] - Lesson 6 takeaways; the catalog lives at Meta.
+- [[whatsapp-catalog-setup]] - Commerce Manager, product fields, Catalog ID + Content ID, common errors.
+- [[meta-business-portfolio-map]] - the settings window: people, partners, accounts, WhatsApp account.
+- [[whatsapp-api-billing-credit-line]] - credit line not prepaid; the onboarding blocker.
+- [[whatsapp-payment-configuration-india]] - supported gateways and the payment-link alternative.

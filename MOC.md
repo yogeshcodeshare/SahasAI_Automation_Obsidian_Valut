@@ -68,6 +68,11 @@ Home index for the vault. Links get added as content is ingested.
 - [[whatsapp-template-anatomy]] — header/body/footer, the four footer actions, every character limit
 - [[whatsapp-template-categories-and-approval]] — marketing/utility/auth × general/carousel, and the approval loop
 - [[compress-media-before-upload]] — 1.79 MB → 358 KB; why a heavy image costs you a broadcast
+- [[training-lesson-6-catalog-payments]] — Lesson 6 takeaways: the catalog lives at Meta, not in your platform
+- [[whatsapp-catalog-setup]] — Commerce Manager, the CSV schema, the two IDs, and the errors
+- [[meta-business-portfolio-map]] — what lives where in business.facebook.com settings
+- [[whatsapp-api-billing-credit-line]] — no prepaid; a card at Meta before any marketing message sends
+- [[whatsapp-payment-configuration-india]] — gateways, gateway-generated UPI only, and the payment-link shortcut
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 
 ## Patterns & learnings (from GMB Sarathi)
