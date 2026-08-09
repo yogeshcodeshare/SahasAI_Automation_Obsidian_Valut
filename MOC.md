@@ -10,6 +10,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[05_Agent-Memory/_index]]
 - [[06_Sources/_index]]
 
+## Agent Memory
+- [[05_Agent-Memory/Hermes/obsidian-vault-access]] — chief-of-staff vault retrieval, client-silo, write, and sync protocol
+
 ## Agency (Sahas AI)
 - [[agency-go-to-market-sequence]] — staged launch, validation gates, and scale trigger
 - [[decision-ghl-deferral]] — #decision: defer GoHighLevel, run Veblika + n8n + Sheets (awaiting founder confirmation)
