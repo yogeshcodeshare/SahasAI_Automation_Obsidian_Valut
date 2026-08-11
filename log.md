@@ -133,3 +133,7 @@ Agent: default
 ## [2026-08-11] ingest | Hermes model route
 Appended the approved Hermes model decision to [[ai-tools-stack-3-layer]]: personal back-office only; Groq free as primary; OpenRouter/DeepSeek as capped pay-as-you-go fallback; no new monthly AI subscription until actual usage justifies it. Clarified that consumer ChatGPT/Claude subscriptions do not automatically provide API credits and that company Claude access requires permission. No MOC or folder-index changes because this was an append.
 Agent: codex
+
+## [2026-08-11] ingest | GTM revision - framework sharpeners + coaching niche validated
+Appended to agency-go-to-market-sequence.md via 00_Inbox handoff: coaching-class niche confirmed as distinct from US high-ticket coaching, category-layer positioning (Admissions Machine), proof-capture SOP, manual-first-then-productise sequencing. Guardrails (pricing emerging, DataForSEO deferred, 5-8 client scale trigger) reaffirmed unchanged. No MOC/index changes - target note already indexed.
+Agent: claude-code
