@@ -15,7 +15,7 @@ What Sahas AI sells to local SMBs. Pricing in [[pricing-ladder]].
 1. **GMB / Google Business Profile** — audit + optimization + monthly management ("GMB Boost"). Delivered via [[gmb-sarathi]]. Proof-first selling: run the audit, show the score/grid/competitor gap on your phone, then trial/convert.
 2. **WhatsApp automation** — booking reminders, review requests, catalogs, auto-replies (WhatsApp Cloud API / Veblika / GHL). See [[whatsapp-automation-vendors]].
 3. **Business workflow automation (n8n, self-hosted, free)** — lead follow-up, invoicing reminders, social posting, festival greetings. See [[n8n-self-hosting-agency]].
-4. **AI content** — social posts, festival creatives, reels, Marathi + English.
+4. **AI content** — social posts, festival creatives, reels, Marathi + English. The emerging packaged experiment is tracked in [[social-media-automation-offer-plan]]; quotas and prices are not final.
 5. **(Future) Facebook/Meta ads** management — Meta portfolio "Sahas AI Business Automation Agency" set up + business verification in progress. See [[meta-business-verification-notes]].
 
 ## Prospecting method (all verticals)

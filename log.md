@@ -137,3 +137,7 @@ Agent: codex
 ## [2026-08-11] ingest | GTM revision - framework sharpeners + coaching niche validated
 Appended to agency-go-to-market-sequence.md via 00_Inbox handoff: coaching-class niche confirmed as distinct from US high-ticket coaching, category-layer positioning (Admissions Machine), proof-capture SOP, manual-first-then-productise sequencing. Guardrails (pricing emerging, DataForSEO deferred, 5-8 client scale trigger) reaffirmed unchanged. No MOC/index changes - target note already indexed.
 Agent: claude-code
+
+## [2026-08-11] ingest | Jio/Interakt social automation research
+Created [[social-media-automation-competitor-reference]] in 04_Knowledge and [[social-media-automation-offer-plan]] in 01_Agency from the supplied Jio social-automation video/transcript analysis and Interakt reference review. Added cross-links and guardrails to service-offerings and agency-go-to-market-sequence. Recorded the 15 August soft launch / 1 September public-launch sequence, pilot Free/Growth/Supercharge concepts, approval-first account permissions, n8n/Hermes boundary, interview-consent rule and unit-economics checklist. All new material remains maturity: emerging; pricing was not promoted to a decision. No secrets or client PII included.
+Agent: codex

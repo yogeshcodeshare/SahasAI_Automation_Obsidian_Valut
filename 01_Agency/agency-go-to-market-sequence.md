@@ -57,3 +57,5 @@ Refines (does not replace) Phases 1–5 above, after reviewing four AI-agency po
 **Sequencing within a coaching client.** Lead with the free audit/demo (Trojan Horse) → fix the single most measurable bottleneck first → expand into the everyday parent automations (fee reminders, attendance, results) as the retainer, per [[coaching-class-vertical-playbook]].
 
 **Guardrails unchanged.** Pricing stays `emerging` — validate on the first 3 paid calls ([[pricing-ladder]]); while DataForSEO is deferred use demo-labelled audits only (no live-data or ranking promises); scale trigger stays **5–8 stable clients + written portability terms** ([[bizautomation-reseller-deal]]).
+
+The social-media automation offer is an emerging pre-launch experiment: soft-launch Sahas AI content first, validate manual delivery economics, then consider Free/Growth/Supercharge packaging. It must not outrun the existing proof, approval and capacity gates.

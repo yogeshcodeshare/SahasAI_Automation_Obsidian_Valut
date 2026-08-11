@@ -54,3 +54,4 @@ Reference material, how-tos, research, and saved learnings.
 - [[automation-trigger-and-action]] - trigger vs action; transfers to every builder.
 - [[ai-agent-five-components]] - the five parts of any AI agent, and why memory needs a key.
 - [[whatsapp-chatbot-builder-reference]] - every node, every limit, the keyword-reuse pattern.
+- [[social-media-automation-competitor-reference]] - Jio-style social assistant and Interakt product lessons.

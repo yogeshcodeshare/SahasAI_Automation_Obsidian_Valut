@@ -91,3 +91,5 @@ Home index for the vault. Links get added as content is ingested.
 - [[spend-guard-paid-api-cost-control]]
 - [[three-agent-worktree-handoff-workflow]]
 - [[approve-before-publish-immutable-baseline]]
+- [[social-media-automation-offer-plan]] — emerging social-content service, pilot tiers and SOP
+- [[social-media-automation-competitor-reference]] — Jio-style social assistant and Interakt product lessons
