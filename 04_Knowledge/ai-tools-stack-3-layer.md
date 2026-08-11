@@ -1,6 +1,7 @@
 ---
 title: AI Tools Stack — 3-Layer Model
 created: 2026-08-02
+updated: 2026-08-11
 tags: [knowledge, ai-tools, n8n, hermes, strategy]
 source: Claude planning conversation
 origin: ai
@@ -50,3 +51,10 @@ The Automation Saathi training teaches on DoubleTick + GoHighLevel + n8n + Googl
 Flow: customer msg -> Veblika bot captures (tags) -> n8n webhook -> Sheets row -> n8n schedules reminders -> Veblika sends. Stages in [[lead-stages-pipeline]].
 
 > The GoHighLevel deferral is a decision with a rejected alternative and a review trigger (a client requiring GHL, or GHL pricing changing). Worth converting to a `#decision` record using `_templates/decision-record.md` so the reweave check can pick it up.
+
+## Hermes model decision
+*Added 2026-08-11 from the AI automation agency planning chat.*
+
+Hermes is for Yogesh's personal back-office work, not client-critical automation. Do not justify a separate monthly ChatGPT or Claude subscription solely to power Hermes: consumer web subscriptions do not automatically provide API credits, and the company Claude subscription must not be connected to personal agency infrastructure without explicit permission.
+
+The starting model route is **Groq free API as the primary** for routine Hermes tasks, with **OpenRouter/DeepSeek V4 Flash as a pay-as-you-go fallback** when Groq is unavailable or insufficient. Load only a small capped balance (approximately ₹500–₹1,000) when needed; do not add a new monthly OpenCode/LLM subscription before actual Hermes usage demonstrates that the fallback is insufficient. Keep client workflows in n8n, not Hermes.

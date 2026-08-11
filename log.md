@@ -129,3 +129,7 @@ Agent: claude-code
 ## [2026-08-09] ingest | Hermes vault access protocol
 Created [[05_Agent-Memory/Hermes/obsidian-vault-access]] with the chief-of-staff retrieval, client-silo, write, MCP fallback, and Git sync rules. Updated MOC.md and 05_Agent-Memory/Hermes/_index.md.
 Agent: default
+
+## [2026-08-11] ingest | Hermes model route
+Appended the approved Hermes model decision to [[ai-tools-stack-3-layer]]: personal back-office only; Groq free as primary; OpenRouter/DeepSeek as capped pay-as-you-go fallback; no new monthly AI subscription until actual usage justifies it. Clarified that consumer ChatGPT/Claude subscriptions do not automatically provide API credits and that company Claude access requires permission. No MOC or folder-index changes because this was an append.
+Agent: codex
