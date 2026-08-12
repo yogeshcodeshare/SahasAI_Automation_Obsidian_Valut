@@ -88,6 +88,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[appointment-booking-via-ghl]] — why a text link isn't a booking system, and the GHL alternative
 - [[training-lesson-11-whatsapp-flow-mastery]] — Lesson 11: a WhatsApp Form writes itself into the CRM
 - [[whatsapp-flow-builder-webhook-reference]] — the Flow Builder's webhook, condition and router mechanics
+- [[training-lesson-12-google-sheets-integration]] — Lesson 12: flow ID filtering and a full Google Sheets integration
+- [[google-oauth-setup-for-bizautomation]] — reusable OAuth checklist for any Google API integration
 - [[training-lesson-10-lead-capturing-management]] — Lesson 10: tagging, attributes, appointment booking, segmentation
 - [[lead-stages-pipeline]] — the 7-stage pipeline, confirmed live, and what triggers each transition
 - [[whatsapp-bulk-broadcast-and-block-ratio]] — broadcast results, rebroadcast-failed, and the 3x block-ratio rule

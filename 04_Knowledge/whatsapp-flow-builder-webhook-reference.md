@@ -1,8 +1,9 @@
 ---
 title: WhatsApp Flow Builder — Webhook and Router Reference
 created: 2026-08-12
+updated: 2026-08-12
 tags: [whatsapp, flow-builder, webhook, reference, how-to, knowledge]
-source: Class 11 recording — WhatsApp Flow Mastery
+source: Class 11 recording — WhatsApp Flow Mastery; Class 12 recording — flowId filtering and Contains operator
 origin: ai
 author: claude-code
 maturity: supported
@@ -70,4 +71,29 @@ Each branch carries its own condition (e.g. `Project Preference equal "Gurgaon N
 
 Surfaced live in Class 11 when a later branch referenced a step that hadn't been mapped consistently with an earlier branch. Fix: go back into the node and remap the field (e.g. Phone Number) to the correct source explicitly. Read the error literally — it means exactly what it says, a referenced step doesn't exist where expected — then check every branch got the same mapping treatment, not just the one being tested.
 
-Related: [[training-lesson-11-whatsapp-flow-mastery]], [[whatsapp-chatbot-builder-reference]], [[automation-trigger-and-action]]
+**Class 12's version of this same error had a different cause** — an action node added one level too low in the router chain, which broke two branches identically because the same mistake was copied rather than made twice independently. When the error resurfaces on a second branch after a fix, check whether the *same* mistake repeated before assuming it's a new bug.
+
+## Filtering by flowId — when multiple forms share a webhook (added from Lesson 12)
+
+`nfm_reply` alone confirms a message is *a* form submission. It does not confirm *which* form — if a business runs several WhatsApp Forms, one shared webhook can receive events for all of them, and a flow built for form A will wrongly act on form B's data unless filtered further.
+
+**The fix:** the captured event carries its own `flowId` field, sitting alongside `messageType` and `content` at the top level. Add a second Condition:
+
+```
+flowId  equal  <this specific form's own flow ID>
+```
+
+Copy the ID directly from a real test payload rather than typing it — the same copy-not-retype discipline used throughout this series for variable values. Combined with the `nfm_reply` filter, this guarantees downstream logic only runs for genuine submissions of *this exact form*.
+
+## The Contains operator — for values that vary slightly
+
+Condition nodes aren't limited to `Equal`. `Contains` checks only that a field's value **includes** a given substring — useful when a selection field's exact text might vary (e.g. a package name) but reliably contains a distinguishing word.
+
+Example from Class 12's plan router:
+```
+Monthly Plan branch:  package  contains  "monthly"
+Annual Plan branch:   package  contains  "annual"
+```
+More forgiving than `Equal` against the full string, at the cost of being less precise if two valid values could both contain the same substring — worth confirming the field's real values (search the raw test payload directly) before relying on `Contains` to distinguish them.
+
+Related: [[training-lesson-11-whatsapp-flow-mastery]], [[training-lesson-12-google-sheets-integration]], [[whatsapp-chatbot-builder-reference]], [[automation-trigger-and-action]]

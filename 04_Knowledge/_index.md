@@ -69,3 +69,7 @@ Reference material, how-tos, research, and saved learnings.
 ## Flow Builder — form submission to auto-assignment (added 2026-08-12, Lesson 11)
 - [[training-lesson-11-whatsapp-flow-mastery]] - a WhatsApp Form submission written into the CRM automatically.
 - [[whatsapp-flow-builder-webhook-reference]] - webhook event shape, the nfm_reply filter, and Router branching.
+
+## Google Sheets integration and OAuth (added 2026-08-12, Lesson 12)
+- [[training-lesson-12-google-sheets-integration]] - flow ID filtering, plan routing, a live bug, and a full Sheets integration.
+- [[google-oauth-setup-for-bizautomation]] - the Google Cloud Console checklist, reusable for any Google API connection.

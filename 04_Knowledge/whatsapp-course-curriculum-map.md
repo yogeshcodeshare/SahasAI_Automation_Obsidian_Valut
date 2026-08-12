@@ -1,7 +1,7 @@
 ---
 title: WhatsApp Automation Course — Curriculum Map
 created: 2026-08-06
-updated: 2026-08-07
+updated: 2026-08-12
 tags: [training, whatsapp, curriculum, reference, knowledge]
 source: Course platform sidebar, read from Class 4 recording frames
 origin: ai
@@ -34,8 +34,9 @@ Where each training note sits in the source course, so a reader knows what a les
 | 9 | From Welcome Message to Appointment Booking: WhatsApp Chatbot Design | [[training-lesson-9-welcome-to-appointment-booking]] |
 | 10 | Lead Capturing, Management, Segmentation & Bulk Broadcasting | [[training-lesson-10-lead-capturing-management]] |
 | 11 | WhatsApp Flow Mastery: From Form Submission to Auto-Assignment | [[training-lesson-11-whatsapp-flow-mastery]] |
+| 12 | Capturing WhatsApp Form Data & Sending It to Google Sheets | [[training-lesson-12-google-sheets-integration]] |
 
-Lessons 1–2 and 11–12 were not visible in the captured frames.
+Lessons 1–2 were not visible in the captured frames. Lessons 11–12 now have full frame captures, documented in their own training notes.
 
 ## Dependencies worth knowing
 
