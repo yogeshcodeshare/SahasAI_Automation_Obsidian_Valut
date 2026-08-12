@@ -65,3 +65,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[training-lesson-9-welcome-to-appointment-booking]] - a full flow built and tested live, including a real debugging moment.
 - [[lead-capture-option1-vs-option2]] - showcase-first vs requirement-first; use in discovery calls.
 - [[appointment-booking-via-ghl]] - the scheduling-tool gap and GoHighLevel as one answer to it.
+
+## Flow Builder — form submission to auto-assignment (added 2026-08-12, Lesson 11)
+- [[training-lesson-11-whatsapp-flow-mastery]] - a WhatsApp Form submission written into the CRM automatically.
+- [[whatsapp-flow-builder-webhook-reference]] - webhook event shape, the nfm_reply filter, and Router branching.

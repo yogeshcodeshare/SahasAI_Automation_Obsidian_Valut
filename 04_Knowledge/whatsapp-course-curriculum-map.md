@@ -33,6 +33,7 @@ Where each training note sits in the source course, so a reader knows what a les
 | 8 | Workflow Automation vs AI Automation in WhatsApp | [[training-lesson-8-workflow-vs-ai-automation]] |
 | 9 | From Welcome Message to Appointment Booking: WhatsApp Chatbot Design | [[training-lesson-9-welcome-to-appointment-booking]] |
 | 10 | Lead Capturing, Management, Segmentation & Bulk Broadcasting | [[training-lesson-10-lead-capturing-management]] |
+| 11 | WhatsApp Flow Mastery: From Form Submission to Auto-Assignment | [[training-lesson-11-whatsapp-flow-mastery]] |
 
 Lessons 1–2 and 11–12 were not visible in the captured frames.
 
