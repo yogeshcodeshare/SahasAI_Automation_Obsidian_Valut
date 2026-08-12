@@ -31,7 +31,7 @@ Where each training note sits in the source course, so a reader knows what a les
 | 6 | WhatsApp Catalog & Payments: Selling Directly on WhatsApp | [[training-lesson-6-catalog-payments]] |
 | 7 | Building WhatsApp Forms with Templates and JSON code | [[training-lesson-7-whatsapp-forms]] |
 | 8 | Workflow Automation vs AI Automation in WhatsApp | [[training-lesson-8-workflow-vs-ai-automation]] |
-| 9 | From Welcome Message to Appointment Booking: WhatsApp Chatbot Design | — |
+| 9 | From Welcome Message to Appointment Booking: WhatsApp Chatbot Design | [[training-lesson-9-welcome-to-appointment-booking]] |
 | 10 | Lead Capturing, Management, Segmentation & Bulk Broadcasting | [[training-lesson-10-lead-capturing-management]] |
 
 Lessons 1–2 and 11–12 were not visible in the captured frames.

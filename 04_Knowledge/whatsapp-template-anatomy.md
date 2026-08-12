@@ -1,6 +1,7 @@
 ---
 title: WhatsApp Template Anatomy & Limits
 created: 2026-08-07
+updated: 2026-08-12
 tags: [whatsapp, templates, reference, knowledge]
 source: Class 5 recording — WhatsApp Templates Mastery; limits read from the BizAutomation interface
 origin: ai
@@ -73,4 +74,17 @@ Variables map onto the custom fields in [[crm-and-field-model]] — which is why
 
 Set a location on a template and the customer receives it exactly like a shared WhatsApp pin. One template per project, each with that project's location — a Gurgaon lead taps and gets Gurgaon. Works equally for "where is your office?".
 
-Related: [[whatsapp-template-categories-and-approval]], [[whatsapp-message-templates-mr-hi-en]], [[training-lesson-5-templates-mastery]]
+## Carousel card buttons, and why video testimonials specifically (added from Lesson 9)
+
+Each carousel card carries its own button requirement, separate from the card-count limit above:
+
+| Item | Limit |
+|---|---|
+| Buttons per carousel card | **min 1, max 2** — a card cannot be saved with zero |
+| Button types on a card | Can be mixed — Quick Reply, Phone and URL all available on the same card |
+
+The interface enforces the minimum live: attempting to save a card with no button surfaces a "component of type button is missing expected field" validation error.
+
+**The trainer's stated position on testimonial format**, worth carrying into any client-facing testimonial build: image testimonials carry little to no benefit; text testimonials carry essentially none; **only video testimonials build real value and trust today**. A full testimonial carousel, built and sent live in Class 9, uses exactly this card/button structure — one video per card, a "Check All Testimonials" button on the first card linking out to the full YouTube playlist for anyone who wants more than the two or three previewed → [[training-lesson-9-welcome-to-appointment-booking]].
+
+Related: [[whatsapp-template-categories-and-approval]], [[whatsapp-message-templates-mr-hi-en]], [[training-lesson-5-templates-mastery]], [[training-lesson-9-welcome-to-appointment-booking]]

@@ -60,3 +60,8 @@ Reference material, how-tos, research, and saved learnings.
 - [[training-lesson-10-lead-capturing-management]] - the four-component model, capture and management in practice.
 - [[lead-stages-pipeline]] - the 7 stages, and which flow step triggers each transition.
 - [[whatsapp-bulk-broadcast-and-block-ratio]] - sent/delivered/failed, rebroadcast, and the block-ratio health metric.
+
+## Welcome-to-appointment chatbot build (added 2026-08-12, Lesson 9)
+- [[training-lesson-9-welcome-to-appointment-booking]] - a full flow built and tested live, including a real debugging moment.
+- [[lead-capture-option1-vs-option2]] - showcase-first vs requirement-first; use in discovery calls.
+- [[appointment-booking-via-ghl]] - the scheduling-tool gap and GoHighLevel as one answer to it.
