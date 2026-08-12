@@ -55,3 +55,8 @@ Reference material, how-tos, research, and saved learnings.
 - [[ai-agent-five-components]] - the five parts of any AI agent, and why memory needs a key.
 - [[whatsapp-chatbot-builder-reference]] - every node, every limit, the keyword-reuse pattern.
 - [[social-media-automation-competitor-reference]] - Jio-style social assistant and Interakt product lessons.
+
+## Lead capturing, management and broadcasting (added 2026-08-11, Lesson 10)
+- [[training-lesson-10-lead-capturing-management]] - the four-component model, capture and management in practice.
+- [[lead-stages-pipeline]] - the 7 stages, and which flow step triggers each transition.
+- [[whatsapp-bulk-broadcast-and-block-ratio]] - sent/delivered/failed, rebroadcast, and the block-ratio health metric.

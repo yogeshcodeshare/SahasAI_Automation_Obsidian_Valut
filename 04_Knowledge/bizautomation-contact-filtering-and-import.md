@@ -1,8 +1,9 @@
 ---
 title: BizAutomation — Contact Filtering, Bulk Actions & CSV Import
 created: 2026-08-06
+updated: 2026-08-11
 tags: [whatsapp, bizautomation, veblika, crm, how-to, knowledge]
-source: Class 4 recording — WhatsApp Business API Automation course
+source: Class 4 recording — WhatsApp Business API Automation course; AND/OR logic and Broadcast confirmed live in Class 10
 origin: ai
 author: claude-code
 maturity: supported
@@ -64,4 +65,14 @@ Text · Email · Number (whole numbers) · Text Area (longer free text) · Phone
 
 Prefer plain text in Select option values — the trainer hit a display problem caused by a special character in a budget-range option and had to rewrite it.
 
-Related: [[whatsapp-tag-numbering-convention]], [[training-lesson-4-tagging-contacts-compliance]]
+## Segmentation as named, reusable filter groups (added from Class 10)
+
+The AND/OR logic above is the mechanism. Class 10 adds the strategy: rather than re-applying the same filter combination every time a relevant offer appears, build it once as a named segment and reuse it.
+
+Worked example: a **"Family HNI"** segment combining location (Delhi) AND family status (married with family) AND income (roughly 50 lakh–1 crore annually) — three conditions that, applied together, define one durable audience. When a matching offer arrives (a premium family-oriented residential project, in the example), the whole segment is broadcastable in one action rather than three filters rebuilt from scratch.
+
+Other segment examples from the class: leads interested in a specific configuration (2BHK), leads in a specific budget band, NRI customers, rental customers. The pattern generalises to any business — the segments are just named combinations of whatever custom fields that business tracks.
+
+**Also confirmed live in Class 10:** the Broadcast action's full results loop — Sent / Delivered / Failed tracking, and one-click rebroadcast scoped to failures → [[whatsapp-bulk-broadcast-and-block-ratio]].
+
+Related: [[whatsapp-tag-numbering-convention]], [[training-lesson-4-tagging-contacts-compliance]], [[training-lesson-10-lead-capturing-management]], [[whatsapp-bulk-broadcast-and-block-ratio]]

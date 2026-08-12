@@ -1,8 +1,9 @@
 ---
 title: WhatsApp Tag Numbering Convention
 created: 2026-08-06
+updated: 2026-08-11
 tags: [whatsapp, tagging, crm, pipeline, knowledge]
-source: Class 4 recording — WhatsApp Business API Automation course
+source: Class 4 recording — WhatsApp Business API Automation course; convention confirmed live in Class 10
 origin: ai
 author: claude-code
 maturity: supported
@@ -52,4 +53,8 @@ The practical difference: a custom field tells a manager that twelve leads sit a
 
 On a WhatsApp API platform that has **no tagging**, the stages must live in custom attributes instead — otherwise leads cannot be filtered by stage at all. Worth checking before recommending a vendor → [[whatsapp-automation-vendors]].
 
-Related: [[training-lesson-4-tagging-contacts-compliance]]
+## Confirmed live (Class 10)
+
+This exact scheme appears as the Inbox's stage filter tabs — 1.1 New Lead through 1.7 Lost — and the tabs are not manually maintained; they are filtered views over the same attribute data the chatbot flow writes automatically. Full stage-by-stage detail, including which flow step triggers each transition → [[lead-stages-pipeline]].
+
+Related: [[training-lesson-4-tagging-contacts-compliance]], [[lead-stages-pipeline]], [[training-lesson-10-lead-capturing-management]]
