@@ -1,12 +1,13 @@
 ---
 title: Decision - Hostinger KVM2 and Dokploy for Website and n8n
 created: 2026-08-05
+updated: 2026-08-14
 tags: [decision, project, sahas-ai, hosting, dokploy, n8n]
 source: Founder-approved website and deployment direction
 origin: ai
 author: codex
 maturity: established
-status: active
+status: partially superseded — website portion changed, see Update below
 ---
 
 # Decision - Hostinger KVM2 and Dokploy for Website and n8n
@@ -39,3 +40,7 @@ Website and n8n operations stay together on one VPS and are administered through
 ## Review trigger
 
 Reopen this decision if VPS cost or reliability changes materially, traffic or workflow volume requires horizontal scaling, Dokploy maintenance becomes burdensome, a CDN/edge deployment becomes necessary, or a new workload creates resource or isolation requirements.
+
+## Update — 2026-08-14: website portion superseded
+
+The **n8n half of this decision is unchanged** — self-hosted n8n stays on this Hostinger KVM2 VPS via Dokploy. The **website half is superseded**: per the WhatsApp automation roadmap's Phase 3, the next website build is planned inside the BizAutomation/GHL platform's included Website/Landing-Page/Forms builder (available from their Starter tier up — see [[bizautomation-reseller-deal]]) rather than a separately-hosted custom React/Nginx site on this VPS. Rationale: once the agency is already paying for the BizAutomation platform for WhatsApp+CRM automation, the included builder is faster and cheaper than maintaining a second deployment surface. A custom-coded site can still be revisited later if the builder proves limiting. This does not affect [[sahas-ai-website-production]]'s existing live site — that stays up; this is about what the *next* iteration builds on. See [[whatsapp-automation-agency-phased-plan]].

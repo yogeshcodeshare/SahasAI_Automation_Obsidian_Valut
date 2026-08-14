@@ -1,12 +1,13 @@
 ---
 title: Decision — Defer GoHighLevel; run on Veblika + n8n + Sheets
 created: 2026-08-06
+updated: 2026-08-14
 tags: [decision, ghl, whatsapp, vendors, automation]
 source: Claude planning conversation (Sahas AI stack decisions)
 origin: ai
 author: claude.ai
 maturity: supported
-status: active
+status: superseded — see Update below
 ---
 
 # Decision — Defer GoHighLevel; run on Veblika + n8n + Sheets
@@ -39,4 +40,13 @@ Bootstrapped, pre-revenue, tools budget ~₹3–6k/month. GHL's own agency plans
 Reopen this decision if any of: (a) a client specifically requires GoHighLevel features; (b) GHL or the Bizautomation reseller pricing changes materially; (c) the agency scales past what Sheets + n8n comfortably handle (many clients / high pipeline volume).
 
 ---
+
+## Update — 2026-08-14: superseded, GHL adoption now firm
+
+**Yogesh confirmed** (WhatsApp Automation Plan revision session, 2026-08-14, via explicit plan approval) that the indefinite deferral above no longer holds. New sequencing: Veblika + n8n still runs Phase 1 exactly as this decision originally intended (WhatsApp-native automation → n8n added where needed → other integrations → full testing) — but **GHL now has a firm, scheduled adoption point: Phase 2, immediately after Phase 1 is confirmed and live.** This is no longer conditional on a specific client requiring GHL features; it's a planned next step for the agency's own stack regardless.
+
+This changes review-trigger (a) below — GHL adoption is now scheduled on its own, not gated behind client demand. Triggers (b) and (c) (pricing changes, scale past Sheets+n8n) still apply as-written to the *original* deferral reasoning, but are largely moot now that adoption is scheduled anyway.
+
+Full phased plan (Phase 1a–1d WhatsApp+n8n → Phase 2 GHL → Phase 3 website/social → Phase 4 Hermes → Phase 5 coaching vertical) is summarized in [[whatsapp-automation-agency-phased-plan]], with the detailed build-ready version in the working folder `What's App Automation/WhatsApp Automation template & workflow/` (outside the vault — planning workspace, not yet mirrored here in full).
+
 *Status note: if later reversed or superseded, do not delete — set `status:` accordingly and link the replacing note.*

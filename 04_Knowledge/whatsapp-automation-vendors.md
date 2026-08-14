@@ -1,6 +1,7 @@
 ---
 title: WhatsApp Automation Vendors
 created: 2026-08-02
+updated: 2026-08-14
 tags: [knowledge, whatsapp, vendors, veblika, ghl]
 source: Claude research (vendor sites + web)
 origin: ai
@@ -22,6 +23,8 @@ WhatsApp-native: team inbox + agent seats, catalogue/order bots, campaigns + ana
 
 ## Meta message costs (India)
 Marketing ₹1.09, Utility ₹0.145, Service free. Pass to client.
+
+*Update 2026-08-14: this now conflicts with two other figures — see [[whatsapp-api-pricing-model-india]]'s update for the full three-way comparison and the verify-before-quoting rule.*
 
 ## Model that makes churn free
 Client owns their WABA + number in THEIR Meta Business Manager; you're admin; they pay BSP/Meta directly; you charge setup + management → zero stranded cost, no ToS risk. Matches the "no client passwords" rule ([[sahas-ai-overview]]).

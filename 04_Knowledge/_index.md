@@ -9,6 +9,8 @@ Reference material, how-tos, research, and saved learnings.
 - [[n8n-self-hosting-agency]] — free/unlimited CE, projects caveat, clients per VPS.
 - [[coaching-class-vertical-playbook]] — #1 vertical: problems, pitch, objection handlers.
 - [[meta-business-verification-notes]] — verification timeline + how to check status.
+- [[hermes-desktop-and-samin12-research]] — Samin12's hermes-desktop repo (unconfirmed link to our Hermes) + candidate building blocks.
+- [[on-demand-skill-installation-policy]] — install third-party Claude Code skills on-demand, not in bulk.
 
 ## Patterns & learnings
 - [[feature-kill-switch-fail-safe-off]] — gate a risky/paid feature behind a fail-safe-OFF switch.

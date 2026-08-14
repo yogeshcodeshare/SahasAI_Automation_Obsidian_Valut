@@ -31,6 +31,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[manovedh-free-month-plan]] — free first-month delivery plan
 
 ## Projects
+- [[whatsapp-automation-agency-phased-plan]] — the 8-phase roadmap (WhatsApp+n8n → GHL → website/social → Hermes → coaching), Yogesh-approved, pointer to the working folder
 - [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard
 - [[gmb-sarathi-build-status]] — M0–M6 status, MVP gate met, remaining
@@ -47,6 +48,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[n8n-self-hosting-agency]] — free/unlimited, projects caveat, clients per VPS
 - [[coaching-class-vertical-playbook]] — #1 vertical: pitch + objections
 - [[meta-business-verification-notes]] — verification timeline + status
+- [[hermes-desktop-and-samin12-research]] — is Samin12's hermes-desktop the same Hermes? + candidate building blocks
+- [[on-demand-skill-installation-policy]] — install third-party skills on-demand, not preemptively; scrapling-official precedent
 
 ## WhatsApp automation offer
 - [[whatsapp-lead-sop-8-stage]] — the 8-stage lead spine; backbone of the WhatsApp offer

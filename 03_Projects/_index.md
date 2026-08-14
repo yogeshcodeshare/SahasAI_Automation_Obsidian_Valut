@@ -3,6 +3,7 @@
 Active builds (e.g. GMB Sarathi, WhatsApp automation).
 
 ## Projects
+- [[whatsapp-automation-agency-phased-plan]] — the 8-phase WhatsApp+n8n+GHL+website+Hermes roadmap; pointer to the full working folder.
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard (7-day build complete; deploy held on 2 decisions).
 - [[gmb-sarathi-build-status]] — M0–M6 milestone status, MVP gate met, remaining queue.
 - [[gmb-sarathi-tech-setup]] — repo, keys, Supabase migrations, externally-gated blockers, Windows quirks.

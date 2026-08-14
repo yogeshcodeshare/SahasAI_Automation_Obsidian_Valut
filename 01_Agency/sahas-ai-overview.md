@@ -1,6 +1,7 @@
 ---
 title: Sahas AI — Agency Overview
 created: 2026-08-02
+updated: 2026-08-14
 tags: [agency, sahas-ai, positioning]
 source: Claude planning conversation
 origin: ai
@@ -44,3 +45,7 @@ Monthly burn pre-revenue ≈ ₹3,285/mo + one-time DataForSEO ₹5,000. One ₹
 For the WhatsApp-automation offer, positioning rests on: Marathi-aware & local; **approve-before-publish** (see [[approve-before-publish-immutable-baseline]]); **no client passwords, ever**; "we save more time than we cost"; and we **dogfood** — Sahas AI runs its own lead funnel on the same system (see [[agency-automation-plan]]).
 
 Offer surface: WhatsApp automation on [[whatsapp-automation-vendors|Veblika]], delivered via the 8-stage SOP ([[whatsapp-lead-sop-8-stage]]). Target verticals start with coaching classes ([[coaching-class-vertical-playbook]]).
+
+## Update — 2026-08-14: Hermes now has a scheduled phase
+
+The "waits for a paying client or proven lead-gen" line above, as it applies to **Hermes** specifically, is superseded — Yogesh confirmed Hermes is now sequenced as **Phase 4** of the WhatsApp automation roadmap (after the WhatsApp+n8n stack and GHL are live, before the coaching-class vertical). Paperclip and the video/UGC tooling remain deferred exactly as written above; only Hermes's gate changed. See [[whatsapp-automation-agency-phased-plan]] and [[ai-tools-stack-3-layer]] (Hermes's scope/model-routing are unchanged — only its timing).

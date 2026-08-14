@@ -1,6 +1,7 @@
 ---
 title: WhatsApp API Pricing Model (India)
 created: 2026-08-05
+updated: 2026-08-14
 tags: [whatsapp, pricing, meta, knowledge]
 source: Claude Desktop conversation - AI Automation project
 origin: ai
@@ -33,3 +34,7 @@ Re-check rates before any new client proposal, and whenever Meta announces a pri
 How charges are passed through to us is an open item in [[whatsapp-api-onboarding]].
 
 Cost-control mindset aligns with [[spend-guard-paid-api-cost-control]]. Our client pricing sits in [[pricing-ladder]].
+
+## Update — 2026-08-14: a third, conflicting data point
+
+A YouTube tutorial source ("No Third Party Needed: Connect WhatsApp to n8n Using Official Meta API," reviewed this session) cited: Marketing ≈ ₹0.70/msg, Utility ≈ ₹0.10/msg, Authentication ≈ ₹0.11/msg (₹2.30 international). This is a **third** figure, disagreeing with both this note's table above (Utility ₹0.13 / Marketing ₹0.86 / Auth ₹0.15) and [[whatsapp-automation-vendors]]'s figures (Marketing ₹1.09 / Utility ₹0.145). None of the three has been verified directly against Meta's live pricing page. Strengthens the existing "verify before quoting" warning at the top of this note rather than resolving it — do not pick one of the three without checking Meta's official page first.
