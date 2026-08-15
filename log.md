@@ -200,3 +200,8 @@ Agent: codex
 
 Updated [[sahas-lead-automation-measurement-model]] to add the `Recommended Plan` field and seven exclusive package-fit tags: Starter, Pro, Elite, WhatsApp Lead Engine, WhatsApp Lead Engine AI, Supercharge, and Existing-System Rescue Sprint. Confirmed WhatsApp-only prices: Lead Engine ₹1,999/mo and Lead Engine AI ₹2,499/mo. The field is authoritative; the tag is an Inbox-filter convenience. No credentials or PII recorded.
 Agent: codex
+
+## [2026-08-15] ingest | First lead automation package tags finalised
+
+Updated [[sahas-lead-automation-measurement-model]] with Yogesh's final first-build package tags: `3.1 STARTER`, `3.2 PRO`, `3.3 ELITE`, `3.4 WHATSAPP AUTOMATION`, `3.5 AI WHATSAPP AUTOMATION`, and `3.6 SUPERCHARGE`. Existing-System Rescue Sprint remains saved in [[decision-existing-system-rescue-sprint]] but is explicitly deferred from the live Recommended Plan field and Veblika tag list. No credentials or PII recorded.
+Agent: codex

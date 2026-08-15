@@ -1,6 +1,7 @@
 ---
 title: Decision — Existing-System Rescue Sprint Pilot
 created: 2026-08-15
+updated: 2026-08-15
 tags: [decision, agency, whatsapp, automation, offer, pilot]
 source: Yogesh approval in Codex conversation; public review-market scan of MBG Card
 origin: ai
@@ -83,3 +84,6 @@ Sources reviewed:
 
 Re-price or stop this pilot after three completed discovery calls or two paid deliveries. Review actual implementation hours, acceptance rate, client tool limitations, paid-tool exceptions, and whether the delivery creates a genuine testimonial/referral with informed client consent.
 
+## Update — 2026-08-15: deferred from the first live lead automation
+
+Yogesh decided that Existing-System Rescue Sprint remains a **future** offer. It is saved as a decision record but must not appear as a `Recommended Plan` option or package-fit tag in the first Sahas AI lead automation. Revisit only after the core six-package lead system is live.

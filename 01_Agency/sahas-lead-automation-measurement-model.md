@@ -94,9 +94,11 @@ Use the `Campaign Name / ID` field for each precise campaign. Do not make a new 
 
 ### Package fit (one active tag only)
 
-`3.1 STARTER FIT` · `3.2 PRO FIT` · `3.3 ELITE FIT` · `3.4 WHATSAPP LEAD ENGINE FIT` · `3.5 WHATSAPP LEAD ENGINE AI FIT` · `3.6 SUPERCHARGE OPPORTUNITY` · `3.7 RESCUE SPRINT FIT`
+For the **first live lead automation**, use this final package set only:
 
-`Recommended Plan` is the authoritative field. Use the matching package-fit tag only to filter the Veblika Inbox quickly. The dropdown values are `Starter`, `Pro`, `Elite`, `WhatsApp Lead Engine`, `WhatsApp Lead Engine AI`, `Supercharge`, `Existing-System Rescue Sprint`, and `Not decided`.
+`3.1 STARTER` · `3.2 PRO` · `3.3 ELITE` · `3.4 WHATSAPP AUTOMATION` · `3.5 AI WHATSAPP AUTOMATION` · `3.6 SUPERCHARGE`
+
+`Recommended Plan` is the authoritative field. Use one matching package tag only to filter the Veblika Inbox quickly. The dropdown values are `Starter`, `Pro`, `Elite`, `WhatsApp Automation`, `AI WhatsApp Automation`, `Supercharge`, and `Not decided`. **Do not create a Rescue Sprint field or tag in this first build.**
 
 ### High-intent signals and routing
 
