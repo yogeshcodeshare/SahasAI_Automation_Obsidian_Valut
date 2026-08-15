@@ -1,6 +1,7 @@
 ---
 title: Sahas Lead Automation Measurement Model
 created: 2026-08-15
+updated: 2026-08-15
 tags: [agency, whatsapp, crm, kpi, lead-automation, measurement]
 source: Yogesh requirements in Codex conversation; existing Sahas CRM and lead-pipeline notes
 origin: ai
@@ -50,7 +51,7 @@ There is no universal "best" hook. Run the following three variants and select t
 | Lifecycle | Current Stage, Stage Entered At | controlled dropdown + timestamp | pipeline and aging |
 | Lifecycle | Assigned Owner, Last Interaction At, Next Follow-up At | user + timestamps | no lead is forgotten |
 | Booking | Booking Offered At, Booked Call At, Call Date/Time, Call Outcome | timestamps + dropdown | conversion funnel and reminder logic |
-| Commercial | Offer Shown, Proposal Status, Payment Plan Selected | controlled dropdown | separates interest from a real commercial step |
+| Commercial | Offer Shown, Recommended Plan, Proposal Status, Payment Plan Selected | controlled dropdown | separates interest from a real commercial step |
 | Loss | Lost Reason, Lost Detail, Lost At, Win-back Eligible At | controlled dropdown + free text + timestamps | learn and re-contact only when appropriate |
 
 ## Activity Event Log — Required for Time and Day Analysis
@@ -90,6 +91,12 @@ Use the `Campaign Name / ID` field for each precise campaign. Do not make a new 
 ### Service / offer interest
 
 `INT: WHATSAPP AUTOMATION` · `INT: N8N WORKFLOW` · `INT: GMB` · `OFFER: GROWTH CHECK` · `OFFER: RESCUE SPRINT`
+
+### Package fit (one active tag only)
+
+`3.1 STARTER FIT` · `3.2 PRO FIT` · `3.3 ELITE FIT` · `3.4 WHATSAPP LEAD ENGINE FIT` · `3.5 WHATSAPP LEAD ENGINE AI FIT` · `3.6 SUPERCHARGE OPPORTUNITY` · `3.7 RESCUE SPRINT FIT`
+
+`Recommended Plan` is the authoritative field. Use the matching package-fit tag only to filter the Veblika Inbox quickly. The dropdown values are `Starter`, `Pro`, `Elite`, `WhatsApp Lead Engine`, `WhatsApp Lead Engine AI`, `Supercharge`, `Existing-System Rescue Sprint`, and `Not decided`.
 
 ### High-intent signals and routing
 
@@ -155,4 +162,3 @@ Do not set final numeric targets until Sahas has baseline data. Track these week
 ## Related
 
 [[crm-and-field-model]] · [[lead-stages-pipeline]] · [[agency-automation-plan]] · [[decision-existing-system-rescue-sprint]] · [[decision-marathi-local-business-lead-campaign-direction]]
-

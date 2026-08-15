@@ -195,3 +195,8 @@ Agent: codex
 
 Notes created: 1, indexes updated: 2. Created [[decision-service-catalog-no-lifetime]] from Yogesh's revised Starter/Pro/Elite/Supercharge and WhatsApp-only service request. The decision removes lifetime offers, records ₹1,000 as a one-time onboarding/account-registration fee, defines GHL Workspace / GHL Guided Workspace / Business Automation Suite / Supercharge Custom Build, and creates the WhatsApp Lead Engine (₹1,999/mo) and WhatsApp Lead Engine AI (₹2,499/mo) names. The AI plan includes one—not "one or two"—fixed-scope agent and up to four independently testable flows. Annual amounts are labelled prepaid plan prices rather than assumed monthly multiplication. The PDF was scanned and non-extractable locally; its plan interpretation was taken from Yogesh's supplied pasted summary. The note preserves the unresolved reseller public-price/account-ownership conflict in [[bizautomation-reseller-deal]] and leaves GST display as a publishing prerequisite. Maturity: emerging. No credentials or PII recorded.
 Agent: codex
+
+## [2026-08-15] ingest | Final package fit in lead schema
+
+Updated [[sahas-lead-automation-measurement-model]] to add the `Recommended Plan` field and seven exclusive package-fit tags: Starter, Pro, Elite, WhatsApp Lead Engine, WhatsApp Lead Engine AI, Supercharge, and Existing-System Rescue Sprint. Confirmed WhatsApp-only prices: Lead Engine ₹1,999/mo and Lead Engine AI ₹2,499/mo. The field is authoritative; the tag is an Inbox-filter convenience. No credentials or PII recorded.
+Agent: codex
