@@ -56,6 +56,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[crm-and-field-model]] — masters, capture fields, generalised field groups
 - [[lead-stages-pipeline]] — stage dropdown, site-visit sub-statuses, maturity ladder
 - [[agency-automation-plan]] — the SOP applied to Sahas AI's own funnel
+- [[decision-marathi-local-business-lead-campaign-direction]] — #decision: Marathi-first missed-enquiry campaign direction; WhatsApp automation active, social assets deferred
 - [[whatsapp-message-templates-mr-hi-en]] — tri-lingual approvable template library
 - [[agency-intake-form]] — agency lead capture field set
 - [[coaching-intake-form]] — coaching lead capture field set
