@@ -205,3 +205,8 @@ Agent: codex
 
 Updated [[sahas-lead-automation-measurement-model]] with Yogesh's final first-build package tags: `3.1 STARTER`, `3.2 PRO`, `3.3 ELITE`, `3.4 WHATSAPP AUTOMATION`, `3.5 AI WHATSAPP AUTOMATION`, and `3.6 SUPERCHARGE`. Existing-System Rescue Sprint remains saved in [[decision-existing-system-rescue-sprint]] but is explicitly deferred from the live Recommended Plan field and Veblika tag list. No credentials or PII recorded.
 Agent: codex
+
+## [2026-08-15] ingest | First lead pipeline tags finalised
+
+Updated [[sahas-lead-automation-measurement-model]] to use the final exclusive 14-stage pipeline from `1.1 NEW LEAD` through `1.14 LOST`, including DEMO SHARED, NEGOTIATION, ONBOARDING, LIVE CLIENT, and REVIEW & REFERRAL. Opt-out is now explicitly native consent status rather than a manually applied pipeline tag. No credentials or PII recorded.
+Agent: codex

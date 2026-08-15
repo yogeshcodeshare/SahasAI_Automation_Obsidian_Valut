@@ -76,7 +76,7 @@ Never store client passwords, tokens, or API keys in any master.
 
 ### Pipeline (one active stage tag only)
 
-`1.1 NEW LEAD` · `1.2 REQUIREMENT CAPTURED` · `1.3 QUALIFIED` · `1.4 BOOKING OFFERED` · `1.5 CALL BOOKED` · `1.6 CALL DONE` · `1.7 PROPOSAL SENT` · `1.8 CLOSED WON` · `1.9 ACTIVE CLIENT` · `1.10 LOST` · `1.11 NURTURE` · `1.12 OPT-OUT`
+`1.1 NEW LEAD` · `1.2 QUALIFICATION IN PROGRESS` · `1.3 QUALIFIED` · `1.4 SOLUTION / DEMO SHARED` · `1.5 CALL BOOKED` · `1.6 CALL COMPLETED` · `1.7 PROPOSAL SENT` · `1.8 NEGOTIATION` · `1.9 CLOSED WON` · `1.10 ONBOARDING` · `1.11 LIVE CLIENT` · `1.12 REVIEW & REFERRAL` · `1.13 NURTURE` · `1.14 LOST`
 
 ### Source / campaign
 
@@ -105,6 +105,8 @@ For the **first live lead automation**, use this final package set only:
 `SIG: OWNER` · `SIG: ACCESS READY` · `SIG: URGENT <30D` · `SIG: 10+ ENQUIRIES/MO` · `ROUTE: HUMAN HANDOFF` · `FLOW: FOLLOW-UP ACTIVE`
 
 Tags are removed when no longer true. In particular, remove `FLOW: FOLLOW-UP ACTIVE` on reply, booking, loss, opt-out, or human handoff. Use fields—not tags—for price, payment milestone, dates, language, and detailed vendor/tool information.
+
+Use Veblika's native consent/opt-out status for opt-outs; do not create an `OPT-OUT` pipeline tag.
 
 ## Lost-Reason Matrix
 
