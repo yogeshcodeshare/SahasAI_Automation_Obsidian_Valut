@@ -78,19 +78,11 @@ Never store client passwords, tokens, or API keys in any master.
 
 `1.1 NEW LEAD` · `1.2 QUALIFICATION IN PROGRESS` · `1.3 QUALIFIED` · `1.4 SOLUTION / DEMO SHARED` · `1.5 CALL BOOKED` · `1.6 CALL COMPLETED` · `1.7 PROPOSAL SENT` · `1.8 NEGOTIATION` · `1.9 CLOSED WON` · `1.10 ONBOARDING` · `1.11 LIVE CLIENT` · `1.12 REVIEW & REFERRAL` · `1.13 NURTURE` · `1.14 LOST`
 
-### Source / campaign
-
-`SRC: WEBSITE WHATSAPP` · `SRC: GROWTH REEL` · `SRC: GMB` · `SRC: REFERRAL` · `SRC: EXISTING-SYSTEM RESCUE` · `SRC: ORGANIC WHATSAPP`
-
-Use the `Campaign Name / ID` field for each precise campaign. Do not make a new tag for every creative.
-
-### Pain / intent
-
-`PAIN: MISSED ENQUIRIES` · `PAIN: FOLLOW-UP` · `PAIN: BOOKING` · `PAIN: MANUAL WORK` · `PAIN: GOOGLE VISIBILITY` · `PAIN: EXISTING TOOL UNUSED` · `PAIN: SUPPORT GAP`
-
 ### Service / offer interest
 
-`INT: WHATSAPP AUTOMATION` · `INT: N8N WORKFLOW` · `INT: GMB` · `OFFER: GROWTH CHECK` · `OFFER: RESCUE SPRINT`
+`2.1 GMB BOOST INTEREST` · `2.2 WHATSAPP AUTOMATION INTEREST` · `2.3 N8N WORKFLOW INTEREST` · `2.4 AI ASSISTANT INTEREST` · `2.5 WEBSITE / LANDING PAGE INTEREST` · `2.6 SOCIAL / CONTENT INTEREST`
+
+`Lead Source`, `Campaign Name / ID`, `Hook ID`, `Main Bottleneck`, and `Problem Details` remain fields—not tags—so they can be filtered and reported without tag clutter. Existing-System Rescue Sprint has no live field or tag in the first build.
 
 ### Package fit (one active tag only)
 

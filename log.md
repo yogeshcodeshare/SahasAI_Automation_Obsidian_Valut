@@ -210,3 +210,8 @@ Agent: codex
 
 Updated [[sahas-lead-automation-measurement-model]] to use the final exclusive 14-stage pipeline from `1.1 NEW LEAD` through `1.14 LOST`, including DEMO SHARED, NEGOTIATION, ONBOARDING, LIVE CLIENT, and REVIEW & REFERRAL. Opt-out is now explicitly native consent status rather than a manually applied pipeline tag. No credentials or PII recorded.
 Agent: codex
+
+## [2026-08-15] ingest | First lead tag groups clarified
+
+Updated [[sahas-lead-automation-measurement-model]] to remove old source, pain, and Rescue Sprint tags from the first-build tag library. Source/campaign/hook/bottleneck remain reporting fields. The live service-interest group is now `2.1`–`2.6`, followed by the already-finalised `3.1`–`3.6` package-fit group. No credentials or PII recorded.
+Agent: codex
