@@ -59,6 +59,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[decision-marathi-local-business-lead-campaign-direction]] — #decision: Marathi-first missed-enquiry campaign direction; WhatsApp automation active, social assets deferred
 - [[decision-existing-system-rescue-sprint]] — #decision: ₹5,000 milestone-based pilot to implement up to four workflows in a client's existing system
 - [[sahas-lead-automation-measurement-model]] — lead columns, tags, hooks, conversion triggers, loss reasons, KPI definitions, and reporting cadence
+- [[decision-service-catalog-no-lifetime]] — #decision: recurring plan catalogue, fixed-scope boundaries, and no-lifetime policy; verify account terms and GST display before publishing
 - [[whatsapp-message-templates-mr-hi-en]] — tri-lingual approvable template library
 - [[agency-intake-form]] — agency lead capture field set
 - [[coaching-intake-form]] — coaching lead capture field set
