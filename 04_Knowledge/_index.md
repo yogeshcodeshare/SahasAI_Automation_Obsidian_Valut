@@ -38,6 +38,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[whatsapp-template-anatomy]] - the three parts, four footer actions, and every stated limit.
 - [[whatsapp-template-categories-and-approval]] - the category x structure matrix and the approval loop.
 - [[compress-media-before-upload]] - compress before upload; 81% saved with no quality loss.
+- [[digital-akshay-workshop-funnel-reference]] - Marathi webinar sequence reference; structure only, not Sahas copy or public creative.
 
 ## WhatsApp commerce reference (added 2026-08-07, Lesson 6)
 - [[training-lesson-6-catalog-payments]] - Lesson 6 takeaways; the catalog lives at Meta.
