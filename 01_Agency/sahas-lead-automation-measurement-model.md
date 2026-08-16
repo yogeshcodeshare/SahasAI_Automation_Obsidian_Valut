@@ -88,9 +88,9 @@ Never store client passwords, tokens, or API keys in any master.
 
 For the **first live lead automation**, use this final package set only:
 
-`3.1 STARTER` · `3.2 PRO` · `3.3 ELITE` · `3.4 WHATSAPP AUTOMATION` · `3.5 AI WHATSAPP AUTOMATION` · `3.6 SUPERCHARGE`
+`3.1 STARTER` · `3.2 PRO` · `3.3 ELITE` · `3.4 WHATSAPP AUTOMATION` · `3.5 AI POWERED WHATSAPP AUTOMATION` · `3.6 SUPERCHARGE`
 
-`Recommended Plan` is the authoritative field. Use one matching package tag only to filter the Veblika Inbox quickly. The dropdown values are `Starter`, `Pro`, `Elite`, `WhatsApp Automation`, `AI WhatsApp Automation`, `Supercharge`, and `Not decided`. **Do not create a Rescue Sprint field or tag in this first build.**
+`Recommended Plan` is the authoritative field. Use one matching package tag only to filter the Veblika Inbox quickly. The dropdown values are `Starter`, `Pro`, `Elite`, `WhatsApp Automation`, `AI Powered WhatsApp Automation`, `Supercharge`, and `Not decided`. **Do not create a Rescue Sprint field or tag in this first build.**
 
 ### High-intent signals and routing
 

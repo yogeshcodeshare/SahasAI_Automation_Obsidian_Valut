@@ -215,3 +215,8 @@ Agent: codex
 
 Updated [[sahas-lead-automation-measurement-model]] to remove old source, pain, and Rescue Sprint tags from the first-build tag library. Source/campaign/hook/bottleneck remain reporting fields. The live service-interest group is now `2.1`–`2.6`, followed by the already-finalised `3.1`–`3.6` package-fit group. No credentials or PII recorded.
 Agent: codex
+
+## [2026-08-16] ingest | AI Powered WhatsApp Automation label confirmed
+
+Updated [[sahas-lead-automation-measurement-model]] after Yogesh confirmed the exact first-lead package label: `3.5 AI POWERED WHATSAPP AUTOMATION`. The Recommended Plan dropdown uses the matching title `AI Powered WhatsApp Automation`. No credentials or PII recorded.
+Agent: codex
