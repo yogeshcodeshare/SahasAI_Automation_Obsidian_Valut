@@ -230,3 +230,8 @@ Agent: codex
 
 Updated [[sahas-lead-automation-measurement-model]] after Yogesh confirmed the exact first-lead package label: `3.5 AI POWERED WHATSAPP AUTOMATION`. The Recommended Plan dropdown uses the matching title `AI Powered WhatsApp Automation`. No credentials or PII recorded.
 Agent: codex
+
+## [2026-08-23] ingest | First lead-automation template library
+
+Appended the reusable Sahas AI template decisions to [[whatsapp-message-templates-mr-hi-en]]. The first lead library is now ordered as ten templates from `lead_welcome` through `no_show_rebook`, with the first Veblika build recorded: English Text, `{{1}}` name variable, Utility selection, light formatting, and `Yes, Continue` plus `STOP` quick replies. The note records the distinction between Meta Lead Form and user-initiated WhatsApp entries, the later human-handoff CTA, language-version approach, working category caveat, and native opt-out stop rule. Proposal/payment/client-service/event templates remain outside the first lead library. No credentials or PII recorded.
+Agent: codex
