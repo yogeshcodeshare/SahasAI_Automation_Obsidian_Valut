@@ -59,3 +59,26 @@ Refines (does not replace) Phases 1–5 above, after reviewing four AI-agency po
 **Guardrails unchanged.** Pricing stays `emerging` — validate on the first 3 paid calls ([[pricing-ladder]]); while DataForSEO is deferred use demo-labelled audits only (no live-data or ranking promises); scale trigger stays **5–8 stable clients + written portability terms** ([[bizautomation-reseller-deal]]).
 
 The social-media automation offer is an emerging pre-launch experiment: soft-launch Sahas AI content first, validate manual delivery economics, then consider Free/Growth/Supercharge packaging. It must not outrun the existing proof, approval and capacity gates.
+
+## Revision 2026-08-23 — Google Ads entry service with automation upsell
+
+Yogesh plans to learn Google Ads through an eight-week live program with weekly Q&A, campaign optimisation guidance, client-pitch and closing support. The intended sequence is to learn Google Ads while completing the WhatsApp/Veblika and n8n delivery system, then use paid-search management as an entry service and upsell automation after the lead flow is visible.
+
+The initial prospecting hypothesis is to prioritise higher-ticket, service-based businesses that already spend on Meta Ads, such as professional services, clinics, builders/real estate, bridal businesses, and coaching or training businesses. This is a hypothesis to validate, not a guarantee that high-ticket clients are easier to close or retain. The first outreach offer should be a controlled, measurement-led pilot rather than a promise of guaranteed leads.
+
+### Controlled Google-vs-Meta pilot
+
+Approach businesses already running Meta Ads and ask permission to test Google Search using only a small, agreed portion of their existing advertising budget. The client owns the Google Ads account and pays Google directly. Track search terms, qualified calls, WhatsApp conversations, appointments, cost per qualified enquiry, and follow-up completion; do not conclude success from clicks or impressions alone. A seven-day test is a diagnostic pilot, not statistically conclusive proof of long-term performance.
+
+### Eight-week parallel runway
+
+- Weeks 1–2: Google Ads fundamentals; finish the reusable Veblika enquiry flow and agency tracking sheet.
+- Weeks 3–4: keyword intent, landing pages, conversion tracking; build one demo campaign and an audit checklist.
+- Weeks 5–6: search terms, negative keywords, bidding and reporting; connect ad enquiry → WhatsApp → qualification → appointment → follow-up.
+- Weeks 7–8: discovery, pitch and closing practice; approach a small number of already-advertising prospects and offer controlled pilots.
+
+Google Ads should be sold as part of a measurable system: ad → landing page or Google Business Profile → WhatsApp enquiry → n8n/Veblika follow-up → appointment/reporting. The automation layer is the retention and expansion path, not an untested promise made before the manual workflow is understood. Client-critical workflows remain in n8n/Veblika; Hermes remains a personal back-office tool ([[ai-tools-stack-3-layer]]).
+
+Pricing for this offer remains unconfirmed and must be validated through the first three sales conversations ([[pricing-ladder]]). Separate the management/setup fee from the client-funded advertising budget, and do not commit to a universal monthly price or guaranteed lead volume.
+
+For health-related clients, including mental-health or addiction-related services, review Google policy and the client's claims before launch. Avoid personal-attribute wording, guaranteed-treatment claims and sensitive issues as attention hooks; obtain client approval for compliant copy and landing pages. The Manovedh pilot's responsible content boundaries remain the reference ([[manovedh-free-month-plan]]).
