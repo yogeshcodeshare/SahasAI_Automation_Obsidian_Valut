@@ -1,6 +1,7 @@
 ---
 title: Sahas AI Global Tooling and Skill Installation Plan
 created: 2026-09-04
+updated: 2026-09-04
 tags: [knowledge, ai-tools, skills, plugins, scraping, agency]
 source: ChatGPT planning conversation; https://playwright.dev/agent-cli/installation; https://github.com/apify/crawlee
 origin: ai
@@ -20,6 +21,7 @@ Client-critical automation remains in self-hosted n8n; experimental agents and m
 
 - Playwright CLI `@playwright/cli@0.1.19`, verified with its help/version output and a smoke test against example.com.
 - Crawlee `3.18.1`, installed globally and version-verified. Crawlee is the reusable crawler framework; individual crawler projects should still declare their own dependencies.
+- Lighthouse `13.4.1`, installed globally from the official `GoogleChrome/lighthouse` project and version-verified.
 - Official Playwright CLI skills installed for Claude and Agents skill locations.
 
 These installs came from the official npm package/repository sources. Browser binaries are downloaded by Playwright when required rather than treated as a permanent agency dependency.
@@ -31,11 +33,10 @@ Adobe Express, Canva, Creative Production, Data Analytics, Figma, Firecrawl, Gam
 ## Recommended execution order
 
 1. Finish vault registration of this plan.
-2. Install and verify Lighthouse globally for website performance checks.
-3. Use axe-core project-locally with Playwright for accessibility checks; avoid unnecessary global packages.
-4. Create Sahas-specific skills: client intake, business research, competitor intelligence, website strategy, brand/creative direction, campaign/funnel architecture, local SEO/GBP, AEO/GEO audit, content cascade, automation architecture, asset QA, and client handoff.
-5. Add only the connectors needed for a live workflow: Google Drive, Calendar, Airtable, one project-management system, and Apify for a justified scraping job.
-6. Adapt high-fit Samin12 workflows one at a time, beginning with branded-motion-sites, content-skill-pack, ContentRepurposeSystem, storyboard/video starters, and media/thumbnail helpers.
+2. Use axe-core project-locally with Playwright for accessibility checks; avoid unnecessary global packages.
+3. Create Sahas-specific skills: client intake, business research, competitor intelligence, website strategy, brand/creative direction, campaign/funnel architecture, local SEO/GBP, AEO/GEO audit, content cascade, automation architecture, asset QA, and client handoff.
+4. Add only the connectors needed for a live workflow: Google Drive, Calendar, Airtable, one project-management system, and Apify for a justified scraping job.
+5. Adapt high-fit Samin12 workflows one at a time, beginning with branded-motion-sites, content-skill-pack, ContentRepurposeSystem, storyboard/video starters, and media/thumbnail helpers.
 
 ## On-demand only
 
@@ -46,4 +47,3 @@ Strix, Premiere Pro MCP, ComfyUI, Wan2GP, Handy, carousel automation repositorie
 Scraping Facebook, Instagram, and YouTube must respect each platform's access rules, authentication boundaries, rate limits, privacy requirements, and terms. Prefer public, permitted data; never bypass login, anti-bot controls, or consent. Use official APIs where they provide the required data. Human approval is required before publishing, outreach, or spend.
 
 Awesome-Hacking and broad agency-agent catalogs are reference material, not global installs. Automatic social publishing, avatar/voice tools, and security testing against systems without explicit authorization remain out of scope.
-
