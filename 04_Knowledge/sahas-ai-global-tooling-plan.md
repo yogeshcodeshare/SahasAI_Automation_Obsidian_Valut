@@ -25,6 +25,7 @@ Client-critical automation remains in self-hosted n8n; experimental agents and m
 - `@axe-core/playwright` `4.13.0` and Playwright `1.62.1`, installed as development dependencies in `Sahas-AI-Website/frontend` and import-verified.
 - `sahas-client-intake`, created and validated in the global Codex skills directory. It structures enquiries into confirmed facts, missing evidence, hypotheses, approvals, and one recommended next step.
 - `sahas-business-research`, created and validated in the global Codex skills directory. It defines source quality, confidence labels, permitted research boundaries, and decision-ready output.
+- `sahas-competitor-intelligence`, created and validated in the global Codex skills directory. It compares competitors and substitutes using fair, traceable observations and ends with a bounded validation experiment.
 - Official Playwright CLI skills installed for Claude and Agents skill locations.
 
 These installs came from the official npm package/repository sources. Browser binaries are downloaded by Playwright when required rather than treated as a permanent agency dependency.
@@ -37,7 +38,7 @@ Adobe Express, Canva, Creative Production, Data Analytics, Figma, Firecrawl, Gam
 
 1. Finish vault registration of this plan.
 2. Run an accessibility smoke audit with the project-local axe-core/Playwright adapter.
-3. Create the next Sahas-specific skill: competitor intelligence. Continue with website strategy, brand/creative direction, campaign/funnel architecture, local SEO/GBP, AEO/GEO audit, content cascade, automation architecture, asset QA, and client handoff.
+3. Create the next Sahas-specific skill: website strategy. Continue with brand/creative direction, campaign/funnel architecture, local SEO/GBP, AEO/GEO audit, content cascade, automation architecture, asset QA, and client handoff.
 4. Add only the connectors needed for a live workflow: Google Drive, Calendar, Airtable, one project-management system, and Apify for a justified scraping job.
 5. Adapt high-fit Samin12 workflows one at a time, beginning with branded-motion-sites, content-skill-pack, ContentRepurposeSystem, storyboard/video starters, and media/thumbnail helpers.
 
