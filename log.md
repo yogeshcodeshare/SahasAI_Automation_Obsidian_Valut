@@ -216,6 +216,11 @@ Agent: codex
 Created and validated the global `sahas-website-strategy` skill. It connects business positioning to visitor journeys, page jobs, proof boundaries, accessible design requirements, measurement, privacy, and founder approval gates. The next skill in the staged sequence is brand and creative direction. No credentials or PII recorded.
 Agent: codex
 
+## [2026-09-04] update | Sahas brand-and-creative-director skill
+
+Created and validated the global `sahas-brand-and-creative-director` skill. It controls brand-source use, creative direction, Marathi/local-business adaptation, logo/layout rules, rights and provenance, factual claims, accessibility, and human approval before production or publishing. The next skill in the staged sequence is campaign and funnel architecture. No credentials or PII recorded.
+Agent: codex
+
 ## [2026-08-23] ingest | Google Ads entry service and automation upsell
 
 Appended the approved eight-week Google Ads learning runway, high-ticket prospecting hypothesis, controlled seven-day Google-vs-Meta pilot safeguards, client-funded ad-spend rule, and Google Ads → WhatsApp/n8n automation upsell sequence to [[agency-go-to-market-sequence]]. Pricing remains emerging and unconfirmed; health-policy and Manovedh content guardrails were linked rather than duplicated. No new MOC or folder-index lines were needed because the target note was already indexed. No credentials or client PII recorded.

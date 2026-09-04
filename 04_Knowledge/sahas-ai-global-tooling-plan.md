@@ -28,6 +28,7 @@ Client-critical automation remains in self-hosted n8n; experimental agents and m
 - `sahas-competitor-intelligence`, created and validated in the global Codex skills directory. It compares competitors and substitutes using fair, traceable observations and ends with a bounded validation experiment.
 - `sahas-client-intake`, `sahas-business-research`, and `sahas-competitor-intelligence` are the completed Sahas skills to date; their staged records are in the operation log.
 - `sahas-website-strategy`, created and validated in the global Codex skills directory. It connects positioning, visitor journeys, page jobs, proof boundaries, accessibility, measurement, and approval gates.
+- `sahas-brand-and-creative-director`, created and validated in the global Codex skills directory. It covers brand-source control, creative briefs, Marathi/local context, asset QA, rights, and approval-safe production.
 - Official Playwright CLI skills installed for Claude and Agents skill locations.
 
 These installs came from the official npm package/repository sources. Browser binaries are downloaded by Playwright when required rather than treated as a permanent agency dependency.
@@ -40,7 +41,7 @@ Adobe Express, Canva, Creative Production, Data Analytics, Figma, Firecrawl, Gam
 
 1. Finish vault registration of this plan.
 2. Run an accessibility smoke audit with the project-local axe-core/Playwright adapter.
-3. Create the next Sahas-specific skill: brand and creative direction. Continue with campaign/funnel architecture, local SEO/GBP, AEO/GEO audit, content cascade, automation architecture, asset QA, and client handoff.
+3. Create the next Sahas-specific skill: campaign and funnel architecture. Continue with local SEO/GBP, AEO/GEO audit, content cascade, automation architecture, asset QA, and client handoff.
 4. Add only the connectors needed for a live workflow: Google Drive, Calendar, Airtable, one project-management system, and Apify for a justified scraping job.
 5. Adapt high-fit Samin12 workflows one at a time, beginning with branded-motion-sites, content-skill-pack, ContentRepurposeSystem, storyboard/video starters, and media/thumbnail helpers.
 
