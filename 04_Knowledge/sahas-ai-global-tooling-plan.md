@@ -26,6 +26,7 @@ Client-critical automation remains in self-hosted n8n; experimental agents and m
 - `sahas-client-intake`, created and validated in the global Codex skills directory. It structures enquiries into confirmed facts, missing evidence, hypotheses, approvals, and one recommended next step.
 - `sahas-business-research`, created and validated in the global Codex skills directory. It defines source quality, confidence labels, permitted research boundaries, and decision-ready output.
 - `sahas-competitor-intelligence`, created and validated in the global Codex skills directory. It compares competitors and substitutes using fair, traceable observations and ends with a bounded validation experiment.
+- `sahas-client-intake`, `sahas-business-research`, and `sahas-competitor-intelligence` are the completed Sahas skills to date; their staged records are in the operation log.
 - Official Playwright CLI skills installed for Claude and Agents skill locations.
 
 These installs came from the official npm package/repository sources. Browser binaries are downloaded by Playwright when required rather than treated as a permanent agency dependency.
@@ -45,6 +46,8 @@ Adobe Express, Canva, Creative Production, Data Analytics, Figma, Firecrawl, Gam
 ## On-demand only
 
 Strix, Premiere Pro MCP, ComfyUI, Wan2GP, Handy, carousel automation repositories, Apify Actors, and Firecrawl paid capacity should be enabled only when a defined project needs them and the license, local resource cost, and data permissions are clear.
+
+Agent Reach and OpenCLI are separately deferred under [[agent-reach-opencli-on-demand-policy]]. Try Crawlee + Playwright first for authorized LinkedIn, Reddit, Facebook, or Instagram work; use these two only as a scoped fallback when the first approach is insufficient.
 
 ## Guardrails
 

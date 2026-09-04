@@ -206,6 +206,11 @@ Agent: codex
 Created and validated the global `sahas-competitor-intelligence` skill. It requires a defined comparison scope, comparable evidence, fair-use boundaries for platform data, separation of observation from inference, and one bounded opportunity-validation experiment. The next skill in the staged sequence is `sahas-website-strategy`. No credentials or PII recorded.
 Agent: codex
 
+## [2026-09-04] ingest | Agent Reach and OpenCLI deferred fallback decision
+
+Created [[agent-reach-opencli-on-demand-policy]] after Yogesh approved saving the evaluation. Agent Reach and OpenCLI remain uninstalled and available for later retrieval; Crawlee + Playwright are the first approach for authorized scraping, with the two browser/research tools evaluated only if that approach is insufficient for a defined LinkedIn, Reddit, Facebook, or Instagram task. No credentials or PII recorded.
+Agent: codex
+
 ## [2026-08-23] ingest | Google Ads entry service and automation upsell
 
 Appended the approved eight-week Google Ads learning runway, high-ticket prospecting hypothesis, controlled seven-day Google-vs-Meta pilot safeguards, client-funded ad-spend rule, and Google Ads → WhatsApp/n8n automation upsell sequence to [[agency-go-to-market-sequence]]. Pricing remains emerging and unconfirmed; health-policy and Manovedh content guardrails were linked rather than duplicated. No new MOC or folder-index lines were needed because the target note was already indexed. No credentials or client PII recorded.
