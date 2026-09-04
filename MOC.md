@@ -50,6 +50,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[meta-business-verification-notes]] — verification timeline + status
 - [[hermes-desktop-and-samin12-research]] — is Samin12's hermes-desktop the same Hermes? + candidate building blocks
 - [[on-demand-skill-installation-policy]] — install third-party skills on-demand, not preemptively; scrapling-official precedent
+- [[sahas-ai-global-tooling-plan]] — staged global installs, connectors, on-demand repositories, and scraping guardrails
 
 ## WhatsApp automation offer
 - [[whatsapp-lead-sop-8-stage]] — the 8-stage lead spine; backbone of the WhatsApp offer

@@ -235,3 +235,8 @@ Agent: codex
 
 Appended the reusable Sahas AI template decisions to [[whatsapp-message-templates-mr-hi-en]]. The first lead library is now ordered as ten templates from `lead_welcome` through `no_show_rebook`, with the first Veblika build recorded: English Text, `{{1}}` name variable, Utility selection, light formatting, and `Yes, Continue` plus `STOP` quick replies. The note records the distinction between Meta Lead Form and user-initiated WhatsApp entries, the later human-handoff CTA, language-version approach, working category caveat, and native opt-out stop rule. Proposal/payment/client-service/event templates remain outside the first lead library. No credentials or PII recorded.
 Agent: codex
+
+## [2026-09-04] ingest | Sahas AI global tooling and skill installation plan
+
+Created [[sahas-ai-global-tooling-plan]] recording the approved staged-installation policy: Playwright CLI and Crawlee are globally installed and verified; Lighthouse is the next shared tool; axe-core and most repositories remain project-local or on-demand; connectors and scraping must be enabled per justified workflow with platform, privacy, licensing, and human-approval guardrails. No credentials or PII recorded.
+Agent: codex
