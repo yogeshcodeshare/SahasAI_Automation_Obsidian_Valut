@@ -186,6 +186,11 @@ Agent: claude-code
 Notes created: 1, indexes updated: 2. Created [[decision-marathi-local-business-lead-campaign-direction]] in 01_Agency after Yogesh explicitly approved the future campaign direction and asked to save it. The decision records the approved original Marathi-first anchor, "ओरडून नाही, system ने business वाढतो", the missed-enquiry story, the Click-to-WhatsApp → qualify → Growth Check booking direction, and the safeguard that user-supplied MBG videos are structural inspiration only, not copyable creative or performance proof. It also records the deliberate scope boundary: WhatsApp automation is the current workstream; reel shooting scripts, Canva creatives/carousels, and social-media automation are deferred until that future workstream. Dedupe: searched existing agency, project, and knowledge notes for Marathi campaign, Click-to-WhatsApp, and missed-enquiry coverage; the existing agency plan covers entry points and the intake form covers bottlenecks, but neither captured the approved campaign decision and deferred scope. Source: user-supplied transcripts plus an earlier public research pass; Watch download of the first URL was blocked by the local proxy, so no visual claim is made. Maturity: emerging. No credentials or PII recorded.
 Agent: codex
 
+## [2026-09-04] ingest | Seedance video prompt patterns
+
+Created [[seedance-video-prompt-patterns]] from the publicly accessible Dreamina Seedance 2.5 guide after Yogesh approved ingestion. The note retains only five original, transferable patterns for clean B-roll, clip continuation, precise local edits, reference consistency, and storyboard planning. It explicitly requires real supplied assets where trust matters, Canva for final important text, approval before publication, and validation on two or three real Sahas assets before promotion. Maturity: theoretical. No credentials or PII recorded. Remote pull was attempted first but could not connect to GitHub; sync remains unconfirmed.
+Agent: codex
+
 ## [2026-09-04] update | Lighthouse and accessibility tooling
 
 Installed Lighthouse globally from the official GoogleChrome Lighthouse project and verified version `13.4.1`. Added `@axe-core/playwright` `4.13.0` and Playwright `1.62.1` as development dependencies in `Sahas-AI-Website/frontend`; both imports verify. No credentials or PII recorded.

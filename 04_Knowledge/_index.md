@@ -13,6 +13,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[on-demand-skill-installation-policy]] — install third-party Claude Code skills on-demand, not in bulk.
 - [[sahas-ai-global-tooling-plan]] — staged global installs, connectors, on-demand repositories, and scraping guardrails.
 - [[agent-reach-opencli-on-demand-policy]] — defer Agent Reach/OpenCLI; use only as an authorized scraping fallback.
+- [[seedance-video-prompt-patterns]] — theoretical, credibility-safe Seedance-derived patterns for local-business short-video generation and edits; validate before client use.
 
 ## Patterns & learnings
 - [[feature-kill-switch-fail-safe-off]] — gate a risky/paid feature behind a fail-safe-OFF switch.
