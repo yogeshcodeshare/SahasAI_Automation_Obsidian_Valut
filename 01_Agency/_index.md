@@ -11,6 +11,8 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[pricing-ladder]] — service pricing ladder
 - [[bizautomation-reseller-deal]] — GHL/Veblika/VPS reseller terms + risks
 - [[gst-legal-structure]] — GSTIN, SAC codes, Udyam, trade name, CA questions
+- [[qr-review-code-pilot]] — emerging one-week Google Review QR pilot and measurement SOP
+- [[ganpati-qr-offer-poster-brief]] — emerging Marathi-first Ganpati QR offer creative brief
 
 ## WhatsApp automation offer (added 2026-08-05)
 - [[whatsapp-lead-sop-8-stage]] - the 8-stage lead spine; backbone of the WhatsApp offer.

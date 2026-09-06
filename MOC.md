@@ -23,6 +23,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[bizautomation-reseller-deal]] — GHL/Veblika/VPS reseller terms + risks
 - [[gst-legal-structure]] — GSTIN, SAC codes, Udyam, trade name
 - [[service-offerings]] — what we sell
+- [[qr-review-code-pilot]] — emerging one-week Google Review QR pilot and measurement SOP
+- [[ganpati-qr-offer-poster-brief]] — emerging Marathi-first Ganpati QR offer creative brief
 
 ## Clients
 - [[manovedh-profile]] — FIRST CLIENT: Manovedh Hypnoclinic (Dr Sachin Patil, Karad)
