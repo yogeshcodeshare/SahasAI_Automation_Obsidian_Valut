@@ -14,6 +14,8 @@ Reference material, how-tos, research, and saved learnings.
 - [[sahas-ai-global-tooling-plan]] — staged global installs, connectors, on-demand repositories, and scraping guardrails.
 - [[agent-reach-opencli-on-demand-policy]] — defer Agent Reach/OpenCLI; use only as an authorized scraping fallback.
 - [[seedance-video-prompt-patterns]] — theoretical, credibility-safe Seedance-derived patterns for local-business short-video generation and edits; validate before client use.
+- [[kewal-kishan-competitor-content]] — emerging 35-angle competitor-source capture; verify claims before publishing.
+- [[lakshit-whatsapp-automation-content]] — emerging 30-angle WhatsApp and AI competitor-source capture; verify claims before publishing.
 
 ## Patterns & learnings
 - [[feature-kill-switch-fail-safe-off]] — gate a risky/paid feature behind a fail-safe-OFF switch.

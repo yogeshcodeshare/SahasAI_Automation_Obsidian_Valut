@@ -25,6 +25,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[service-offerings]] — what we sell
 - [[qr-review-code-pilot]] — emerging one-week Google Review QR pilot and measurement SOP
 - [[ganpati-qr-offer-poster-brief]] — emerging Marathi-first Ganpati QR offer creative brief
+- [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries
+- [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards
 
 ## Clients
 - [[manovedh-profile]] — FIRST CLIENT: Manovedh Hypnoclinic (Dr Sachin Patil, Karad)
@@ -55,6 +57,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[sahas-ai-global-tooling-plan]] — staged global installs, connectors, on-demand repositories, and scraping guardrails
 - [[agent-reach-opencli-on-demand-policy]] — defer Agent Reach/OpenCLI; use only as an authorized scraping fallback
 - [[seedance-video-prompt-patterns]] — theoretical prompt patterns for credible local-business short-video generation and editing; validate before client use
+- [[kewal-kishan-competitor-content]] — emerging 35-angle competitor-source capture; verify claims before publishing
+- [[lakshit-whatsapp-automation-content]] — emerging 30-angle WhatsApp and AI competitor-source capture; verify claims before publishing
 
 ## WhatsApp automation offer
 - [[whatsapp-lead-sop-8-stage]] — the 8-stage lead spine; backbone of the WhatsApp offer

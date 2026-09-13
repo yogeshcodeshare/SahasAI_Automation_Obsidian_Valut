@@ -14,6 +14,10 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[qr-review-code-pilot]] — emerging one-week Google Review QR pilot and measurement SOP
 - [[ganpati-qr-offer-poster-brief]] — emerging Marathi-first Ganpati QR offer creative brief
 
+## Content strategy
+- [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries.
+- [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards.
+
 ## WhatsApp automation offer (added 2026-08-05)
 - [[whatsapp-lead-sop-8-stage]] - the 8-stage lead spine; backbone of the WhatsApp offer.
 - [[crm-and-field-model]] - masters, capture fields, generalised field groups.

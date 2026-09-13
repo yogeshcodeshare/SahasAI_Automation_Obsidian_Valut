@@ -284,3 +284,8 @@ Agent: codex
 
 Created [[sahas-ai-global-tooling-plan]] recording the approved staged-installation policy: Playwright CLI and Crawlee are globally installed and verified; Lighthouse is the next shared tool; axe-core and most repositories remain project-local or on-demand; connectors and scraping must be enabled per justified workflow with platform, privacy, licensing, and human-approval guardrails. No credentials or PII recorded.
 Agent: codex
+
+## [2026-09-13] ingest | Four-part Sahas AI content library and Sheet classification
+
+Created [[sahas-ai-content-calendar]], [[ai-content-strategy-blueprint]], [[kewal-kishan-competitor-content]], and [[lakshit-whatsapp-automation-content]]. Indexed the two Sahas planning notes under Agency and the two competitor-source captures under Knowledge. Mirrored 115 content entries into four native Google Sheet tables and added a row-level `USP / Content Style` classification column for filtering. Competitor claims and platform specifics remain subject to current-source verification before publication. No credentials or client PII recorded.
+Agent: codex
