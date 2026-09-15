@@ -26,6 +26,7 @@ Reference material, how-tos, research, and saved learnings.
 
 ## WhatsApp automation reference (added 2026-08-05)
 - [[whatsapp-api-pricing-model-india]] - Meta per-message categories; verify rates before quoting.
+- [[whatsapp-meta-current-pricing-and-service-rules-2026-09]] - current 24-hour CSW, 72-hour FEP and October 2026 Service/Utility billing rules.
 - [[sop-agent-7-step-method]] - the 7-step client-onboarding framework.
 - [[training-lesson-3-sop-crm-logic]] - Lesson 3 takeaways (trainer's view, not yet validated).
 

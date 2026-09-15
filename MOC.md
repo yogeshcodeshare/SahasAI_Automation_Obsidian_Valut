@@ -36,6 +36,7 @@ Home index for the vault. Links get added as content is ingested.
 
 ## Projects
 - [[whatsapp-automation-agency-phased-plan]] — the 8-phase roadmap (WhatsApp+n8n → GHL → website/social → Hermes → coaching), Yogesh-approved, pointer to the working folder
+- [[whatsapp-sahas-ai-current-build-brief]] — current Veblika components, forms, template history, local source map, and Claude handoff context
 - [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard
 - [[gmb-sarathi-build-status]] — M0–M6 status, MVP gate met, remaining
@@ -46,6 +47,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook
 
 ## Knowledge — reference & research
+- [[whatsapp-meta-current-pricing-and-service-rules-2026-09]] — current Meta Service/Utility windows and October 2026 billing change
 - [[ai-tools-stack-3-layer]] — n8n (sell) / Claude (build) / Hermes (own); DeepSeek costs; video tools
 - [[grexa-competitor-intel]] — closest competitor + the ₹5k/yr app vision
 - [[whatsapp-automation-vendors]] — Veblika, GHL, DoubleTick, account reuse
