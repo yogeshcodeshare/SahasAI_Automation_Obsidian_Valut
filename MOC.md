@@ -113,6 +113,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[lead-stages-pipeline]] — the 7-stage pipeline, confirmed live, and what triggers each transition
 - [[whatsapp-bulk-broadcast-and-block-ratio]] — broadcast results, rebroadcast-failed, and the 3x block-ratio rule
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
+- [[veblika-platform-admin-reference]] — vendor KB metric definitions, platform navigation map, and the KB's staleness caveat
+- [[veblika-gemini-ai-bot-flow]] — Veblika's documented five-node AI bot pattern, and why it is not the right starting point yet
+- [[meta-utility-template-library-snapshot]] — Meta's 164-entry Utility template library, and the library-vs-custom route
 
 ## Patterns & learnings (from GMB Sarathi)
 - [[feature-kill-switch-fail-safe-off]]

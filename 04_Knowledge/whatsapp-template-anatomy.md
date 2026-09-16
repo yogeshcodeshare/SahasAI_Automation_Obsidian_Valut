@@ -1,7 +1,7 @@
 ---
 title: WhatsApp Template Anatomy & Limits
 created: 2026-08-07
-updated: 2026-08-12
+updated: 2026-09-16
 tags: [whatsapp, templates, reference, knowledge]
 source: Class 5 recording — WhatsApp Templates Mastery; limits read from the BizAutomation interface
 origin: ai
@@ -87,4 +87,48 @@ The interface enforces the minimum live: attempting to save a card with no butto
 
 **The trainer's stated position on testimonial format**, worth carrying into any client-facing testimonial build: image testimonials carry little to no benefit; text testimonials carry essentially none; **only video testimonials build real value and trust today**. A full testimonial carousel, built and sent live in Class 9, uses exactly this card/button structure — one video per card, a "Check All Testimonials" button on the first card linking out to the full YouTube playlist for anyone who wants more than the two or three previewed → [[training-lesson-9-welcome-to-appointment-booking]].
 
-Related: [[whatsapp-template-categories-and-approval]], [[whatsapp-message-templates-mr-hi-en]], [[training-lesson-5-templates-mastery]], [[training-lesson-9-welcome-to-appointment-booking]]
+## Update — 2026-09-16: button, send-time and availability mechanics (from the Lesson 5 long-form notes)
+
+Detail present in the source lesson document that this note had not carried.
+
+### The Interactive Actions selector
+
+The builder exposes exactly seven choices, and they are mutually exclusive except for `All`:
+
+`None` · `Call to Actions` · `Quick Replies` · **`All`** · `Product Card Carousel` · `Media Card Carousel` · `Form`
+
+`All` is what allows CTA buttons **and** quick replies on the same template — the combination used in the worked build (three project quick replies + a URL button + a phone button on one template).
+
+### Static vs dynamic URL buttons
+
+| URL type | Behaviour | Use for |
+|---|---|---|
+| **Static** | Every recipient gets the same link | Website, signup page, brochure |
+| **Dynamic** | The link is completed per recipient at send time | A personal hall ticket, a specific booking, a per-customer document |
+
+Dynamic URLs are the mechanism for anything that is genuinely *that person's* link. Configuration was deferred in the class.
+
+### Action availability is not uniform across categories
+
+The trainer's stated caveat, worth testing rather than assuming: a **general** template exposes all four footer actions (form, CTA, quick reply, options menu); a **marketing** template exposed only two in his experience (CTA and quick reply). He also reported having had **Forms approved under Utility in some cases**, even though they usually land in Marketing. Availability varies by platform and changes over time — verify on the live account before promising a client a specific combination, and never treat "the Form button was allowed" as evidence of category eligibility → [[whatsapp-meta-current-pricing-and-service-rules-2026-09]].
+
+### The STOP button is best practice, not a Meta rule
+
+On marketing sends, make one of the three quick replies a STOP/Unsubscribe. The trainer is explicit that **Meta does not require this** — the argument is arithmetic: a tap on your own STOP button costs one contact, while a block or report is a permanent negative signal against the number's quality rating. It writes the same flag as the opt-out keywords in [[whatsapp-marketing-capping-and-deliverability]]. It does **not** make a template Utility.
+
+### Header document types
+
+PDF is what reliably works. Word and plain-text files may or may not be accepted — check the permitted types on the upload control of the platform you are actually on before designing a client workflow around a `.docx` attachment.
+
+### Send time: mapping, media and the silent failure
+
+- **Body Mapping** at send time offers a dropdown of the contact's own fields — Name, Phone, Email, WABA Phone Number, and every custom column. Each `{{n}}` is either mapped to a field (resolves per recipient) or given a fixed value (same for everyone on this send).
+- **Media can be swapped at send time** without re-submitting the template for approval — one approved template can carry different creative on different campaigns. The image is picked from the Gallery (marked *Recommended*) or supplied as a URL.
+- **A carousel send asks for a media URL per card**, not an upload — so upload to the Gallery first and copy each URL → [[veblika-platform-admin-reference]].
+- **No wallet balance = nothing sends, quietly.** A marketing template with an unfunded wallet simply does not go out, with no obvious error. Check the wallet before debugging templates, variables or approval status → [[whatsapp-api-billing-credit-line]].
+
+### Where account health is visible
+
+The Templates screen lists the connected number with **Quality** (GREEN in the demo) and **Throughput** (STANDARD). Read both before every campaign; if quality moves off green, stop broadcasting → [[whatsapp-number-safety-warm-up]].
+
+Related: [[whatsapp-template-categories-and-approval]], [[whatsapp-message-templates-mr-hi-en]], [[training-lesson-5-templates-mastery]], [[training-lesson-9-welcome-to-appointment-booking]], [[veblika-platform-admin-reference]]

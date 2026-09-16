@@ -82,3 +82,9 @@ Reference material, how-tos, research, and saved learnings.
 ## Google Sheets integration and OAuth (added 2026-08-12, Lesson 12)
 - [[training-lesson-12-google-sheets-integration]] - flow ID filtering, plan routing, a live bug, and a full Sheets integration.
 - [[google-oauth-setup-for-bizautomation]] - the Google Cloud Console checklist, reusable for any Google API connection.
+
+## Vendor platform reference and Meta library (added 2026-09-16)
+- [[veblika-platform-admin-reference]] - the vendor KB's dashboard metric definitions, the full navigation map, Gallery/Manual-fill/rebroadcast, and why the KB is thinner than the live product.
+- [[veblika-gemini-ai-bot-flow]] - Veblika's own five-node AI bot recipe, its missing knowledge base and tools, and where it does not fit the current build.
+- [[meta-utility-template-library-snapshot]] - Meta's 164-entry Utility library snapshot, the library-vs-custom route, and what the previews do not contain.
+

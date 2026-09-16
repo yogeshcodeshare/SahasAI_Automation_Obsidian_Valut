@@ -1,7 +1,7 @@
 ---
 title: Bizautomation Reseller Deal
 created: 2026-08-02
-updated: 2026-08-14
+updated: 2026-09-16
 tags: [agency, vendors, bizautomation, ghl, veblika]
 source: Claude planning conversation
 origin: ai
@@ -46,3 +46,16 @@ Sahas AI is now a **formal associate partner of BizAutomation** (bizautomation.i
 - No reseller margin, white-label terms, or minimum-commitment figures were found in the source PDF — the terms above (from the original deal conversation) remain the only reseller-specific numbers on record, but are now unverified against current pricing.
 
 Full detail and open-items tracking: [[whatsapp-automation-agency-phased-plan]].
+
+## Update — 2026-09-16: observed operational link to Automation Saathi (evidence, not proof)
+
+The "no cross-links between them" point above needs qualifying. The training course Yogesh holds locally is itself the link:
+
+- The course — *AI-Powered WhatsApp Automation System*, a 12-lesson WHATSAPP BUSINESS API module — is hosted at **`client.automationsaathi.com`**.
+- The platform it teaches, and the signup link given inside the lessons, is **`https://app.bizautomation.io/signup`**.
+- The instructor account is **Automation Prince (Ai Automation Coach)**; the on-screen watermark reads Prince Gupta.
+- The vendor knowledge-base document supplied with it is branded Veblika over the same BizAutomation product.
+
+So the two brands are operationally entwined — one sells the course that onboards you to the other. That is a real commercial relationship and worth knowing. It is **still not proof of a single legal entity**, which is what the open item actually asks: the footers name *SPBG BizAutomation Private Limited* and *KTPG Professional Saathi Corporate Consultant Private Limited* respectively, and a course-hosting arrangement is compatible with either same-group or arm's-length structures.
+
+**Do not resolve Phase-0 item 8 on this evidence.** The question that matters commercially — which legal entity Sahas AI's associate-partner terms are actually with, and whose name goes on any public "Associate Partner" credit — still needs a written answer from the BizAutomation contact. Source detail: [[whatsapp-course-curriculum-map]].

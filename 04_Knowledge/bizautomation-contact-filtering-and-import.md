@@ -1,7 +1,7 @@
 ---
 title: BizAutomation — Contact Filtering, Bulk Actions & CSV Import
 created: 2026-08-06
-updated: 2026-08-11
+updated: 2026-09-16
 tags: [whatsapp, bizautomation, veblika, crm, how-to, knowledge]
 source: Class 4 recording — WhatsApp Business API Automation course; AND/OR logic and Broadcast confirmed live in Class 10
 origin: ai
@@ -75,4 +75,27 @@ Other segment examples from the class: leads interested in a specific configurat
 
 **Also confirmed live in Class 10:** the Broadcast action's full results loop — Sent / Delivered / Failed tracking, and one-click rebroadcast scoped to failures → [[whatsapp-bulk-broadcast-and-block-ratio]].
 
-Related: [[whatsapp-tag-numbering-convention]], [[training-lesson-4-tagging-contacts-compliance]], [[training-lesson-10-lead-capturing-management]], [[whatsapp-bulk-broadcast-and-block-ratio]]
+## Update — 2026-09-16: Notes, Reminders, and broadcasting without an import
+
+Three mechanics from the Lesson 4 long-form notes that this note referenced only in passing.
+
+### Notes, Activity and Reminders live on the contact
+
+Inbox → open a chat → Contact Details → three tabs beneath the custom fields: **Notes**, **Activity**, **Reminders**.
+
+- **Notes** hold what a dropdown cannot — "client is out of station, will visit on the 14th". Attached to the contact and visible to whoever picks the conversation up next, which is the whole argument for a shared inbox over individual phones.
+- **Reminders** take a *Reminder To* (a named team member — not necessarily whoever created it), a free-text message, and a date/time. The worked pattern for a scheduled visit is **two** reminders: one the day before to confirm, one on the day itself, because a confirmation the day before does not guarantee attendance.
+
+The trainer's claim, worth recording as his and not ours: for a small team, **notes + reminders + custom fields already cover appointment tracking, follow-ups and handover context**, removing the need for a separate CRM subscription. Unvalidated in Sahas AI delivery — it does not cover proposals, payments or reporting, so treat it as a starting position rather than an architecture.
+
+### Campaign → Manual fill — broadcast without importing anything
+
+Campaigns → **Manual fill** → select the number and template → paste phone numbers, **one per line, each with the country code** → Validate → Broadcast. Useful for a short list that does not deserve a CSV import. The same 5,000-per-session ceiling applies → [[whatsapp-number-safety-warm-up]].
+
+### Rebroadcast is scoped by status, and one option is a trap
+
+A campaign's report allows rebroadcasting to a chosen status: **sent, delivered, read, or failed**. Rebroadcast-to-**failed** is the recovery path already recorded in [[whatsapp-bulk-broadcast-and-block-ratio]]. Rebroadcast-to-**read** is documented by the vendor as a remarketing option — re-messaging people who already opened the last one is exactly the behaviour that drives blocks, so it should be a deliberate decision, not a convenience click.
+
+Full platform navigation map and the vendor KB's own metric definitions → [[veblika-platform-admin-reference]].
+
+Related: [[whatsapp-tag-numbering-convention]], [[training-lesson-4-tagging-contacts-compliance]], [[training-lesson-10-lead-capturing-management]], [[whatsapp-bulk-broadcast-and-block-ratio]], [[veblika-platform-admin-reference]]

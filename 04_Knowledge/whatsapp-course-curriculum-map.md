@@ -1,7 +1,7 @@
 ---
 title: WhatsApp Automation Course — Curriculum Map
 created: 2026-08-06
-updated: 2026-08-12
+updated: 2026-09-16
 tags: [training, whatsapp, curriculum, reference, knowledge]
 source: Course platform sidebar, read from Class 4 recording frames
 origin: ai
@@ -51,4 +51,14 @@ The local capture of lesson 4 runs **39:03**; the course player shows the full l
 
 Check this before assuming a topic was not covered: it may simply be outside the recorded portion.
 
-Related: [[whatsapp-automation-vendors]], [[bizautomation-reseller-deal]]
+## Where the long-form lesson documents live (added 2026-09-16)
+
+Each lesson has a full written note on disk, outside the vault, alongside its recording:
+
+`Ai Automation/What's App Automation/video lecture/04_...Notes.docx` through `12_...Notes.docx`
+
+They are substantially longer than our vault notes — 30,000 to 60,000 characters each, with screenshot descriptions, on-screen limits and quick-reference tables. The vault notes are the distilled version; go back to the `.docx` when a specific UI detail, limit or error message needs checking rather than re-watching the video.
+
+A 2026-09-16 gap pass over all nine documents found the vault's lesson coverage essentially complete. What it did surface went into [[veblika-platform-admin-reference]], [[veblika-gemini-ai-bot-flow]], and appended sections in [[whatsapp-template-anatomy]] and [[bizautomation-contact-filtering-and-import]].
+
+Related: [[whatsapp-automation-vendors]], [[bizautomation-reseller-deal]], [[veblika-platform-admin-reference]]
