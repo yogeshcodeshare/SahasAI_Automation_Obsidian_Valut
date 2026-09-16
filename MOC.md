@@ -62,7 +62,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[kewal-kishan-competitor-content]] — emerging 35-angle competitor-source capture; verify claims before publishing
 - [[lakshit-whatsapp-automation-content]] — emerging 30-angle WhatsApp and AI competitor-source capture; verify claims before publishing
 
-## WhatsApp automation offer
+## WhatsApp automation — agency offer & operating reference
+
+### Agency offer, delivery and current build
 - [[whatsapp-lead-sop-8-stage]] — the 8-stage lead spine; backbone of the WhatsApp offer
 - [[crm-and-field-model]] — masters, capture fields, generalised field groups
 - [[lead-stages-pipeline]] — stage dropdown, site-visit sub-statuses, maturity ladder
@@ -77,6 +79,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[coaching-intake-form]] — coaching lead capture field set
 - [[client-onboarding-brief]] — reusable step-1 capture for any new client
 - [[whatsapp-api-pricing-model-india]] — Meta per-message costs; verify before quoting
+
+### Course map, core concepts and compliance
 - [[sop-agent-7-step-method]] — the 7-step client-onboarding framework
 - [[training-lesson-3-sop-crm-logic]] — Lesson 3 takeaways (trainer's view, unvalidated)
 - [[training-lesson-4-tagging-contacts-compliance]] — Lesson 4 takeaways: tags vs fields, compliance, contacts
@@ -86,22 +90,32 @@ Home index for the vault. Links get added as content is ingested.
 - [[bizautomation-contact-filtering-and-import]] — OR-in-group / AND-between-groups, bulk actions, CSV rules
 - [[sop-automation-ai-progression]] — SOP → Automation → AI; why AI is never the first step
 - [[whatsapp-course-curriculum-map]] — the 12-lesson module, what each lesson assumes, recording caveat
+
+### Template design and approval
 - [[training-lesson-5-templates-mastery]] — Lesson 5 takeaways: templates are the only way to broadcast
 - [[whatsapp-template-anatomy]] — header/body/footer, the four footer actions, every character limit
 - [[whatsapp-template-categories-and-approval]] — marketing/utility/auth × general/carousel, and the approval loop
 - [[compress-media-before-upload]] — 1.79 MB → 358 KB; why a heavy image costs you a broadcast
+
+### Commerce, billing and payments
 - [[training-lesson-6-catalog-payments]] — Lesson 6 takeaways: the catalog lives at Meta, not in your platform
 - [[whatsapp-catalog-setup]] — Commerce Manager, the CSV schema, the two IDs, and the errors
 - [[meta-business-portfolio-map]] — what lives where in business.facebook.com settings
 - [[whatsapp-api-billing-credit-line]] — no prepaid; a card at Meta before any marketing message sends
 - [[whatsapp-payment-configuration-india]] — gateways, gateway-generated UPI only, and the payment-link shortcut
+
+### Forms and structured data capture
 - [[training-lesson-7-whatsapp-forms]] — Lesson 7 takeaways: forms are how data enters the system
 - [[whatsapp-forms-builder-reference]] — three build methods, field types, limits, rejection rules
 - [[whatsapp-forms-json-portability]] — build a form library once, deploy per client in seconds
+
+### Chatbot, workflow and AI architecture
 - [[training-lesson-8-workflow-vs-ai-automation]] — Lesson 8: the distinction the whole course rests on
 - [[automation-trigger-and-action]] — the universal grammar of every automation builder
 - [[ai-agent-five-components]] — system prompt, user message, memory, knowledge base, tools
 - [[whatsapp-chatbot-builder-reference]] — all 16 builder nodes, limits and the reusable-keyword pattern
+
+### Lead journeys, booking and broadcasts
 - [[training-lesson-9-welcome-to-appointment-booking]] — Lesson 9: a full chatbot built and tested live
 - [[lead-capture-option1-vs-option2]] — showcase-first vs requirement-first, the deciding question for any flow
 - [[appointment-booking-via-ghl]] — why a text link isn't a booking system, and the GHL alternative
@@ -112,6 +126,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[training-lesson-10-lead-capturing-management]] — Lesson 10: tagging, attributes, appointment booking, segmentation
 - [[lead-stages-pipeline]] — the 7-stage pipeline, confirmed live, and what triggers each transition
 - [[whatsapp-bulk-broadcast-and-block-ratio]] — broadcast results, rebroadcast-failed, and the 3x block-ratio rule
+
+### Integrations, vendor reference and reusable source material
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 - [[veblika-platform-admin-reference]] — vendor KB metric definitions, platform navigation map, and the KB's staleness caveat
 - [[veblika-gemini-ai-bot-flow]] — Veblika's documented five-node AI bot pattern, and why it is not the right starting point yet
