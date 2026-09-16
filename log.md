@@ -320,3 +320,8 @@ Agent: codex
 Updated [[whatsapp-chatbot-builder-reference]] from Yogesh's current Veblika screenshots: the live account shows one trigger and 17 actions, adding Fetch Contact beyond the 16 actions in the older course capture. Fetch Contact's exact output is still untested and is therefore not required for C1. No credentials or personal contact data recorded.
 Agent: codex
 
+## [2026-09-16] ingest | Live Veblika Tags and Columns verified
+
+Updated the native chatbot roadmap and local build plan from Yogesh's current Veblika screenshots. Existing fields cover C1–C4, including Appointment Date/Time, Appointment Time, Appointment Status and Assigned To; existing numbered tags cover new lead, qualification, follow-up and human review. No duplicate tag or Column is needed. A callback form submission must not receive CALL BOOKED until Yogesh manually confirms availability.
+Agent: codex
+

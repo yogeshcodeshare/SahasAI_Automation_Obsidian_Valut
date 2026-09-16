@@ -25,6 +25,12 @@ Build these four deterministic native chatbots first:
 
 Existing-client support intake is deliberately excluded from this portfolio.
 
+## Live Tags and Columns verified from Veblika screenshots
+
+The current account already has the fields needed for C1–C4: Preferred Language, Business Name / Brand name, Business Type, Main Business Problems, Desired Outcome, Timeline, Current WhatsApp Setup, Current Tools, Appointment Date/Time (DATE), Appointment Time (SELECT), Appointment Status, and Assigned To. Do not create duplicate callback-date or callback-time fields. `Preferred Call Time` stores broad periods and should not replace the exact `Appointment Time` value from the booking form.
+
+Reuse the existing numbered tags: `1.1 NEW LEAD`, `1.2 QUALIFICATION IN PROGRESS`, `1.3 QUALIFIED`, `4.2 FOLLOW-UP DUE` or `4.4 WAITING FOR CLIENT`, and `4.3 HUMAN REVIEW NEEDED`. Apply `1.5 CALL BOOKED` only after Yogesh confirms the requested slot; a form submission alone is not a booking. Later journeys use `1.10 ONBOARDING` and `1.12 REVIEW & REFERRAL`. No new tag or Column is required for C1–C4 based on the supplied screenshots. The exact stored format of the date field must be verified in the F2 test.
+
 ## Native supporting Flows
 
 Build these behind-the-scenes Flows alongside C2 and C3. They do not replace customer-facing chatbots.
@@ -73,4 +79,4 @@ At 6 hours per week, the core should take about 3 weeks. At 9–10 hours per wee
 - Test new number and existing contact, every button/list branch, abandoned and completed forms, tag/Column mapping, human handoff, and delayed reminders.
 - Publish one chatbot at a time. Keep the next chatbot as Draft until the earlier one passes end-to-end testing.
 
-Related: [[whatsapp-sahas-ai-current-build-brief]], [[whatsapp-chatbot-builder-reference]], [[whatsapp-forms-builder-reference]], [[whatsapp-flow-builder-webhook-reference]], [[veblika-native-ai-assistant-capabilities]], [[decision-veblika-native-chatbot-first]].
+Related: [[whatsapp-sahas-ai-current-build-brief]], [[whatsapp-chatbot-builder-reference]], [[whatsapp-forms-builder-reference]], [[whatsapp-flow-builder-webhook-reference]], [[veblika-native-ai-assistant-capabilities]], [[decision-veblika-native-chatbot-first]], [[crm-and-field-model]].
