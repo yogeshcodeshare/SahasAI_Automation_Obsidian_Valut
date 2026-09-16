@@ -305,3 +305,8 @@ Agent: claude-code
 Rechecked the supplied long-form Lesson 4–11 documents against [[whatsapp-course-curriculum-map]] and their matching training/reference notes. The prior gap pass already covered the material; no duplicate lesson notes were created. Reorganised the root MOC's WhatsApp area into agency delivery, course/compliance, templates, commerce, forms, chatbot/workflow/AI, lead journeys, and integrations/vendor references. This is navigation-only: no source notes were moved, deleted, or rewritten, so existing wikilinks remain stable. The vendor KB's older/incomplete feature inventory remains qualified in [[veblika-platform-admin-reference]].
 Agent: codex
 
+## [2026-09-16] ingest | Native Veblika AI Assistant screenshot evidence
+
+Added [[veblika-native-ai-assistant-capabilities]] at Yogesh's explicit request: predefined roles, custom prompt, TXT upload limit, and earlier Chatbot AI Agent assistant selector. Direct saved-assistant reuse in the separate Flow Builder is user-reported and remains unverified. Clarified that the older Gemini recipe's missing KB step is not a platform-wide limitation. Indexed the note; no pricing or prior agency decisions changed. No personal contacts or credentials stored.
+Agent: codex
+

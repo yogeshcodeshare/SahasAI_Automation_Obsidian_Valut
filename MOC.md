@@ -110,6 +110,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[whatsapp-forms-json-portability]] — build a form library once, deploy per client in seconds
 
 ### Chatbot, workflow and AI architecture
+
+- [[veblika-native-ai-assistant-capabilities]] — supported screenshot evidence for prompt modes, roles, TXT knowledge base and Chatbot AI Agent selection; Flow Builder reuse remains unverified.
 - [[training-lesson-8-workflow-vs-ai-automation]] — Lesson 8: the distinction the whole course rests on
 - [[automation-trigger-and-action]] — the universal grammar of every automation builder
 - [[ai-agent-five-components]] — system prompt, user message, memory, knowledge base, tools
