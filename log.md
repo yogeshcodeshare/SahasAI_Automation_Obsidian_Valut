@@ -315,3 +315,8 @@ Agent: codex
 Ingested Yogesh's confirmed planning decisions from the WhatsApp automation discussion: the C1–C6 chatbot portfolio; immediate C1–C4 release plus F1/F2 guarded form processors; existing-client support intake exclusion; later AI Assistant, n8n, and n8n+GHL allocation; and the decision not to use native Calendly for live booking. Created [[veblika-native-chatbot-and-flow-roadmap]] and [[decision-veblika-native-chatbot-first]], with the detailed build plan retained in the local working folder. No credentials, personal contacts, or raw chat transcript were stored.
 Agent: codex
 
+## [2026-09-16] ingest | Current Veblika Chatbot-V2 action inventory
+
+Updated [[whatsapp-chatbot-builder-reference]] from Yogesh's current Veblika screenshots: the live account shows one trigger and 17 actions, adding Fetch Contact beyond the 16 actions in the older course capture. Fetch Contact's exact output is still untested and is therefore not required for C1. No credentials or personal contact data recorded.
+Agent: codex
+

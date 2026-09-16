@@ -1,8 +1,9 @@
 ---
 title: WhatsApp Chatbot Builder — Node Reference
 created: 2026-08-07
+updated: 2026-09-16
 tags: [whatsapp, chatbot, reference, how-to, knowledge]
-source: Class 8 recording — BizAutomation Chatbot-V2, 25:51–50:03
+source: Class 8 recording — BizAutomation Chatbot-V2, 25:51–50:03; Yogesh's current Veblika Chatbot-V2 screenshots, 2026-09-16
 origin: ai
 author: claude-code
 maturity: supported
@@ -12,7 +13,7 @@ maturity: supported
 
 Every node in BizAutomation's **Chatbot-V2** builder, as demonstrated live. Other platforms differ (he names DoubleTick as an example), but the node *types* are close to universal.
 
-`Sidebar → Chatbot → New Chatbot`. The builder shows **Triggers 1** and **Actions 16**, with a Draft/Published toggle.
+`Sidebar → Chatbot → New Chatbot`. The original class recording showed **Triggers 1** and **Actions 16**. Yogesh's current Veblika screen shows **Triggers 1** and **Actions 17**, so live account UI takes precedence where the two differ.
 
 ## The one trigger
 
@@ -39,7 +40,7 @@ Rather than rebuilding a flow per template:
 
 His stated reason: *so you do not have to define the follow-up again and again.* The result is a **library of keyword-triggered flows** any template can call — the same reuse logic as [[whatsapp-forms-json-portability]].
 
-## The sixteen actions
+## The seventeen actions currently visible
 
 | Action | What it does | Key settings |
 |---|---|---|
@@ -58,7 +59,12 @@ His stated reason: *so you do not have to define the follow-up again and again.*
 | Ask Location | Requests location | Prompt message |
 | Update Columns | Writes to a custom field | Column, value, **dynamic variables allowed** |
 | Update Tag | Assigns a tag | Tags to assign |
+| Fetch Contact | Retrieves the current contact record for later steps | Confirm the fields exposed in the live test output before depending on it |
 | Stop Chatbot | Ends the bot's involvement | No configuration |
+
+### Live-UI update — 2026-09-16
+
+**Fetch Contact** is the seventeenth action visible in Yogesh's current Chatbot-V2 account. It was not present in the older course capture, so its precise output fields and configuration have not yet been tested. Use it only when a later chatbot step needs to read an existing contact value; C1 does not require it because C1 writes its own language and tag values. Test it in Draft before building a production dependency around it.
 
 ## Ask Question — capturing data without a form
 
