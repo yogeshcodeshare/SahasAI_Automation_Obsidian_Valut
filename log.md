@@ -310,3 +310,8 @@ Agent: codex
 Added [[veblika-native-ai-assistant-capabilities]] at Yogesh's explicit request: predefined roles, custom prompt, TXT upload limit, and earlier Chatbot AI Agent assistant selector. Direct saved-assistant reuse in the separate Flow Builder is user-reported and remains unverified. Clarified that the older Gemini recipe's missing KB step is not a platform-wide limitation. Indexed the note; no pricing or prior agency decisions changed. No personal contacts or credentials stored.
 Agent: codex
 
+## [2026-09-16] ingest | Veblika native chatbot and Flow roadmap
+
+Ingested Yogesh's confirmed planning decisions from the WhatsApp automation discussion: the C1–C6 chatbot portfolio; immediate C1–C4 release plus F1/F2 guarded form processors; existing-client support intake exclusion; later AI Assistant, n8n, and n8n+GHL allocation; and the decision not to use native Calendly for live booking. Created [[veblika-native-chatbot-and-flow-roadmap]] and [[decision-veblika-native-chatbot-first]], with the detailed build plan retained in the local working folder. No credentials, personal contacts, or raw chat transcript were stored.
+Agent: codex
+

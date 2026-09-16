@@ -35,6 +35,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[manovedh-free-month-plan]] — free first-month delivery plan
 
 ## Projects
+- [[veblika-native-chatbot-and-flow-roadmap]] — confirmed C1–C6 native Veblika portfolio, supporting Flows, deferred stack and job-friendly build plan
+- [[decision-veblika-native-chatbot-first]] — #decision: C1–C4 plus F1–F2 first; no native Calendly/live booking
 - [[whatsapp-automation-agency-phased-plan]] — the 8-phase roadmap (WhatsApp+n8n → GHL → website/social → Hermes → coaching), Yogesh-approved, pointer to the working folder
 - [[whatsapp-sahas-ai-current-build-brief]] — current Veblika components, forms, template history, local source map, and Claude handoff context
 - [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers

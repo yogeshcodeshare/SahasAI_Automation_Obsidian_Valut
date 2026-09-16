@@ -3,6 +3,8 @@
 Active builds (e.g. GMB Sarathi, WhatsApp automation).
 
 ## Projects
+- [[veblika-native-chatbot-and-flow-roadmap]] — confirmed C1–C6 portfolio, native supporting Flows, phased ownership and build pace.
+- [[decision-veblika-native-chatbot-first]] — #decision: start with C1–C4 and F1–F2; defer AI, n8n/GHL and live booking.
 - [[whatsapp-automation-agency-phased-plan]] — the 8-phase WhatsApp+n8n+GHL+website+Hermes roadmap; pointer to the full working folder.
 - [[whatsapp-sahas-ai-current-build-brief]] — current Veblika components, forms, templates, local source map and no-Google public-offer guardrail.
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard (7-day build complete; deploy held on 2 decisions).
