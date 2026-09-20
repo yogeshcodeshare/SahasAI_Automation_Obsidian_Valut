@@ -344,3 +344,8 @@ Agent: codex
 
 Created [[ghl-social-media-scheduling-comment-management-lecture-visual-notes]] from the local 34:07 `3_1 Social Media Scheduling and Comment Management.mp4` capture and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The companion Word guide was saved in the GHL Account `Video lecture` folder with representative embedded timestamped screenshots. The extracted frames, audio attempt, course description, frame map, and build script were retained under `Video lecture/supporting files/3_1 Social Media Scheduling and Comment Management/`. Audio transcription was unavailable because the Whisper network request was refused; raw account/comment identifiers were kept out of the vault note. GitHub pull/push could not be completed because the local network could not reach GitHub.
 Agent: codex
+
+## [2026-09-20] ingest | GHL Instagram DM Automation visual lecture
+
+Created [[ghl-instagram-dm-automation-lecture-visual-notes]] from the refined 0:00–22:00 cut of the local `3_2 Build Instagram DM Automation in GoHighLevel.mp4` recording and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The original 52:39 recording was retained; the refined copy was verified at 22:00.021. The companion Word guide includes eight embedded timestamped screenshots. The 40 extracted frames, watch report, video verification, course description, frame index, contact sheet, and build script were retained under `Video lecture/supporting files/3_2 Build Instagram DM Automation in GoHighLevel/`. No transcript was available; no credentials, tokens, or personal contact values were stored in the vault. GitHub pull/push could not be completed because the local network could not reach GitHub.
+Agent: codex
