@@ -349,3 +349,8 @@ Agent: codex
 
 Created [[ghl-instagram-dm-automation-lecture-visual-notes]] from the refined 0:00–22:00 cut of the local `3_2 Build Instagram DM Automation in GoHighLevel.mp4` recording and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The original 52:39 recording was retained; the refined copy was verified at 22:00.021. The companion Word guide includes eight embedded timestamped screenshots. The 40 extracted frames, watch report, video verification, course description, frame index, contact sheet, and build script were retained under `Video lecture/supporting files/3_2 Build Instagram DM Automation in GoHighLevel/`. No transcript was available; no credentials, tokens, or personal contact values were stored in the vault. GitHub pull/push could not be completed because the local network could not reach GitHub.
 Agent: codex
+
+## [2026-09-20] ingest | GHL Instagram Comments and DMs visual lecture
+
+Created [[ghl-instagram-comments-dms-lecture-visual-notes]] from the local 24:24 `3_3 Automate Instagram Comments and DMs in GoHighLevel.mp4` capture and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The companion Word guide includes eight embedded timestamped screenshots and the supporting folder retains 54 watch frames, the watch report, video verification, course description, frame index, contact sheet, and build script. No transcript was available; raw account/comment identifiers were kept out of the vault note. GitHub pull/push could not be completed because the local network could not reach GitHub.
+Agent: codex

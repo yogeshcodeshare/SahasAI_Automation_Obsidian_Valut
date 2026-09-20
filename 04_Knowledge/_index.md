@@ -8,6 +8,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[ghl-ads-manager-lead-generation-lecture-visual-notes]] - screenshot-backed visual notes for Meta/GoHighLevel lead-generation ads, creative, previews, lead forms, and review state; audio unavailable in this capture.
 - [[ghl-social-media-scheduling-comment-management-lecture-visual-notes]] - screenshot-backed visual notes for Social Planner, multi-channel posting, previews, and centralized comment replies; audio unavailable in this capture.
 - [[ghl-instagram-dm-automation-lecture-visual-notes]] - screenshot-backed visual notes for Instagram DM triggers, interactive buttons, branches, tagging, testing, and Conversations handoff; transcript unavailable in this capture.
+- [[ghl-instagram-comments-dms-lecture-visual-notes]] - screenshot-backed visual notes for Instagram comment triggers, post/keyword scope, automatic replies, DM handoff, offer branching, and Social Planner comment management; transcript unavailable in this capture.
 - [[ai-tools-stack-3-layer]] — n8n (sell) / Claude (build) / Hermes (own); DeepSeek cost; video tools.
 - [[grexa-competitor-intel]] — closest GMB competitor + the ₹5k/yr client-app vision.
 - [[whatsapp-automation-vendors]] — Veblika, GHL, DoubleTick, WABA ownership, account reuse.
