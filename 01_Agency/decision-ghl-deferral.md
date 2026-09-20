@@ -54,3 +54,5 @@ Full phased plan (Phase 1a–1d WhatsApp+n8n → Phase 2 GHL → Phase 3 website
 ## Evidence pointer — 2026-09-20
 
 The local recording `1_1 Contacts & Opportunities.mp4` provides screenshot-backed evidence of the GHL/BizAutomation-style Contacts, Opportunities, pipeline, custom-field, table-view, and Smart List interfaces. See [[ghl-contacts-and-opportunities-lecture-visual-notes]]. This is a capability reference only; it does not alter the Phase 2 adoption decision, current pricing, or the need to verify live account behaviour.
+
+The follow-on recording `1_2 Sales Workflow (Trigger & Actions).mp4` adds visual evidence for workflow triggers, action chaining, assignment, tasks, opportunity updates, testing, and publish controls. See [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]].

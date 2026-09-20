@@ -329,3 +329,8 @@ Agent: codex
 
 Created [[ghl-contacts-and-opportunities-lecture-visual-notes]] from the local 17:16 `1_1 Contacts & Opportunities.mp4` capture and linked it from [[MOC]] and [[04_Knowledge/_index]]. Added an evidence pointer to [[decision-ghl-deferral]] without changing the Phase 2 adoption decision. The companion Word guide was saved in the GHL Account `Video lecture` folder with embedded timestamped screenshots. Audio transcription was unavailable because the Whisper network request was refused; no personal contact details or credentials were stored. GitHub pull/push could not be completed because the local network could not reach GitHub.
 Agent: codex
+
+## [2026-09-20] ingest | GHL Sales Workflow trigger and actions visual lecture
+
+Created [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]] from the local 13:59 `1_2 Sales Workflow (Trigger & Actions).mp4` capture and linked it from [[MOC]] and [[04_Knowledge/_index]]. Cross-linked the preceding Contacts & Opportunities visual note and added a capability pointer to [[decision-ghl-deferral]] without changing the Phase 2 adoption decision. The companion Word guide was saved in the GHL Account `Video lecture` folder with embedded timestamped screenshots. Audio transcription was unavailable because the Whisper network request was refused; no personal contact details or credentials were stored. GitHub pull/push could not be completed because the local network could not reach GitHub.
+Agent: codex

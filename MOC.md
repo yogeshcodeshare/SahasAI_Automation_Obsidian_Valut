@@ -50,6 +50,7 @@ Home index for the vault. Links get added as content is ingested.
 
 ## Knowledge — reference & research
 - [[ghl-contacts-and-opportunities-lecture-visual-notes]] — screenshot-backed visual notes from the Contacts & Opportunities GHL lecture; audio unavailable in this capture.
+- [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]] — screenshot-backed visual notes for workflow triggers, actions, assignment, tasks, and opportunity updates; audio unavailable in this capture.
 - [[whatsapp-meta-current-pricing-and-service-rules-2026-09]] — current Meta Service/Utility windows and October 2026 billing change
 - [[ai-tools-stack-3-layer]] — n8n (sell) / Claude (build) / Hermes (own); DeepSeek costs; video tools
 - [[grexa-competitor-intel]] — closest competitor + the ₹5k/yr app vision

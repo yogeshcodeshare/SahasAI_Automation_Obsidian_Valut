@@ -52,3 +52,7 @@ That separation is compatible with the existing Sahas AI CRM model in [[crm-and-
 - [[whatsapp-automation-vendors]] — existing vendor comparison and GHL capability summary; re-verify current claims before quoting.
 - [[crm-and-field-model]] — Sahas AI's proposed CRM masters and field groups.
 - [[lead-stages-pipeline]] — existing stage model; do not silently replace it with the demo pipeline labels in this recording.
+
+## Related lecture
+
+The next lecture covers workflow triggers and actions, including pipeline-stage change, tag, assignment, task, and opportunity-update nodes: [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]].

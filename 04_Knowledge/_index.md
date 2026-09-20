@@ -4,6 +4,7 @@ Reference material, how-tos, research, and saved learnings.
 
 ## Reference & research
 - [[ghl-contacts-and-opportunities-lecture-visual-notes]] - screenshot-backed visual notes for Contacts, Opportunities, pipelines, custom fields, and Smart Lists; audio unavailable in this capture.
+- [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]] - screenshot-backed visual notes for workflow triggers, actions, assignment, tasks, and opportunity updates; audio unavailable in this capture.
 - [[ai-tools-stack-3-layer]] — n8n (sell) / Claude (build) / Hermes (own); DeepSeek cost; video tools.
 - [[grexa-competitor-intel]] — closest GMB competitor + the ₹5k/yr client-app vision.
 - [[whatsapp-automation-vendors]] — Veblika, GHL, DoubleTick, WABA ownership, account reuse.
