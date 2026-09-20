@@ -6,6 +6,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[ghl-contacts-and-opportunities-lecture-visual-notes]] - screenshot-backed visual notes for Contacts, Opportunities, pipelines, custom fields, and Smart Lists; audio unavailable in this capture.
 - [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]] - screenshot-backed visual notes for workflow triggers, actions, assignment, tasks, and opportunity updates; audio unavailable in this capture.
 - [[ghl-ads-manager-lead-generation-lecture-visual-notes]] - screenshot-backed visual notes for Meta/GoHighLevel lead-generation ads, creative, previews, lead forms, and review state; audio unavailable in this capture.
+- [[ghl-social-media-scheduling-comment-management-lecture-visual-notes]] - screenshot-backed visual notes for Social Planner, multi-channel posting, previews, and centralized comment replies; audio unavailable in this capture.
 - [[ai-tools-stack-3-layer]] — n8n (sell) / Claude (build) / Hermes (own); DeepSeek cost; video tools.
 - [[grexa-competitor-intel]] — closest GMB competitor + the ₹5k/yr client-app vision.
 - [[whatsapp-automation-vendors]] — Veblika, GHL, DoubleTick, WABA ownership, account reuse.

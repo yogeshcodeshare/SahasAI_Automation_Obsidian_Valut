@@ -339,3 +339,8 @@ Agent: codex
 
 Created [[ghl-ads-manager-lead-generation-lecture-visual-notes]] from the local 52:38 `2_1 GoHighLevel Ads Manager for Lead Generation.mp4` capture and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The companion Word guide was saved in the GHL Account `Video lecture` folder with representative embedded timestamped screenshots. Audio transcription was unavailable because the Whisper network request was refused; no personal contact details, credentials, or tokens were stored. GitHub pull/push could not be completed because the local network could not reach GitHub.
 Agent: codex
+
+## [2026-09-20] ingest | GHL Social Media Scheduling and Comment Management visual lecture
+
+Created [[ghl-social-media-scheduling-comment-management-lecture-visual-notes]] from the local 34:07 `3_1 Social Media Scheduling and Comment Management.mp4` capture and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The companion Word guide was saved in the GHL Account `Video lecture` folder with representative embedded timestamped screenshots. The extracted frames, audio attempt, course description, frame map, and build script were retained under `Video lecture/supporting files/3_1 Social Media Scheduling and Comment Management/`. Audio transcription was unavailable because the Whisper network request was refused; raw account/comment identifiers were kept out of the vault note. GitHub pull/push could not be completed because the local network could not reach GitHub.
+Agent: codex
