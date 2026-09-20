@@ -325,3 +325,7 @@ Agent: codex
 Updated the native chatbot roadmap and local build plan from Yogesh's current Veblika screenshots. Existing fields cover C1–C4, including Appointment Date/Time, Appointment Time, Appointment Status and Assigned To; existing numbered tags cover new lead, qualification, follow-up and human review. No duplicate tag or Column is needed. A callback form submission must not receive CALL BOOKED until Yogesh manually confirms availability.
 Agent: codex
 
+## [2026-09-20] ingest | GHL Contacts & Opportunities visual lecture
+
+Created [[ghl-contacts-and-opportunities-lecture-visual-notes]] from the local 17:16 `1_1 Contacts & Opportunities.mp4` capture and linked it from [[MOC]] and [[04_Knowledge/_index]]. Added an evidence pointer to [[decision-ghl-deferral]] without changing the Phase 2 adoption decision. The companion Word guide was saved in the GHL Account `Video lecture` folder with embedded timestamped screenshots. Audio transcription was unavailable because the Whisper network request was refused; no personal contact details or credentials were stored. GitHub pull/push could not be completed because the local network could not reach GitHub.
+Agent: codex

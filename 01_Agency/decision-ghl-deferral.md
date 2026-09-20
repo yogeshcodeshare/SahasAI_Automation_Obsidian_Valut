@@ -50,3 +50,7 @@ This changes review-trigger (a) below — GHL adoption is now scheduled on its o
 Full phased plan (Phase 1a–1d WhatsApp+n8n → Phase 2 GHL → Phase 3 website/social → Phase 4 Hermes → Phase 5 coaching vertical) is summarized in [[whatsapp-automation-agency-phased-plan]], with the detailed build-ready version in the working folder `What's App Automation/WhatsApp Automation template & workflow/` (outside the vault — planning workspace, not yet mirrored here in full).
 
 *Status note: if later reversed or superseded, do not delete — set `status:` accordingly and link the replacing note.*
+
+## Evidence pointer — 2026-09-20
+
+The local recording `1_1 Contacts & Opportunities.mp4` provides screenshot-backed evidence of the GHL/BizAutomation-style Contacts, Opportunities, pipeline, custom-field, table-view, and Smart List interfaces. See [[ghl-contacts-and-opportunities-lecture-visual-notes]]. This is a capability reference only; it does not alter the Phase 2 adoption decision, current pricing, or the need to verify live account behaviour.
