@@ -138,6 +138,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[whatsapp-bulk-broadcast-and-block-ratio]] — broadcast results, rebroadcast-failed, and the 3x block-ratio rule
 
 ### Integrations, vendor reference and reusable source material
+
+- [[veblika-whatsapp-messaging-api-reference]] — supported screenshot-backed Veblika API contract, side-effecting GET warning, template/status endpoints, and production validation gates.
 - [[whatsapp-automation-deliverables]] — the two HTML deliverables from the 2 Aug session
 - [[veblika-platform-admin-reference]] — vendor KB metric definitions, platform navigation map, and the KB's staleness caveat
 - [[veblika-gemini-ai-bot-flow]] — Veblika's documented five-node AI bot pattern, and why it is not the right starting point yet

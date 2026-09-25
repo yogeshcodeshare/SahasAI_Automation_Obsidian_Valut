@@ -92,6 +92,7 @@ Reference material, how-tos, research, and saved learnings.
 ## Vendor platform reference and Meta library (added 2026-09-16)
 
 - [[veblika-native-ai-assistant-capabilities]] — supported native AI Assistant UI evidence; distinguishes confirmed chatbot selection from unverified Flow Builder reuse.
+- [[veblika-whatsapp-messaging-api-reference]] — screenshot-backed Veblika send/template/status API map, GET-send risk, n8n safety gates, and unresolved documentation gaps.
 - [[veblika-platform-admin-reference]] - the vendor KB's dashboard metric definitions, the full navigation map, Gallery/Manual-fill/rebroadcast, and why the KB is thinner than the live product.
 - [[veblika-gemini-ai-bot-flow]] - Veblika's own five-node AI bot recipe, its missing knowledge base and tools, and where it does not fit the current build.
 - [[meta-utility-template-library-snapshot]] - Meta's 164-entry Utility library snapshot, the library-vs-custom route, and what the previews do not contain.

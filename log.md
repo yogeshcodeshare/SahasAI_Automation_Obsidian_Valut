@@ -354,3 +354,8 @@ Agent: codex
 
 Created [[ghl-instagram-comments-dms-lecture-visual-notes]] from the local 24:24 `3_3 Automate Instagram Comments and DMs in GoHighLevel.mp4` capture and linked it from [[MOC]], [[04_Knowledge/_index]], and [[decision-ghl-deferral]]. The companion Word guide includes eight embedded timestamped screenshots and the supporting folder retains 54 watch frames, the watch report, video verification, course description, frame index, contact sheet, and build script. No transcript was available; raw account/comment identifiers were kept out of the vault note. GitHub pull/push could not be completed because the local network could not reach GitHub.
 Agent: codex
+
+## [2026-09-25] ingest | Veblika WhatsApp Messaging API reference
+
+Created [[veblika-whatsapp-messaging-api-reference]] from 45 screenshots supplied by Yogesh from the live BizAutomation/Veblika Developers API documentation, and linked it from [[MOC]] and [[04_Knowledge/_index]]. The note records six session-window send types, eleven POST template shapes, six GET query-parameter template variants, template listing, and message-status lookup. The review flags the side-effecting GET send design as a logging/cache/retry risk, preserves provider-specific fields such as `amount_1000`, and keeps response schemas, rate limits, retries, idempotency, webhook signatures, and media constraints explicitly unverified. The detailed local Markdown reference and screenshot archive were updated separately. No real API key, token, OTP, personal contact number, or other secret was stored.
+Agent: codex
