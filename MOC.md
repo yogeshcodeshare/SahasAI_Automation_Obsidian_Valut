@@ -18,7 +18,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[decision-ghl-deferral]] — #decision: defer GoHighLevel, run Veblika + n8n + Sheets (awaiting founder confirmation)
 - [[sahas-ai-overview]] — who/what/launch/philosophy
 - [[brand-name-sahas-ai]] — name decision + rejected options
-- [[sahas-ai-logo-direction]] — original connected-mark brief; final asset pending review
+- [[sahas-ai-logo-direction]] — connected-mark brief + final logo set (horizontal, stacked, seal) and usage rules
 - [[pricing-ladder]] — service pricing
 - [[bizautomation-reseller-deal]] — GHL/Veblika/VPS reseller terms + risks
 - [[gst-legal-structure]] — GSTIN, SAC codes, Udyam, trade name
@@ -27,6 +27,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[ganpati-qr-offer-poster-brief]] — emerging Marathi-first Ganpati QR offer creative brief
 - [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries
 - [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards
+- [[sahas-notes-pdf-style-rules]] — approved notes/carousel look: Kalam + Patrick Hand, Light/Dark modes, icon restraint, logo placement
+- [[sahas-content-language-conventions]] — emerging English/Hinglish/Marathi writing rules and fixed labels for Sahas content
 
 ## Clients
 - [[manovedh-profile]] — FIRST CLIENT: Manovedh Hypnoclinic (Dr Sachin Patil, Karad)
@@ -64,6 +66,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[meta-business-verification-notes]] — verification timeline + status
 - [[hermes-desktop-and-samin12-research]] — is Samin12's hermes-desktop the same Hermes? + candidate building blocks
 - [[on-demand-skill-installation-policy]] — install third-party skills on-demand, not preemptively; scrapling-official precedent
+- [[notebook-notes-pdf-skill]] — Sahas notebook-style PDF/carousel generator skill: local path, GitHub repo, modes, languages
+- [[india-msme-udyam-registrations-2026]] — 7.83–7.9 crore Udyam registrations (PIB, Feb–Mar 2026) as market-size context
 - [[sahas-ai-global-tooling-plan]] — staged global installs, connectors, on-demand repositories, and scraping guardrails
 - [[agent-reach-opencli-on-demand-policy]] — defer Agent Reach/OpenCLI; use only as an authorized scraping fallback
 - [[seedance-video-prompt-patterns]] — theoretical prompt patterns for credible local-business short-video generation and editing; validate before client use

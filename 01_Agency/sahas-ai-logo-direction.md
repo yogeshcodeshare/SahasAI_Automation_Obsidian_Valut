@@ -1,6 +1,7 @@
 ---
 title: Sahas AI Logo Direction
 created: 2026-08-05
+updated: 2026-09-27
 tags: [agency, sahas-ai, branding, logo]
 source: Founder design references and logo brief
 origin: ai
@@ -32,3 +33,24 @@ maturity: emerging
 5. SVG/vector source plus web PNG exports.
 
 Related: [[brand-name-sahas-ai]], [[sahas-ai-website]].
+
+## Final asset set and usage rules (appended 2026-09-27, claude-code)
+
+These are the logos Yogesh supplied and approved for the notes-PDF skill ([[notebook-notes-pdf-skill]]).
+Files live in the skill's `assets/brand/`, as vector SVGs rebuilt from `MAster Sahas Logo SVG.svg`, with PNG fallbacks.
+
+- **Horizontal logo** (mark | SAHAS ai + "BUSINESS AUTOMATION AGENCY"): brown `#362415` and cream `#F7F4E9` versions.
+- **Stacked logo** (mark above SAHAS ai): near-black `#281F1E` and cream versions.
+- **Round seal:** gold ring with SAHAS AI and "AUTOMATE • GROW • SUCCEED" around the mark on dark `#1B1714`. It was rebuilt from a screenshot, so the lettering font is approximate.
+- **Accent:** the gold star `#E0A843`.
+
+**Usage rules (Yogesh):**
+- Cream versions go only on dark backgrounds; brown/dark versions go on light backgrounds.
+- The horizontal brown logo is the top-right badge on inner pages.
+- Stacked logos go only on the first page (cover) and the last page (thank-you).
+- The round seal is used only where a stamp fits naturally.
+- The full agency name is **Sahas AI Business Automation Agency** (it matches the Udyam enterprise name in [[gst-legal-structure]]).
+
+The earlier "final asset pending review" status is superseded for these files. The trademark/domain check
+listed above is still not recorded as done, so this note stays `emerging`.
+

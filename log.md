@@ -359,3 +359,9 @@ Agent: codex
 
 Created [[veblika-whatsapp-messaging-api-reference]] from 45 screenshots supplied by Yogesh from the live BizAutomation/Veblika Developers API documentation, and linked it from [[MOC]] and [[04_Knowledge/_index]]. The note records six session-window send types, eleven POST template shapes, six GET query-parameter template variants, template listing, and message-status lookup. The review flags the side-effecting GET send design as a logging/cache/retry risk, preserves provider-specific fields such as `amount_1000`, and keeps response schemas, rate limits, retries, idempotency, webhook signatures, and media constraints explicitly unverified. The detailed local Markdown reference and screenshot archive were updated separately. No real API key, token, OTP, personal contact number, or other secret was stored.
 Agent: codex
+
+## [2026-09-27] ingest | Notebook notes-PDF skill, brand logo rules, content language conventions, Udyam figures
+
+Created [[notebook-notes-pdf-skill]], [[sahas-notes-pdf-style-rules]], [[sahas-content-language-conventions]] and [[india-msme-udyam-registrations-2026]]. Appended the final logo set and Yogesh's logo-usage rules to [[sahas-ai-logo-direction]] (maturity kept emerging; trademark/domain check not recorded). All are linked from [[MOC]] and the 01_Agency / 04_Knowledge `_index` files. Source: a Claude Code session in which Yogesh approved the notes-PDF skill page by page. The skill repo (github.com/yogeshcodeshare/sahas-notebook-pdf-skill) was public at first push; Yogesh said he would make it private. No credentials, personal contact details or reference-creator material were stored.
+Notes created: 4, updated: 1. Agent: claude-code
+

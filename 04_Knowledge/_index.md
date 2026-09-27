@@ -97,3 +97,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[veblika-gemini-ai-bot-flow]] - Veblika's own five-node AI bot recipe, its missing knowledge base and tools, and where it does not fit the current build.
 - [[meta-utility-template-library-snapshot]] - Meta's 164-entry Utility library snapshot, the library-vs-custom route, and what the previews do not contain.
 
+## Content tooling and market context (added 2026-09-27)
+
+- [[notebook-notes-pdf-skill]] — Sahas notebook-style PDF/carousel generator skill: where it lives, how it works, modes and languages.
+- [[india-msme-udyam-registrations-2026]] — PIB Udyam registration counts (Feb–Mar 2026) as market-size context.

@@ -33,3 +33,5 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[client-onboarding-brief]] - reusable step-1 capture for any new client.
 - [[decision-ghl-deferral]] - #decision: defer GoHighLevel, run Veblika + n8n + Sheets; review triggers recorded.
 - [[social-media-automation-offer-plan]] - emerging social-content service, pilot tiers and SOP.
+- [[sahas-notes-pdf-style-rules]] - approved notes/carousel style: fonts, Light/Dark modes, icon restraint, logo placement.
+- [[sahas-content-language-conventions]] - emerging English/Hinglish/Marathi content writing rules.
