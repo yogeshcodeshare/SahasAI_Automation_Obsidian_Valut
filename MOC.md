@@ -42,6 +42,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[whatsapp-automation-agency-phased-plan]] — the 8-phase roadmap (WhatsApp+n8n → GHL → website/social → Hermes → coaching), Yogesh-approved, pointer to the working folder
 - [[whatsapp-sahas-ai-current-build-brief]] — current Veblika components, forms, template history, local source map, and Claude handoff context
 - [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers
+- [[n8n-sahas-ai-production-deployment]] — current Dokploy deployment, PostgreSQL 17 transition, deferred backup and client-readiness gates
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard
 - [[gmb-sarathi-build-status]] — M0–M6 status, MVP gate met, remaining
 - [[gmb-sarathi-tech-setup]] — repo, keys, migrations, blockers, Windows quirks

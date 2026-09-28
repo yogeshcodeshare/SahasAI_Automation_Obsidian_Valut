@@ -30,6 +30,11 @@ grep "^## \[" log.md | tail -10
 Structure, protocol files, and sync configured. No knowledge content ingested yet.
 Agent: claude-code
 
+## [2026-09-28] ingest | n8n Sahas AI production deployment
+
+Created [[n8n-sahas-ai-production-deployment]] from Yogesh's Dokploy and n8n deployment session. The note records the reachable `https://n8n.sahasai.in` instance, owner-login confirmation, PostgreSQL 17 active volume, retained PostgreSQL 16 rollback volume, deferred automatic backups/2FA, workflow-folder limitation, and observed task-runner/shell warnings. Linked it from [[MOC]] and [[03_Projects/_index]]. No encryption key, database password, or other secret was recorded. GitHub pull/push is currently blocked because the local network cannot reach GitHub.
+Agent: codex
+
 ## [2026-08-02] ingest | Full agency knowledge base
 Ingested the Sahas AI knowledge base from the Claude planning chats: 6 agency notes (01_Agency), 4 Manovedh client notes (02_Clients/manovedh), 3 GMB Sarathi project companions (03_Projects), 6 knowledge/research notes (04_Knowledge). MOC + all _index.md updated. 19 notes total; no duplicates of the existing 5 pattern notes.
 Agent: claude-code
