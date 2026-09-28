@@ -26,9 +26,12 @@ Home index for the vault. Links get added as content is ingested.
 - [[qr-review-code-pilot]] — emerging one-week Google Review QR pilot and measurement SOP
 - [[ganpati-qr-offer-poster-brief]] — emerging Marathi-first Ganpati QR offer creative brief
 - [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries
+
+- [[sahas-ai-reel-production-plan]] — emerging three-reel weekly production plan, reviewed workbook boundary, and proof-first editorial rules
 - [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards
 - [[sahas-notes-pdf-style-rules]] — approved notes/carousel look: Kalam + Patrick Hand, Light/Dark modes, icon restraint, logo placement
 - [[sahas-content-language-conventions]] — emerging English/Hinglish/Marathi writing rules and fixed labels for Sahas content
+- [[decision-car-dealership-first-pilot]] — #decision: car dealerships first for niche-specific demos and pilots; other candidate niches remain deferred
 
 ## Clients
 - [[manovedh-profile]] — FIRST CLIENT: Manovedh Hypnoclinic (Dr Sachin Patil, Karad)
@@ -43,6 +46,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[whatsapp-sahas-ai-current-build-brief]] — current Veblika components, forms, template history, local source map, and Claude handoff context
 - [[decision-hostinger-kvm2-dokploy-website-n8n]] - active hosting decision, rejected Vercel alternative, and review triggers
 - [[n8n-sahas-ai-production-deployment]] — current Dokploy deployment, PostgreSQL 17 transition, deferred backup and client-readiness gates
+- [[sahas-ai-2027-vision-board-print-pack]] — confirmed 100 x 50 cm physical-board brief, A4 cut-and-paste plan, goal anchors, Canva status, and remaining verification
+- [[ghl-sahas-ai-location-email-setup]] — provider-managed GHL location boundary and safe `mg.sahasai.in` LC Email DNS setup
 - [[gmb-sarathi]] — GBP audit + optimization + service-delivery dashboard
 - [[gmb-sarathi-build-status]] — M0–M6 status, MVP gate met, remaining
 - [[gmb-sarathi-tech-setup]] — repo, keys, migrations, blockers, Windows quirks
@@ -52,6 +57,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook
 
 ## Knowledge — reference & research
+- [[car-dealership-whatsapp-n8n-automation]] — emerging dealership WhatsApp/n8n opportunity map, pilot sequence, integration boundaries, and safety gates.
 - [[ghl-contacts-and-opportunities-lecture-visual-notes]] — screenshot-backed visual notes from the Contacts & Opportunities GHL lecture; audio unavailable in this capture.
 - [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]] — screenshot-backed visual notes for workflow triggers, actions, assignment, tasks, and opportunity updates; audio unavailable in this capture.
 - [[ghl-ads-manager-lead-generation-lecture-visual-notes]] — screenshot-backed visual notes for Meta/GoHighLevel lead-generation ads, creative, previews, lead forms, and review state; audio unavailable in this capture.

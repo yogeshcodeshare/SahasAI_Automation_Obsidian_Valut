@@ -1,6 +1,7 @@
 ---
 title: Agency Go-to-Market Sequence
 created: 2026-08-05
+updated: 2026-09-28
 tags: [agency, go-to-market, milestones, sahas-ai]
 source: AI automation agency business plan conversation
 origin: ai
@@ -59,6 +60,12 @@ Refines (does not replace) Phases 1–5 above, after reviewing four AI-agency po
 **Guardrails unchanged.** Pricing stays `emerging` — validate on the first 3 paid calls ([[pricing-ladder]]); while DataForSEO is deferred use demo-labelled audits only (no live-data or ranking promises); scale trigger stays **5–8 stable clients + written portability terms** ([[bizautomation-reseller-deal]]).
 
 The social-media automation offer is an emerging pre-launch experiment: soft-launch Sahas AI content first, validate manual delivery economics, then consider Free/Growth/Supercharge packaging. It must not outrun the existing proof, approval and capacity gates.
+
+## Revision 2026-09-28 — car dealerships become the first pilot priority
+
+Yogesh selected **car dealerships** as the first niche-specific demonstration and pilot priority because his automobile-engineering background reduces initial domain-discovery risk. This supersedes the earlier coaching-first wording only for the immediate pilot order; the coaching-class research and offer remain available for a later stage. The decision, deferred alternatives, dependencies, and review triggers are recorded in [[decision-car-dealership-first-pilot]].
+
+Do not jump directly to a generic dealership chatbot. Finish and test the agency's reusable WhatsApp/Veblika/n8n/CRM foundation first, then map a real dealership's enquiry and follow-up process before selecting the smallest measurable automation.
 
 ## Revision 2026-08-23 — Google Ads entry service with automation upsell
 

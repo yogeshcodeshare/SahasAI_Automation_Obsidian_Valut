@@ -35,6 +35,11 @@ Agent: claude-code
 Created [[n8n-sahas-ai-production-deployment]] from Yogesh's Dokploy and n8n deployment session. The note records the reachable `https://n8n.sahasai.in` instance, owner-login confirmation, PostgreSQL 17 active volume, retained PostgreSQL 16 rollback volume, deferred automatic backups/2FA, workflow-folder limitation, and observed task-runner/shell warnings. Linked it from [[MOC]] and [[03_Projects/_index]]. No encryption key, database password, or other secret was recorded. GitHub pull/push is currently blocked because the local network cannot reach GitHub.
 Agent: codex
 
+## [2026-09-28] ingest | Sahas AI GHL location and LC Email DNS setup
+
+Created [[ghl-sahas-ai-location-email-setup]] from the current chat and Yogesh's GHL/BigRock screenshots. The note records the provider-managed location boundary, the public/legal identity boundary, the existing Zoho root-domain records, the safer `mg.sahasai.in` sending-subdomain decision, the five generated record shapes, and the fact that final GHL verification and end-to-end delivery remain unconfirmed. Full DKIM/SPF values and all credentials were excluded. GitHub pull was unavailable through the current network; unrelated existing vault changes were preserved.
+Agent: codex
+
 ## [2026-08-02] ingest | Full agency knowledge base
 Ingested the Sahas AI knowledge base from the Claude planning chats: 6 agency notes (01_Agency), 4 Manovedh client notes (02_Clients/manovedh), 3 GMB Sarathi project companions (03_Projects), 6 knowledge/research notes (04_Knowledge). MOC + all _index.md updated. 19 notes total; no duplicates of the existing 5 pattern notes.
 Agent: claude-code
@@ -50,6 +55,11 @@ Agent: claude-code
 
 ## [2026-08-05] ingest | Website, WhatsApp onboarding, and current brand boundaries
 Processed the local Sahas Website project documents and founder design direction. Created website, WhatsApp onboarding, and logo-direction notes; corrected the AI-written brand note to distinguish the chosen public brand from unverified registration status.
+Agent: codex
+
+## [2026-09-28] ingest | Car dealership WhatsApp and n8n automation research
+
+Created [[car-dealership-whatsapp-n8n-automation]] from the Work 1 dealership research. Recorded the recommended inbound-enquiry to CRM ownership to test-drive pilot, n8n orchestration boundaries, official WhatsApp/provider and human-handoff safeguards, source limitations, and discovery questions. Linked the note from [[MOC]] and [[04_Knowledge/_index]]. The earlier GHL account setup plan remained deferred; no secrets or client personal contact details were stored. GitHub pull was unavailable through the local network; pre-existing vault changes were preserved.
 Agent: codex
 
 ## [2026-08-05] ingest | Sahas AI website production deployment
@@ -375,7 +385,18 @@ Notes created: 4, updated: 1. Agent: claude-code
 Appended to [[veblika-whatsapp-messaging-api-reference]] after the API/n8n review in this chat. The 45 captured API screenshots prove outbound sending and status/template operations, while the separate Flow Builder note proves a text/interactive inbound event shape. Neither source documents inbound media retrieval for image, PDF, audio, or video. The n8n receive → AI → reply architecture is therefore only partially verified until a real inbound event provides an accessible media URL or Veblika documents an authenticated retrieval endpoint. No new note or index entry was needed; no credentials, OTPs, or personal contacts were stored.
 Agent: codex
 
-
 ## [2026-09-28] ingest | Sahas Video Editor roadmap review closeout
 
 Created [[sahas-video-editor-roadmap-review]] (supported) after checking MOC, folder indexes and full-text duplicates. Captured this chat's document-review status, seven proposed corrections, evidence limitations and verified current content creation/pipeline source paths. The former n8n paths are missing. The proposal remains unbuilt and V2.1 is not authorized or implemented by this ingestion. New note passed through 00_Inbox before filing in 03_Projects; MOC and project index updated. Reweave: no purchase or change to the existing buy-no-video-tools-until-funded position was approved. No raw transcript, secrets or client personal data stored. Agent: codex.
+
+## [2026-09-28] ingest | Sahas AI reel production handoff
+
+Created [[sahas-ai-reel-production-plan]] from this Codex chat and the local content review guide; linked it from [[MOC]] and [[01_Agency/_index]]. Recorded the three-reel weekly target, separate introduction reels, proof-first editorial rules, workbook-vs-live-sheet boundary, and unresolved calendar mismatch. No secrets or personal contact details were stored. The existing staged Veblika note was left untouched.
+
+Agent: codex
+
+## [2026-09-28] ingest | Sahas AI 2027 vision board and first-pilot niche
+
+Created [[sahas-ai-2027-vision-board-print-pack]] with the confirmed 100 x 50 cm physical format, A4 cut-and-paste production rules, three-zone structure, business goal anchors, safe personal-vision summary, Canva design IDs, and the explicit unfinished verification gate. Created [[decision-car-dealership-first-pilot]] and appended a dated clarification to [[agency-go-to-market-sequence]] so the new car-dealership-first pilot priority is not confused with the older coaching-first sequence. Precise household finances, investment-account details, personal health measurements, family dates/ages, credentials, and personal contact details were intentionally excluded.
+Agent: codex
+

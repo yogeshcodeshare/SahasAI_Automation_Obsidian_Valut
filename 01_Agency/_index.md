@@ -16,6 +16,7 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 
 ## Content strategy
 - [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries.
+- [[sahas-ai-reel-production-plan]] — emerging weekly production cadence and reviewed-workbook editorial boundary.
 - [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards.
 
 ## WhatsApp automation offer (added 2026-08-05)
@@ -35,3 +36,4 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[social-media-automation-offer-plan]] - emerging social-content service, pilot tiers and SOP.
 - [[sahas-notes-pdf-style-rules]] - approved notes/carousel style: fonts, Light/Dark modes, icon restraint, logo placement.
 - [[sahas-content-language-conventions]] - emerging English/Hinglish/Marathi content writing rules.
+- [[decision-car-dealership-first-pilot]] - #decision: use car dealerships for the first niche-specific demo/pilot, after the reusable agency stack is ready.

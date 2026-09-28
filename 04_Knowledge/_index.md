@@ -3,6 +3,7 @@
 Reference material, how-tos, research, and saved learnings.
 
 ## Reference & research
+- [[car-dealership-whatsapp-n8n-automation]] - emerging dealership WhatsApp/n8n opportunity map, pilot sequence, integration boundaries, and safety gates.
 - [[ghl-contacts-and-opportunities-lecture-visual-notes]] - screenshot-backed visual notes for Contacts, Opportunities, pipelines, custom fields, and Smart Lists; audio unavailable in this capture.
 - [[ghl-sales-workflow-trigger-actions-lecture-visual-notes]] - screenshot-backed visual notes for workflow triggers, actions, assignment, tasks, and opportunity updates; audio unavailable in this capture.
 - [[ghl-ads-manager-lead-generation-lecture-visual-notes]] - screenshot-backed visual notes for Meta/GoHighLevel lead-generation ads, creative, previews, lead forms, and review state; audio unavailable in this capture.
