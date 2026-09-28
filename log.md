@@ -375,3 +375,7 @@ Notes created: 4, updated: 1. Agent: claude-code
 Appended to [[veblika-whatsapp-messaging-api-reference]] after the API/n8n review in this chat. The 45 captured API screenshots prove outbound sending and status/template operations, while the separate Flow Builder note proves a text/interactive inbound event shape. Neither source documents inbound media retrieval for image, PDF, audio, or video. The n8n receive → AI → reply architecture is therefore only partially verified until a real inbound event provides an accessible media URL or Veblika documents an authenticated retrieval endpoint. No new note or index entry was needed; no credentials, OTPs, or personal contacts were stored.
 Agent: codex
 
+
+## [2026-09-28] ingest | Sahas Video Editor roadmap review closeout
+
+Created [[sahas-video-editor-roadmap-review]] (supported) after checking MOC, folder indexes and full-text duplicates. Captured this chat's document-review status, seven proposed corrections, evidence limitations and verified current content creation/pipeline source paths. The former n8n paths are missing. The proposal remains unbuilt and V2.1 is not authorized or implemented by this ingestion. New note passed through 00_Inbox before filing in 03_Projects; MOC and project index updated. Reweave: no purchase or change to the existing buy-no-video-tools-until-funded position was approved. No raw transcript, secrets or client personal data stored. Agent: codex.

@@ -158,3 +158,6 @@ Home index for the vault. Links get added as content is ingested.
 - [[approve-before-publish-immutable-baseline]]
 - [[social-media-automation-offer-plan]] — emerging social-content service, pilot tiers and SOP
 - [[social-media-automation-competitor-reference]] — Jio-style social assistant and Interakt product lessons
+
+## Video editor project review
+- [[sahas-video-editor-roadmap-review]] — supported document-review findings, current pipeline paths, unbuilt status and proposed V2.1 corrections; implementation unapproved.
