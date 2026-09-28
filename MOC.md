@@ -28,6 +28,7 @@ Home index for the vault. Links get added as content is ingested.
 - [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries
 
 - [[sahas-ai-reel-production-plan]] — emerging three-reel weekly production plan, reviewed workbook boundary, and proof-first editorial rules
+- [[sahas-ai-social-channel-status]] — supported September 2026 Instagram and YouTube status, plus unresolved LinkedIn and verification boundaries
 - [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards
 - [[sahas-notes-pdf-style-rules]] — approved notes/carousel look: Kalam + Patrick Hand, Light/Dark modes, icon restraint, logo placement
 - [[sahas-content-language-conventions]] — emerging English/Hinglish/Marathi writing rules and fixed labels for Sahas content

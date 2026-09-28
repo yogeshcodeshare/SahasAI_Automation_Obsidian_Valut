@@ -400,3 +400,7 @@ Agent: codex
 Created [[sahas-ai-2027-vision-board-print-pack]] with the confirmed 100 x 50 cm physical format, A4 cut-and-paste production rules, three-zone structure, business goal anchors, safe personal-vision summary, Canva design IDs, and the explicit unfinished verification gate. Created [[decision-car-dealership-first-pilot]] and appended a dated clarification to [[agency-go-to-market-sequence]] so the new car-dealership-first pilot priority is not confused with the older coaching-first sequence. Precise household finances, investment-account details, personal health measurements, family dates/ages, credentials, and personal contact details were intentionally excluded.
 Agent: codex
 
+## [2026-09-28] ingest | Sahas AI social channel status
+
+Created [[sahas-ai-social-channel-status]] from Yogesh's account-setup messages and screenshots in this chat. It records the reported Instagram handle, supplied YouTube channel URL, screenshot-backed YouTube Studio feature status, closed brand-named LinkedIn personal profile, and unresolved Company Page and third-party verification state. Linked from [[MOC]] and [[01_Agency/_index]]. No login, recovery, credential, or personal contact details were stored.
+Agent: codex
