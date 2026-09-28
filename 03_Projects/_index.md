@@ -20,3 +20,4 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[sahas-ai-2027-vision-board-print-pack]] - 100 x 50 cm board brief, A4 cut-out layout, content anchors, Canva assets, and unfinished verification gate.
 - [[ghl-sahas-ai-location-email-setup]] - provider-managed GHL location boundary and safe `mg.sahasai.in` LC Email DNS setup.
 - [[sahas-video-editor-roadmap-review]] — supported review of V1/Claude V2, current source paths and unimplemented correction backlog.
+- [[renault-telegram-assistant]] — supported user requirements, plain-text reply decision, prior workflow snapshot, and verification checklist for the Renault India Telegram assistant.

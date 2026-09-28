@@ -35,6 +35,10 @@ Agent: claude-code
 Created [[n8n-sahas-ai-production-deployment]] from Yogesh's Dokploy and n8n deployment session. The note records the reachable `https://n8n.sahasai.in` instance, owner-login confirmation, PostgreSQL 17 active volume, retained PostgreSQL 16 rollback volume, deferred automatic backups/2FA, workflow-folder limitation, and observed task-runner/shell warnings. Linked it from [[MOC]] and [[03_Projects/_index]]. No encryption key, database password, or other secret was recorded. GitHub pull/push is currently blocked because the local network cannot reach GitHub.
 Agent: codex
 
+## [2026-09-28] ingest | Renault India Telegram support assistant
+
+Created [[renault-telegram-assistant]] with the user-approved language, respectful-address, plain-text Telegram formatting, concise response, Renault-only scope, and vehicle-safety rules. Recorded prior workflow architecture and state as historical observations only; live configuration and end-to-end prompt behavior remain unverified. Linked the note from [[MOC]] and [[03_Projects/_index]]. No credentials, tokens, or personal contact details stored. Agent: codex.
+
 ## [2026-09-28] ingest | Sahas AI GHL location and LC Email DNS setup
 
 Created [[ghl-sahas-ai-location-email-setup]] from the current chat and Yogesh's GHL/BigRock screenshots. The note records the provider-managed location boundary, the public/legal identity boundary, the existing Zoho root-domain records, the safer `mg.sahasai.in` sending-subdomain decision, the five generated record shapes, and the fact that final GHL verification and end-to-end delivery remain unconfirmed. Full DKIM/SPF values and all credentials were excluded. GitHub pull was unavailable through the current network; unrelated existing vault changes were preserved.

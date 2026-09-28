@@ -168,3 +168,4 @@ Home index for the vault. Links get added as content is ingested.
 
 ## Video editor project review
 - [[sahas-video-editor-roadmap-review]] — supported document-review findings, current pipeline paths, unbuilt status and proposed V2.1 corrections; implementation unapproved.
+- [[renault-telegram-assistant]] — supported requirements and plain-text formatting decision for the Renault India Telegram assistant; workflow state remains to be rechecked.
