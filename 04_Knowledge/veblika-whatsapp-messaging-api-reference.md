@@ -1,6 +1,7 @@
 ---
 title: Veblika / BizAutomation WhatsApp Messaging API Reference
 created: 2026-09-25
+updated: 2026-09-28
 tags: [whatsapp, veblika, bizautomation, api, n8n, reference]
 source: "45 screenshots supplied by Yogesh from Developers > Whatsapp API and Whatsapp API Docs in the live BizAutomation/Veblika account; detailed local reference at Automations/What's App Automation/WhatsApp Automation template & workflow/11_Veblika_WhatsApp_API_Reference.md"
 origin: ai
@@ -114,6 +115,20 @@ GET /api/v2/whatsapp-business/status/{messageId}
 
 Persist the message ID returned by a send. Prefer webhook delivery events for asynchronous state when available; an accepted send response is not proof of delivery.
 
+## Inbound and multimodal boundary
+
+The captured API documentation proves **outbound** media sends, template sends, template listing, and point-in-time message-status lookup. It does **not** document an inbound-message webhook API, an endpoint to fetch inbound media by media ID, authenticated media-download rules, expiry times, or webhook-signature verification.
+
+The separate Veblika Flow Builder course capture documents inbound `text` and `interactive` events, including form submissions, but it does not establish that inbound image, PDF, audio, and video bytes can be retrieved by n8n → [[whatsapp-flow-builder-webhook-reference]].
+
+Therefore, the following n8n loop is only partly verified:
+
+```text
+Inbound WhatsApp event → n8n → business/AI logic → Veblika POST reply
+```
+
+Text and interactive-event routing have a documented Flow Builder basis. Full multimodal routing requires Veblika to provide either an accessible inbound-media URL in the event payload or a documented, authenticated media-download endpoint. Do not claim that image/PDF/audio/video understanding is working until a real inbound test validates that retrieval path.
+
 ## Sahas AI implementation gate
 
 Use the sequence **draft → controlled test → owner approval → activation**:
@@ -131,4 +146,4 @@ This API reference complements [[veblika-platform-admin-reference]], [[whatsapp-
 
 ## Unverified gaps
 
-The screenshots do not provide response schemas, HTTP/error-code tables, rate limits, timeout behavior, retry rules, idempotency support, webhook signatures, media MIME/size constraints, or GET variants for location/currency/date-time/catalog/Flow templates. Do not invent these details; verify with Veblika support or controlled account testing.
+The screenshots do not provide response schemas, HTTP/error-code tables, rate limits, timeout behavior, retry rules, idempotency support, inbound-message webhook documentation, inbound-media retrieval, webhook signatures, media MIME/size constraints, or GET variants for location/currency/date-time/catalog/Flow templates. Do not invent these details; verify with Veblika support or controlled account testing.

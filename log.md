@@ -370,3 +370,8 @@ Agent: codex
 Created [[notebook-notes-pdf-skill]], [[sahas-notes-pdf-style-rules]], [[sahas-content-language-conventions]] and [[india-msme-udyam-registrations-2026]]. Appended the final logo set and Yogesh's logo-usage rules to [[sahas-ai-logo-direction]] (maturity kept emerging; trademark/domain check not recorded). All are linked from [[MOC]] and the 01_Agency / 04_Knowledge `_index` files. Source: a Claude Code session in which Yogesh approved the notes-PDF skill page by page. The skill repo (github.com/yogeshcodeshare/sahas-notebook-pdf-skill) was public at first push; Yogesh said he would make it private. No credentials, personal contact details or reference-creator material were stored.
 Notes created: 4, updated: 1. Agent: claude-code
 
+## [2026-09-28] ingest | Veblika API inbound multimodal boundary
+
+Appended to [[veblika-whatsapp-messaging-api-reference]] after the API/n8n review in this chat. The 45 captured API screenshots prove outbound sending and status/template operations, while the separate Flow Builder note proves a text/interactive inbound event shape. Neither source documents inbound media retrieval for image, PDF, audio, or video. The n8n receive → AI → reply architecture is therefore only partially verified until a real inbound event provides an accessible media URL or Veblika documents an authenticated retrieval endpoint. No new note or index entry was needed; no credentials, OTPs, or personal contacts were stored.
+Agent: codex
+
