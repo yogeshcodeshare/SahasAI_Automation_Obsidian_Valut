@@ -21,3 +21,8 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[ghl-sahas-ai-location-email-setup]] - provider-managed GHL location boundary and safe `mg.sahasai.in` LC Email DNS setup.
 - [[sahas-video-editor-roadmap-review]] — supported review of V1/Claude V2, current source paths and unimplemented correction backlog.
 - [[renault-telegram-assistant]] — supported user requirements, plain-text reply decision, prior workflow snapshot, and verification checklist for the Renault India Telegram assistant.
+- [[ai-accountant-system]] — AI Accountant system hub (on hold 2026-10-08): W0–W8 plan, status, local resume file, open items
+- [[ai-accountant-w1-inbox-processor]] — W1 purchase-bill Inbox Processor as built: flow, GST checks, 38-file test results
+- [[decision-ai-accountant-two-ai-readers-for-images]] — #decision: Claude + OpenAI read every image; settle only by verifiable checks
+- [[decision-ai-accountant-word-files-via-openai]] — #decision: .docx via OpenAI Responses API; Drive-to-PDF fallback
+- [[decision-ai-accountant-payment-detection-bank-alerts]] — #decision: detect payments from bank credit-alert emails, not Razorpay

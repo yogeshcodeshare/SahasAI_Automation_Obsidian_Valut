@@ -408,3 +408,8 @@ Agent: codex
 
 Created [[sahas-ai-social-channel-status]] from Yogesh's account-setup messages and screenshots in this chat. It records the reported Instagram handle, supplied YouTube channel URL, screenshot-backed YouTube Studio feature status, closed brand-named LinkedIn personal profile, and unresolved Company Page and third-party verification state. Linked from [[MOC]] and [[01_Agency/_index]]. No login, recovery, credential, or personal contact details were stored.
 Agent: codex
+
+## [2026-10-08] ingest | AI Accountant Automation System (on hold)
+
+Created [[ai-accountant-system]], [[ai-accountant-w1-inbox-processor]], [[decision-ai-accountant-two-ai-readers-for-images]], [[decision-ai-accountant-word-files-via-openai]], [[decision-ai-accountant-payment-detection-bank-alerts]] in 03_Projects and [[ai-document-reader-lessons-n8n]], [[living-build-guide-pdf-process]], [[google-credentials-for-n8n-standard-guide]], [[gst-purchase-bill-test-scenarios]] in 04_Knowledge, from Claude Code build sessions 2026-10-05 to 2026-10-08 and the local RESUME-AI-ACCOUNTANT.md. Linked from [[MOC]], [[03_Projects/_index]] and [[04_Knowledge/_index]]. Drive/Sheet IDs, credential values and the test kit's fictional GSTINs were kept out of the vault (IDs stay in the local resume file). All notes maturity supported.
+Notes created: 9, updated: 0. Agent: claude-code

@@ -102,3 +102,9 @@ Reference material, how-tos, research, and saved learnings.
 
 - [[notebook-notes-pdf-skill]] — Sahas notebook-style PDF/carousel generator skill: where it lives, how it works, modes and languages.
 - [[india-msme-udyam-registrations-2026]] — PIB Udyam registration counts (Feb–Mar 2026) as market-size context.
+
+## AI Accountant build learnings (added 2026-10-08)
+- [[ai-document-reader-lessons-n8n]] — n8n + AI bill-reading lessons from real bugs (exact filters, binary input, RAW cells, two readers)
+- [[living-build-guide-pdf-process]] — build-and-document loop: 2–3 steps, screenshots cropped + red-boxed, render and verify
+- [[google-credentials-for-n8n-standard-guide]] — 21-page screenshot guide for Google OAuth credentials in n8n; Gmail still to add
+- [[gst-purchase-bill-test-scenarios]] — 38-file fictional GST bill test kit: positive, negative, edge and other-file cases

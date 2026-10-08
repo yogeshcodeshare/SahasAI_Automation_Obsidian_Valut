@@ -56,6 +56,11 @@ Home index for the vault. Links get added as content is ingested.
 - [[sahas-ai-website]] — static-first agency website, deployment and legal-content boundaries
 - [[whatsapp-api-onboarding]] — Veblika/Meta readiness, ownership checks, and document pack
 - [[sahas-ai-website-production]] — public site, live domain, Dokploy release, and ingress runbook
+- [[ai-accountant-system]] — AI Accountant system hub (on hold 2026-10-08): W0–W8 plan, status, local resume file, open items
+- [[ai-accountant-w1-inbox-processor]] — W1 purchase-bill Inbox Processor as built: flow, GST checks, 38-file test results
+- [[decision-ai-accountant-two-ai-readers-for-images]] — #decision: Claude + OpenAI read every image; settle only by verifiable checks
+- [[decision-ai-accountant-word-files-via-openai]] — #decision: .docx via OpenAI Responses API; Drive-to-PDF fallback
+- [[decision-ai-accountant-payment-detection-bank-alerts]] — #decision: detect payments from bank credit-alert emails, not Razorpay
 
 ## Knowledge — reference & research
 - [[car-dealership-whatsapp-n8n-automation]] — emerging dealership WhatsApp/n8n opportunity map, pilot sequence, integration boundaries, and safety gates.
@@ -81,6 +86,10 @@ Home index for the vault. Links get added as content is ingested.
 - [[seedance-video-prompt-patterns]] — theoretical prompt patterns for credible local-business short-video generation and editing; validate before client use
 - [[kewal-kishan-competitor-content]] — emerging 35-angle competitor-source capture; verify claims before publishing
 - [[lakshit-whatsapp-automation-content]] — emerging 30-angle WhatsApp and AI competitor-source capture; verify claims before publishing
+- [[ai-document-reader-lessons-n8n]] — n8n + AI bill-reading lessons from real bugs (exact filters, binary input, RAW cells, two readers)
+- [[living-build-guide-pdf-process]] — build-and-document loop: 2–3 steps, screenshots cropped + red-boxed, render and verify
+- [[google-credentials-for-n8n-standard-guide]] — 21-page screenshot guide for Google OAuth credentials in n8n; Gmail still to add
+- [[gst-purchase-bill-test-scenarios]] — 38-file fictional GST bill test kit: positive, negative, edge and other-file cases
 
 ## WhatsApp automation — agency offer & operating reference
 
