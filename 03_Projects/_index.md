@@ -26,3 +26,6 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[decision-ai-accountant-two-ai-readers-for-images]] — #decision: Claude + OpenAI read every image; settle only by verifiable checks
 - [[decision-ai-accountant-word-files-via-openai]] — #decision: .docx via OpenAI Responses API; Drive-to-PDF fallback
 - [[decision-ai-accountant-payment-detection-bank-alerts]] — #decision: detect payments from bank credit-alert emails, not Razorpay
+- [[email-ai-agent]] — Email AI Agent hub (design done, build starting 2026-10-09): Gmail sort, drafts, alerts for busy executives; local resume file
+- [[decision-email-agent-11-labels-and-vip-list]] — #decision: one action label per email (11 labels) + VIP list for always-alert senders
+- [[decision-email-agent-drafts-only]] — #decision: the agent never sends; replies are Gmail drafts, unsure → Needs Review

@@ -6,6 +6,7 @@ source: Claude Code build sessions 2026-10-05 to 2026-10-08; local RESUME-AI-ACC
 origin: ai
 author: claude-code
 maturity: supported
+updated: 2026-10-09
 ---
 
 # AI Accountant Automation System
@@ -33,7 +34,7 @@ One n8n system for **CA firms (pitched first), manufacturers and service busines
 | W8 | Weekly Report | Stage 3 |
 
 ## Where the work lives (local, Yogesh's laptop)
-`Ai Automation/Automations/n8n Automation/AI Accountant Automation/`
+`Ai Automation/Automations/n8n Automation/N8N workflows/AI Accountant Automation/`
 - **`RESUME-AI-ACCOUNTANT.md` — read this first to resume** (status, IDs, design, remaining work, PDF process).
 - Living build guide `ai-accountant-system-guide.pdf` (44 pages, screenshots per step) and a 14-page prospect overview `ai-accountant-system-overview-v2.pdf` — made with [[notebook-notes-pdf-skill]] using [[living-build-guide-pdf-process]].
 - Final prompt + code in `n8n-snippets/`; test kits in `Documents/` — see [[gst-purchase-bill-test-scenarios]].

@@ -108,3 +108,7 @@ Reference material, how-tos, research, and saved learnings.
 - [[living-build-guide-pdf-process]] — build-and-document loop: 2–3 steps, screenshots cropped + red-boxed, render and verify
 - [[google-credentials-for-n8n-standard-guide]] — 21-page screenshot guide for Google OAuth credentials in n8n; Gmail still to add
 - [[gst-purchase-bill-test-scenarios]] — 38-file fictional GST bill test kit: positive, negative, edge and other-file cases
+
+## Email AI Agent research (added 2026-10-09)
+- [[email-overload-problem-research]] — nine sourced problem statements for busy executives' inboxes (overload, slow replies, missed deadlines, fraud, tool cost)
+- [[n8n-gmail-inbox-agent-video-patterns]] — node-by-node patterns and flaws from five n8n Gmail inbox-agent build videos

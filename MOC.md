@@ -61,6 +61,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[decision-ai-accountant-two-ai-readers-for-images]] — #decision: Claude + OpenAI read every image; settle only by verifiable checks
 - [[decision-ai-accountant-word-files-via-openai]] — #decision: .docx via OpenAI Responses API; Drive-to-PDF fallback
 - [[decision-ai-accountant-payment-detection-bank-alerts]] — #decision: detect payments from bank credit-alert emails, not Razorpay
+- [[email-ai-agent]] — Email AI Agent hub (design done, build starting 2026-10-09): Gmail sort, drafts, alerts for busy executives; local resume file
+- [[decision-email-agent-11-labels-and-vip-list]] — #decision: one action label per email (11 labels) + VIP list for always-alert senders
+- [[decision-email-agent-drafts-only]] — #decision: the agent never sends; replies are Gmail drafts, unsure → Needs Review
 
 ## Knowledge — reference & research
 - [[car-dealership-whatsapp-n8n-automation]] — emerging dealership WhatsApp/n8n opportunity map, pilot sequence, integration boundaries, and safety gates.
@@ -90,6 +93,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[living-build-guide-pdf-process]] — build-and-document loop: 2–3 steps, screenshots cropped + red-boxed, render and verify
 - [[google-credentials-for-n8n-standard-guide]] — 21-page screenshot guide for Google OAuth credentials in n8n; Gmail still to add
 - [[gst-purchase-bill-test-scenarios]] — 38-file fictional GST bill test kit: positive, negative, edge and other-file cases
+- [[email-overload-problem-research]] — nine sourced problem statements for busy executives' inboxes (overload, slow replies, missed deadlines, fraud, tool cost)
+- [[n8n-gmail-inbox-agent-video-patterns]] — node-by-node patterns and flaws from five n8n Gmail inbox-agent build videos
 
 ## WhatsApp automation — agency offer & operating reference
 

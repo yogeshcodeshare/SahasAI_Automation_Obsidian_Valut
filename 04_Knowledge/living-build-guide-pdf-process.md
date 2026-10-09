@@ -6,6 +6,7 @@ source: AI Accountant build guide and Google credentials guide, 2026-10-05 to 20
 origin: ai
 author: claude-code
 maturity: supported
+updated: 2026-10-09
 ---
 
 # Living build-guide PDF process
@@ -32,3 +33,5 @@ Render with the skill's `render.py --png`; it must report "all pages fit". Look 
 
 ## Derived documents
 A prospect-facing overview is cut from the same HTML (concept pages only, plain-language rewrite, sourced facts, no build pages).
+
+Update 2026-10-09: the Email AI Agent project generates its client copy with a script (`tools/make_overview.py`) from the build-guide HTML after every change, so the prospect PDF never drifts from the working guide. Screenshot names there use `E1-NN-…` (E1 = Setup workflow). Used in [[email-ai-agent]].

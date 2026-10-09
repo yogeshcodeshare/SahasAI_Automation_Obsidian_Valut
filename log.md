@@ -413,3 +413,8 @@ Agent: codex
 
 Created [[ai-accountant-system]], [[ai-accountant-w1-inbox-processor]], [[decision-ai-accountant-two-ai-readers-for-images]], [[decision-ai-accountant-word-files-via-openai]], [[decision-ai-accountant-payment-detection-bank-alerts]] in 03_Projects and [[ai-document-reader-lessons-n8n]], [[living-build-guide-pdf-process]], [[google-credentials-for-n8n-standard-guide]], [[gst-purchase-bill-test-scenarios]] in 04_Knowledge, from Claude Code build sessions 2026-10-05 to 2026-10-08 and the local RESUME-AI-ACCOUNTANT.md. Linked from [[MOC]], [[03_Projects/_index]] and [[04_Knowledge/_index]]. Drive/Sheet IDs, credential values and the test kit's fictional GSTINs were kept out of the vault (IDs stay in the local resume file). All notes maturity supported.
 Notes created: 9, updated: 0. Agent: claude-code
+
+## [2026-10-09] ingest | Email AI Agent (design done, build starting)
+
+Created [[email-ai-agent]], [[decision-email-agent-11-labels-and-vip-list]], [[decision-email-agent-drafts-only]] in 03_Projects and [[email-overload-problem-research]], [[n8n-gmail-inbox-agent-video-patterns]] in 04_Knowledge from Claude Code sessions 2026-10-08/09 and the local RESUME-EMAIL-AI-AGENT.md. Updated [[ai-accountant-system]] (project folder moved under N8N workflows/) and [[living-build-guide-pdf-process]] (client-copy generator). Yogesh's personal Gmail address and credential details kept out of the vault. Linked from [[MOC]], [[03_Projects/_index]], [[04_Knowledge/_index]].
+Notes created: 5, updated: 2. Agent: claude-code
