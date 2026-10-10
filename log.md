@@ -421,3 +421,6 @@ Notes created: 5, updated: 2. Agent: claude-code
 
 ## [2026-10-10] ingest | AI Resume Screener build (Rounds A–H)
 Created [[resume-screener-ai]], [[decision-resume-screener-one-at-a-time-self-call]], [[decision-resume-screener-duplicates-and-folders]] in 03_Projects and [[n8n-lessons-resume-screener]], [[n8n-read-docx-without-zlib]] in 04_Knowledge. Notes created: 5, updated: 0. Agent: claude-code
+
+## [2026-10-10] ingest | AI Resume Screener close-out (final test passed)
+Updated [[resume-screener-ai]] (final test results, two ways in, OpenAI gpt-4o-mini + Gemini models, deliverables) and [[n8n-lessons-resume-screener]] (3 close-out lessons). Notes created: 0, updated: 2. Agent: claude-code

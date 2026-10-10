@@ -1,6 +1,7 @@
 ---
 title: n8n lessons from the Resume Screener build
 created: 2026-10-10
+updated: 2026-10-10
 tags: [n8n, lessons, resume-screener]
 source: Claude Code build session 2026-10-09/10 (Resume Screener n8n workflow, live MCP read-back + smoke tests)
 origin: ai
@@ -30,3 +31,8 @@ Reusable mechanics learned while building [[resume-screener-ai]] on n8n 2.39 (se
 - **"Tidy up" rearranges every node** — no position lock exists; use sticky notes per section and avoid Tidy up.
 
 Related: [[ai-document-reader-lessons-n8n]], [[google-credentials-for-n8n-standard-guide]].
+
+## Added at close-out (2026-10-10)
+- **Drive Trigger returns a batch newest-first** — within one poll the order is not upload order; order-sensitive logic (like "first one wins" duplicates) can swap.
+- **A Manual Trigger never fires on publish** — for leftovers in a folder use a Manual Trigger → Drive *Search* (folder, return all) for on-demand, or a Schedule Trigger for an automatic sweep (not every minute — it can race the Drive trigger).
+- **Execution times in n8n/MCP are UTC** — convert for IST (+5:30) before telling the user.
