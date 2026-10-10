@@ -29,3 +29,6 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[email-ai-agent]] — Email AI Agent hub (design done, build starting 2026-10-09): Gmail sort, drafts, alerts for busy executives; local resume file
 - [[decision-email-agent-11-labels-and-vip-list]] — #decision: one action label per email (11 labels) + VIP list for always-alert senders
 - [[decision-email-agent-drafts-only]] — #decision: the agent never sends; replies are Gmail drafts, unsure → Needs Review
+- [[resume-screener-ai]] — AI Resume Screener hub (built 2026-10-10, final test pending)
+- [[decision-resume-screener-one-at-a-time-self-call]] — #decision: one resume at a time via self-call loop
+- [[decision-resume-screener-duplicates-and-folders]] — #decision: duplicate check by email + four result folders

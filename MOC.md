@@ -183,3 +183,10 @@ Home index for the vault. Links get added as content is ingested.
 ## Video editor project review
 - [[sahas-video-editor-roadmap-review]] — supported document-review findings, current pipeline paths, unbuilt status and proposed V2.1 corrections; implementation unapproved.
 - [[renault-telegram-assistant]] — supported requirements and plain-text formatting decision for the Renault India Telegram assistant; workflow state remains to be rechecked.
+
+## Resume Screener build (added 2026-10-10)
+- [[resume-screener-ai]] — AI Resume Screener hub (built, final test pending): one-at-a-time intake, PDF/Word/unreadable routing, blind 1–5 scoring, duplicates, Drive result folders, deliverables
+- [[decision-resume-screener-one-at-a-time-self-call]] — #decision: loop calls the same workflow per file with 15 s pause; rejected batch-in-one-run and separate intake workflow
+- [[decision-resume-screener-duplicates-and-folders]] — #decision: duplicate check by email after Merge; folders 1 Shortlisted / 2 Review / 3 Rejected / 4 Duplicates
+- [[n8n-lessons-resume-screener]] — 16 reusable n8n mechanics (zlib blocked, pairing, Airtable 422, Drive trigger, published sub-workflows…)
+- [[n8n-read-docx-without-zlib]] — how-to: relabel .docx as ZIP → Decompress → Code reads word/document.xml

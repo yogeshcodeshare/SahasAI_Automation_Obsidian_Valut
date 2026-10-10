@@ -112,3 +112,5 @@ Reference material, how-tos, research, and saved learnings.
 ## Email AI Agent research (added 2026-10-09)
 - [[email-overload-problem-research]] — nine sourced problem statements for busy executives' inboxes (overload, slow replies, missed deadlines, fraud, tool cost)
 - [[n8n-gmail-inbox-agent-video-patterns]] — node-by-node patterns and flaws from five n8n Gmail inbox-agent build videos
+- [[n8n-lessons-resume-screener]] — reusable n8n mechanics from the Resume Screener build
+- [[n8n-read-docx-without-zlib]] — read Word text in n8n without zlib (relabel → decompress → parse XML)

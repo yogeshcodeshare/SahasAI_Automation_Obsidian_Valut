@@ -418,3 +418,6 @@ Notes created: 9, updated: 0. Agent: claude-code
 
 Created [[email-ai-agent]], [[decision-email-agent-11-labels-and-vip-list]], [[decision-email-agent-drafts-only]] in 03_Projects and [[email-overload-problem-research]], [[n8n-gmail-inbox-agent-video-patterns]] in 04_Knowledge from Claude Code sessions 2026-10-08/09 and the local RESUME-EMAIL-AI-AGENT.md. Updated [[ai-accountant-system]] (project folder moved under N8N workflows/) and [[living-build-guide-pdf-process]] (client-copy generator). Yogesh's personal Gmail address and credential details kept out of the vault. Linked from [[MOC]], [[03_Projects/_index]], [[04_Knowledge/_index]].
 Notes created: 5, updated: 2. Agent: claude-code
+
+## [2026-10-10] ingest | AI Resume Screener build (Rounds A–H)
+Created [[resume-screener-ai]], [[decision-resume-screener-one-at-a-time-self-call]], [[decision-resume-screener-duplicates-and-folders]] in 03_Projects and [[n8n-lessons-resume-screener]], [[n8n-read-docx-without-zlib]] in 04_Knowledge. Notes created: 5, updated: 0. Agent: claude-code
