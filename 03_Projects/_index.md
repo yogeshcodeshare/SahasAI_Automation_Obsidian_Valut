@@ -32,3 +32,4 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[resume-screener-ai]] — AI Resume Screener hub (built 2026-10-10, final test pending)
 - [[decision-resume-screener-one-at-a-time-self-call]] — #decision: one resume at a time via self-call loop
 - [[decision-resume-screener-duplicates-and-folders]] — #decision: duplicate check by email + four result folders
+- [[renault-whatsapp-rag-agent-meta]] — Renault service WhatsApp agent + Supabase RAG on Meta Cloud (supported; 2 fixes open before publish).

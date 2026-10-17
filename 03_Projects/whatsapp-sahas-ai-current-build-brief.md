@@ -6,6 +6,7 @@ source: Sahas AI/Codex conversation history and local WhatsApp Automation planni
 origin: ai
 author: codex
 maturity: supported
+updated: 2026-10-17
 ---
 
 # Sahas AI WhatsApp Current Build Brief
@@ -96,3 +97,17 @@ and
 `C:\Users\user\.codex\skills\whatsapp-utility-templates\references\Meta_Utility_Template_Library_164_en_US.md`.
 
 Related: [[whatsapp-automation-agency-phased-plan]], [[whatsapp-api-onboarding]], [[whatsapp-message-templates-mr-hi-en]], [[whatsapp-meta-current-pricing-and-service-rules-2026-09]].
+
+
+## Update 2026-10-17 — local folder reorganised
+
+The working folder moved under `Automations\` and was regrouped. Paths in the "Local source map" above are now relative to:
+`C:\Yogesh - personal\Claude\Cluade Projects\Ai Automation\Automations\What's App Automation\`
+
+- `Renault Service WhatsApp AI Agent - Meta\` — Meta-Cloud RAG agent material, `Renault-Service-KB.md`, RAG upgrade plan (see [[renault-whatsapp-rag-agent-meta]])
+- `Renault Service WhatsApp AI Agent - Veblika\` — current Veblika build; `test-files\` (PDF / Word / CSV test files)
+- `Veblika API Doc\` — API markdown + Postman collection
+- `Research & Templates\` — n8n WhatsApp RAG template explainer + images, start prompt, `Template\`
+- `Sales & Client Docs\Document\` — what the map above calls `Document\` (bot JSON exports, Sahas AI PDFs, vendor KB); also `Client\`, `deliverables\`
+- `Learningideo-analysis-work\`
+- Unchanged on purpose (other notes link here): `WhatsApp Automation template & workflow\`, `chat history\`, `video lecture\`

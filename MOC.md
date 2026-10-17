@@ -190,3 +190,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[decision-resume-screener-duplicates-and-folders]] — #decision: duplicate check by email after Merge; folders 1 Shortlisted / 2 Review / 3 Rejected / 4 Duplicates
 - [[n8n-lessons-resume-screener]] — 16 reusable n8n mechanics (zlib blocked, pairing, Airtable 422, Drive trigger, published sub-workflows…)
 - [[n8n-read-docx-without-zlib]] — how-to: relabel .docx as ZIP → Decompress → Code reads word/document.xml
+
+## Renault WhatsApp agent build (added 2026-10-17)
+- [[renault-whatsapp-rag-agent-meta]] — Renault service WhatsApp agent on Meta Cloud + Supabase RAG: text/image/voice tested, PDF/Word/unsupported lanes built, two fixes open before publish
+- [[meta-whatsapp-cloud-app-live-and-waba-subscription]] — how-to: app Live mode + assign WABA to system user + POST subscribed_apps so your own app receives messages
+- [[veblika-webhook-message-received-payload]] — Veblika inbound webhook field map for text, image, voice, PDF, Word and other documents; media only as Meta mediaId

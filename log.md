@@ -424,3 +424,6 @@ Created [[resume-screener-ai]], [[decision-resume-screener-one-at-a-time-self-ca
 
 ## [2026-10-10] ingest | AI Resume Screener close-out (final test passed)
 Updated [[resume-screener-ai]] (final test results, two ways in, OpenAI gpt-4o-mini + Gemini models, deliverables) and [[n8n-lessons-resume-screener]] (3 close-out lessons). Notes created: 0, updated: 2. Agent: claude-code
+
+## [2026-10-17] ingest | Renault WhatsApp RAG agent (Meta), Meta Cloud subscription fix, Veblika webhook payload, folder reorg
+Created [[renault-whatsapp-rag-agent-meta]] in 03_Projects and [[meta-whatsapp-cloud-app-live-and-waba-subscription]], [[veblika-webhook-message-received-payload]] in 04_Knowledge. Updated [[whatsapp-sahas-ai-current-build-brief]] (local folder reorganised). Notes created: 3, updated: 1. Agent: claude-code
