@@ -6,7 +6,7 @@ source: AI Accountant build guide and Google credentials guide, 2026-10-05 to 20
 origin: ai
 author: claude-code
 maturity: supported
-updated: 2026-10-09
+updated: 2026-10-17
 ---
 
 # Living build-guide PDF process
@@ -35,3 +35,10 @@ Render with the skill's `render.py --png`; it must report "all pages fit". Look 
 A prospect-facing overview is cut from the same HTML (concept pages only, plain-language rewrite, sourced facts, no build pages).
 
 Update 2026-10-09: the Email AI Agent project generates its client copy with a script (`tools/make_overview.py`) from the build-guide HTML after every change, so the prospect PDF never drifts from the working guide. Screenshot names there use `E1-NN-…` (E1 = Setup workflow). Used in [[email-ai-agent]].
+
+## "How everything connects" full-flow page (added 2026-10-17)
+Every build guide and its client overview now carry one full-flow map page (model: AI Accountant guide page 6). Yogesh's rule: the **parts are standard, the shape is not** — each map follows that automation's real structure, never a copied skeleton.
+- Write the shape in one line first (e.g. Resume: trigger → loop per file → file-type switch → has-text gate → parallel contact|qualifications → merge → duplicate gate → summary → scorer with job side box → save → score switch).
+- Map each construct to a part: switch → diamond/lanes · IF → dashed box, "no" sideways · loop → dashed frame + drawn return arrow (font lacks ↻) · parallel → split + merge · lookup/KB/memory → side box, dashed blue line · save → thick navy box · human → amber · scheduled → orange · not built → dashed "(planned)". Outcomes green / amber / red.
+- Client overview map uses plain words only — no tool, model or build names; `make_overview.py` blocks banned words (plus per-project `banned_extra`).
+- Applied to [[resume-screener-ai]] and [[renault-whatsapp-rag-agent-meta]] guides; parts kit lives in the skill's `assets/full-flow-snippet.html`.

@@ -427,3 +427,6 @@ Updated [[resume-screener-ai]] (final test results, two ways in, OpenAI gpt-4o-m
 
 ## [2026-10-17] ingest | Renault WhatsApp RAG agent (Meta), Meta Cloud subscription fix, Veblika webhook payload, folder reorg
 Created [[renault-whatsapp-rag-agent-meta]] in 03_Projects and [[meta-whatsapp-cloud-app-live-and-waba-subscription]], [[veblika-webhook-message-received-payload]] in 04_Knowledge. Updated [[whatsapp-sahas-ai-current-build-brief]] (local folder reorganised). Notes created: 3, updated: 1. Agent: claude-code
+
+## [2026-10-17] ingest | Full-flow map rule (shape per automation, standard parts)
+Updated [[living-build-guide-pdf-process]] with the "How everything connects" page rule. Notes created: 0, updated: 1. Agent: claude-code
