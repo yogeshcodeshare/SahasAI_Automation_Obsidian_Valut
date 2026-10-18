@@ -195,3 +195,4 @@ Home index for the vault. Links get added as content is ingested.
 - [[renault-whatsapp-rag-agent-meta]] — Renault service WhatsApp agent on Meta Cloud + Supabase RAG: text/image/voice tested, PDF/Word/unsupported lanes built, two fixes open before publish
 - [[meta-whatsapp-cloud-app-live-and-waba-subscription]] — how-to: app Live mode + assign WABA to system user + POST subscribed_apps so your own app receives messages
 - [[veblika-webhook-message-received-payload]] — Veblika inbound webhook field map for text, image, voice, PDF, Word and other documents; media only as Meta mediaId
+- [[renault-whatsapp-agent-veblika]] — Renault agent rebuilt on Veblika: text / photo / voice / video / PDF / Word / unsupported lanes into one agent, reply via Veblika API; tested, not yet published

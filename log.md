@@ -430,3 +430,6 @@ Created [[renault-whatsapp-rag-agent-meta]] in 03_Projects and [[meta-whatsapp-c
 
 ## [2026-10-17] ingest | Full-flow map rule (shape per automation, standard parts)
 Updated [[living-build-guide-pdf-process]] with the "How everything connects" page rule. Notes created: 0, updated: 1. Agent: claude-code
+
+## [2026-10-18] ingest | Renault WhatsApp agent — Veblika version complete
+Created [[renault-whatsapp-agent-veblika]] in 03_Projects (shape, decisions, lessons, go-live list). Notes created: 1, updated: 0. Agent: claude-code
