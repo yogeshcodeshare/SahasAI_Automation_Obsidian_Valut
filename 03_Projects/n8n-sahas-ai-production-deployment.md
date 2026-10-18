@@ -6,6 +6,7 @@ source: Codex deployment conversation and supplied Dokploy/n8n screenshots, 2026
 origin: ai
 author: codex
 maturity: supported
+updated: 2026-10-18
 ---
 
 # n8n Sahas AI Production Deployment
@@ -47,3 +48,10 @@ maturity: supported
 
 - [[decision-hostinger-kvm2-dokploy-website-n8n]]
 - [[n8n-self-hosting-agency]]
+
+## Updating n8n (added 2026-10-18)
+- On 2026-10-17 the editor's Help menu showed **"Update (5 versions behind)"** from the deployed `2.39.5` image.
+- The n8n MCP connection can only read and edit **workflows** — it cannot update the n8n server. Updating is done in **Dokploy**: change only the image tag in the n8n compose service (`docker.n8n.io/n8nio/n8n:<new stable version>`), Save, Deploy, check the logs and Help → About n8n.
+- Before updating: export key workflows as JSON and take a `pg_dump` from the Postgres container (off-server backups are still deferred). Rollback = put the old tag back and redeploy; data lives in the `n8n_data` and `n8n_postgres17_data` volumes — never delete them.
+- Do it outside a build session — a redeploy restarts n8n and stops any "Listen for test event".
+- Not yet done as of 2026-10-18.

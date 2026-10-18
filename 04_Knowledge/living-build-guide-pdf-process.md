@@ -6,7 +6,7 @@ source: AI Accountant build guide and Google credentials guide, 2026-10-05 to 20
 origin: ai
 author: claude-code
 maturity: supported
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Living build-guide PDF process
@@ -42,3 +42,6 @@ Every build guide and its client overview now carry one full-flow map page (mode
 - Map each construct to a part: switch → diamond/lanes · IF → dashed box, "no" sideways · loop → dashed frame + drawn return arrow (font lacks ↻) · parallel → split + merge · lookup/KB/memory → side box, dashed blue line · save → thick navy box · human → amber · scheduled → orange · not built → dashed "(planned)". Outcomes green / amber / red.
 - Client overview map uses plain words only — no tool, model or build names; `make_overview.py` blocks banned words (plus per-project `banned_extra`).
 - Applied to [[resume-screener-ai]] and [[renault-whatsapp-rag-agent-meta]] guides; parts kit lives in the skill's `assets/full-flow-snippet.html`.
+
+## Screenshot badge colour on dark screens (added 2026-10-18)
+Yogesh's rule: highlight boxes and arrows stay **red**, but the numbered step badge turns **green** when the screenshot is dark (dark UIs with red/orange text make red badges disappear). On light screenshots it stays red. The skill's `annotate.py` picks this automatically (`"badge": "auto"`, override `"red"`/`"green"`). Used for the Veblika screenshots in [[renault-whatsapp-agent-veblika]].

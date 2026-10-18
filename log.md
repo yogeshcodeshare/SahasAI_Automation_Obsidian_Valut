@@ -433,3 +433,6 @@ Updated [[living-build-guide-pdf-process]] with the "How everything connects" pa
 
 ## [2026-10-18] ingest | Renault WhatsApp agent — Veblika version complete
 Created [[renault-whatsapp-agent-veblika]] in 03_Projects (shape, decisions, lessons, go-live list). Notes created: 1, updated: 0. Agent: claude-code
+
+## [2026-10-18] ingest | badge colour rule, n8n update path, Meta agent fixes
+Updated [[living-build-guide-pdf-process]] (green badge on dark screenshots), [[n8n-sahas-ai-production-deployment]] (how to update n8n via Dokploy; MCP cannot), [[renault-whatsapp-rag-agent-meta]] (two fixes applied, untested). Notes created: 0, updated: 3. Agent: claude-code

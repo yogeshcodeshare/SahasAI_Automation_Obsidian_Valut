@@ -6,6 +6,7 @@ source: Claude Code sessions 2026-10-13 → 2026-10-17 with Yogesh; n8n workflow
 origin: ai
 author: claude-code
 maturity: supported
+updated: 2026-10-18
 ---
 
 # Renault Service WhatsApp AI Agent + RAG (Meta Cloud build)
@@ -39,3 +40,8 @@ WhatsApp Trigger → Switch on `messages[0].type`:
 - Video lane not built: WhatsApp video needs audio extraction; plan is Gemini video analyse later.
 
 Related: [[car-dealership-whatsapp-n8n-automation]], [[whatsapp-sahas-ai-current-build-brief]], [[n8n-lessons-resume-screener]].
+
+## Fixes applied 2026-10-17 (not yet tested)
+- **Set Word Text** no longer passes the literal placeholder `{{ READ_WORD_TEXT }}`; it reads the OpenAI result with `{{ $json.output?.[0]?.content?.[0]?.text ?? $json.output ?? $json.text }}`.
+- New **Only Real Messages** Filter between WhatsApp Trigger and Route by Message Type (`messages[0].id` exists), so delivery/read receipts no longer reach the unsupported reply.
+- To test: send a small .docx (answer should use its content) and a normal text (receipt events should stop at the filter). The Veblika rebuild is in [[renault-whatsapp-agent-veblika]].
