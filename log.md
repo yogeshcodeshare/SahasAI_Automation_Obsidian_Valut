@@ -436,3 +436,6 @@ Created [[renault-whatsapp-agent-veblika]] in 03_Projects (shape, decisions, les
 
 ## [2026-10-18] ingest | badge colour rule, n8n update path, Meta agent fixes
 Updated [[living-build-guide-pdf-process]] (green badge on dark screenshots), [[n8n-sahas-ai-production-deployment]] (how to update n8n via Dokploy; MCP cannot), [[renault-whatsapp-rag-agent-meta]] (two fixes applied, untested). Notes created: 0, updated: 3. Agent: claude-code
+
+## [2026-10-19] ingest | Founder Blueprint (Codex draft) + short-term goals Oct 2026–May 2027
+Notes created: 2, updated: 0. Agent: claude-code

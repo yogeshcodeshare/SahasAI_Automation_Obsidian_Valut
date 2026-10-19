@@ -38,3 +38,6 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[sahas-notes-pdf-style-rules]] - approved notes/carousel style: fonts, Light/Dark modes, icon restraint, logo placement.
 - [[sahas-content-language-conventions]] - emerging English/Hinglish/Marathi content writing rules.
 - [[decision-car-dealership-first-pilot]] - #decision: use car dealerships for the first niche-specific demo/pilot, after the reusable agency stack is ready.
+
+- [[sahas-ai-founder-blueprint-2026-09-10]]
+- [[short-term-goals-oct-2026-may-2027]]
