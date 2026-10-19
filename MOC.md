@@ -14,6 +14,8 @@ Home index for the vault. Links get added as content is ingested.
 - [[05_Agent-Memory/Hermes/obsidian-vault-access]] — chief-of-staff vault retrieval, client-silo, write, and sync protocol
 
 ## Agency (Sahas AI)
+- [[sahas-ai-founder-blueprint-2026-09-10]] — established six-month founder direction: Pan-India multi-industry, eight-week build→sell sequence, weekly dashboard
+- [[short-term-goals-oct-2026-may-2027]] — monthly + 15-day goals: demos by Oct end, sales/Saturday Club Nov–Dec, AI employees and agentic AI from Jan, AI coaching → consulting
 - [[agency-go-to-market-sequence]] — staged launch, validation gates, and scale trigger
 - [[decision-ghl-deferral]] — #decision: defer GoHighLevel, run Veblika + n8n + Sheets (awaiting founder confirmation)
 - [[sahas-ai-overview]] — who/what/launch/philosophy
