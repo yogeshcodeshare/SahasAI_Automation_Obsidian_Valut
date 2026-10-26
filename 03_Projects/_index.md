@@ -34,3 +34,4 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[decision-resume-screener-duplicates-and-folders]] — #decision: duplicate check by email + four result folders
 - [[renault-whatsapp-rag-agent-meta]] — Renault service WhatsApp agent + Supabase RAG on Meta Cloud (supported; 2 fixes open before publish).
 - [[renault-whatsapp-agent-veblika]] — Renault WhatsApp agent on Veblika, all lanes built and tested (supported; go-live checklist open).
+- [[whatsapp-bulk-broadcast-agent]] — WhatsApp Agent Team · Agent 4 Bulk Broadcast (supported; safety gate untested).

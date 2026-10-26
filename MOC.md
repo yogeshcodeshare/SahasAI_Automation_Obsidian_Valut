@@ -198,3 +198,5 @@ Home index for the vault. Links get added as content is ingested.
 - [[meta-whatsapp-cloud-app-live-and-waba-subscription]] — how-to: app Live mode + assign WABA to system user + POST subscribed_apps so your own app receives messages
 - [[veblika-webhook-message-received-payload]] — Veblika inbound webhook field map for text, image, voice, PDF, Word and other documents; media only as Meta mediaId
 - [[renault-whatsapp-agent-veblika]] — Renault agent rebuilt on Veblika: text / photo / voice / video / PDF / Word / unsupported lanes into one agent, reply via Veblika API; tested, not yet published
+- [[whatsapp-bulk-broadcast-agent]] — Agent 4 Bulk Broadcast: Sheet-approved campaigns, 150 cap, 4 s / 2 min-per-20 pacing, >10% failure stop, 24 h + broadcast_log duplicate guard; tested, not published
+- [[whatsapp-broadcast-template-lessons]] — variables not real names, no placeholder offers, Stop button exact, per-language names

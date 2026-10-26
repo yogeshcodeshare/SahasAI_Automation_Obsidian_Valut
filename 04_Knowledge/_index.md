@@ -116,3 +116,4 @@ Reference material, how-tos, research, and saved learnings.
 - [[n8n-read-docx-without-zlib]] — read Word text in n8n without zlib (relabel → decompress → parse XML)
 - [[meta-whatsapp-cloud-app-live-and-waba-subscription]] — make your own Meta app receive WhatsApp messages (Live mode, WABA assignment, subscribed_apps)
 - [[veblika-webhook-message-received-payload]] — Veblika message-received webhook fields per message type
+- [[whatsapp-broadcast-template-lessons]] — lessons from creating the festive broadcast templates (emerging).

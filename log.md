@@ -439,3 +439,6 @@ Updated [[living-build-guide-pdf-process]] (green badge on dark screenshots), [[
 
 ## [2026-10-19] ingest | Founder Blueprint (Codex draft) + short-term goals Oct 2026–May 2027
 Notes created: 2, updated: 0. Agent: claude-code
+
+## [2026-10-27] ingest | WhatsApp Agent Team — Agent 4 Bulk Broadcast
+Created [[whatsapp-bulk-broadcast-agent]] in 03_Projects and [[whatsapp-broadcast-template-lessons]] in 04_Knowledge. Notes created: 2, updated: 0. Agent: claude-code
