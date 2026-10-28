@@ -1,6 +1,7 @@
 ---
 title: Renault WhatsApp AI agent — Veblika version (all lanes built)
 created: 2026-10-18
+updated: 2026-10-28
 tags: [project, whatsapp, veblika, n8n, rag, renault]
 source: Claude Code build session 2026-10-17/18; local WORKFLOW-README.md and build guide in "What's App Automation/Renault Service WhatsApp AI Agent - Veblika"
 origin: ai
@@ -41,3 +42,10 @@ Unpin test data (Read PDF / Set PDF Text) · Veblika: only `message-received` ·
 
 ## Where the detail lives (local, not in the vault)
 WORKFLOW-README.md (full node-by-node reference for any AI), build guide PDF (40 pages), client overview PDF (13 pages), Prompts-and-Code docx P1–P29, AI-Agent-System-Prompt-Akshay.txt.
+
+## Update 2026-10-28 — Agent 1 inside the WhatsApp Agent Team
+Now Agent 1 of [[whatsapp-agent-team-renault]] (n8n "1.Renault WhatsApp Agent (Veblika)").
+- Calls Agent 2 (Lead Qualification) after every reply; STOP / नको / बंद करा → opt-out + reply; template button taps read as text.
+- **After-hours aware:** the prompt gets the live IST time + hours (office/advisors 10:00–20:00, servicing 08:00–18:00, Sunday closed). Outside office hours Akshay keeps helping and collecting details but promises a call only "next working day after 10 AM".
+- **Complaint path (Agent 5):** problem button → asks for one line → saves the complaint → advisor alert → thank-you → `next_action = call`. Normal messages go through a "Back to Message" step so the rest of the flow is unchanged (tested).
+- Knowledge base can now be updated through the KB Loader form (replace by title) instead of the manual loader.

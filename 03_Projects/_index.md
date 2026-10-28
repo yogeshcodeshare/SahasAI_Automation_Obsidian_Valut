@@ -35,3 +35,7 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[renault-whatsapp-rag-agent-meta]] — Renault service WhatsApp agent + Supabase RAG on Meta Cloud (supported; 2 fixes open before publish).
 - [[renault-whatsapp-agent-veblika]] — Renault WhatsApp agent on Veblika, all lanes built and tested (supported; go-live checklist open).
 - [[whatsapp-bulk-broadcast-agent]] — WhatsApp Agent Team · Agent 4 Bulk Broadcast (supported; safety gate untested).
+- [[whatsapp-agent-team-renault]] — WhatsApp Agent Team: 5 agents + Sheet sync, KB loader, Morning Call List; how they hand off via next_action (supported; unpublished).
+- [[whatsapp-review-feedback-agent]] — Agent 5 Review & Feedback: Google review button for everyone + private complaint path (supported).
+- [[ai-voice-calling-agents-sarvam]] — AI voice team on Sarvam: V1 outbound call-back, V2 inbound receptionist, n8n V-1/V-2/V-3 built (emerging; not live).
+- [[decision-voice-team-two-agents-outbound-first]] — #decision: two voice agents, outbound call-back first.

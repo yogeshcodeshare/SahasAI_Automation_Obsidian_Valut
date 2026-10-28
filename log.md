@@ -442,3 +442,6 @@ Notes created: 2, updated: 0. Agent: claude-code
 
 ## [2026-10-27] ingest | WhatsApp Agent Team — Agent 4 Bulk Broadcast
 Created [[whatsapp-bulk-broadcast-agent]] in 03_Projects and [[whatsapp-broadcast-template-lessons]] in 04_Knowledge. Notes created: 2, updated: 0. Agent: claude-code
+
+## [2026-10-28] ingest | WhatsApp Agent Team (all 5 agents + support) and AI voice team (Sarvam)
+Created [[whatsapp-agent-team-renault]], [[whatsapp-review-feedback-agent]], [[ai-voice-calling-agents-sarvam]], [[decision-voice-team-two-agents-outbound-first]] in 03_Projects and [[sarvam-voice-agents-platform-facts]], [[google-review-gating-not-allowed]], [[n8n-lessons-whatsapp-agent-team]] in 04_Knowledge. Updated [[renault-whatsapp-agent-veblika]] and [[whatsapp-bulk-broadcast-agent]]. Notes created: 7, updated: 2. Agent: claude-code

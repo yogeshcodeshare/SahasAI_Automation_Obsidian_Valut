@@ -117,3 +117,6 @@ Reference material, how-tos, research, and saved learnings.
 - [[meta-whatsapp-cloud-app-live-and-waba-subscription]] — make your own Meta app receive WhatsApp messages (Live mode, WABA assignment, subscribed_apps)
 - [[veblika-webhook-message-received-payload]] — Veblika message-received webhook fields per message type
 - [[whatsapp-broadcast-template-lessons]] — lessons from creating the festive broadcast templates (emerging).
+- [[sarvam-voice-agents-platform-facts]] — Sarvam Voice Agents: no YAML, outbound API, result webhook, Marathi, pricing, transfer limits (supported).
+- [[google-review-gating-not-allowed]] — offer the Google review link to every customer; private complaint path is fine (emerging).
+- [[n8n-lessons-whatsapp-agent-team]] — n8n lessons: draft vs published, Supabase string filters, Sheets mirror pattern, SDK gotchas (supported).

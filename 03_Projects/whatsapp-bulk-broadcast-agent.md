@@ -1,6 +1,7 @@
 ---
 title: WhatsApp Agent Team — Agent 4 Bulk Broadcast (Veblika + n8n)
 created: 2026-10-27
+updated: 2026-10-28
 tags: [project, whatsapp, veblika, n8n, supabase, broadcast, renault]
 source: Claude Code build session 2026-10-26/27; local "What's App Automation/WhatsApp Team/04 Bulk Broadcast Agent" (plan, BUILD-STEPS, templates)
 origin: ai
@@ -40,3 +41,7 @@ Passed: preview count, festive template send, log + `last_marketing_at`, sheet `
 - An empty re-run must not overwrite earlier `sent/failed` totals in the sheet.
 
 Template wording rules: [[whatsapp-broadcast-template-lessons]].
+
+## Update 2026-10-28
+- Part of [[whatsapp-agent-team-renault]]. Fixes: 4a "draft" filter restored (lost to an editor save), all approved rows read, Pause 4 s unit set, `Campaigns!A1` header restored to `campaign_id`, an empty re-run no longer overwrites earlier sent/failed totals.
+- The Sheet tabs `leads`, `appointments`, `activity`, `broadcast_log` are now filled automatically by the Supabase → Sheet Sync workflow (every 10 min, one-way).

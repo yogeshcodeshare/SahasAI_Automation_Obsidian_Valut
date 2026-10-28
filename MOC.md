@@ -200,3 +200,12 @@ Home index for the vault. Links get added as content is ingested.
 - [[renault-whatsapp-agent-veblika]] — Renault agent rebuilt on Veblika: text / photo / voice / video / PDF / Word / unsupported lanes into one agent, reply via Veblika API; tested, not yet published
 - [[whatsapp-bulk-broadcast-agent]] — Agent 4 Bulk Broadcast: Sheet-approved campaigns, 150 cap, 4 s / 2 min-per-20 pacing, >10% failure stop, 24 h + broadcast_log duplicate guard; tested, not published
 - [[whatsapp-broadcast-template-lessons]] — variables not real names, no placeholder offers, Stop button exact, per-language names
+
+## WhatsApp Agent Team + AI voice team (added 2026-10-28)
+- [[whatsapp-agent-team-renault]] — the 5 WhatsApp agents + support workflows, the next_action hand-off, hours, go-live order
+- [[whatsapp-review-feedback-agent]] — Agent 5: review request after service, no gating, complaint path → advisor + call list
+- [[ai-voice-calling-agents-sarvam]] — voice team on Sarvam: V1 outbound call-back, V2 inbound receptionist, n8n dispatcher / result / lookup
+- [[decision-voice-team-two-agents-outbound-first]] — #decision: two voice agents, outbound first, no cold calling
+- [[sarvam-voice-agents-platform-facts]] — Sarvam build facts: dashboard-only agents, API, webhook payload, Marathi, pricing
+- [[google-review-gating-not-allowed]] — same review link for every customer (verify Google's page before quoting)
+- [[n8n-lessons-whatsapp-agent-team]] — n8n mechanics learned building the team
