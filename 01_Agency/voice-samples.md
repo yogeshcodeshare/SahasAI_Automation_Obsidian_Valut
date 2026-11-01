@@ -28,3 +28,7 @@ but be grammatically clean. For Marathi/Hinglish content follow [[sahas-content-
 ## Sample 2: client-facing message
 **Missing.** Add a real client WhatsApp, email, post or proposal once one exists (append below, verbatim,
 with channel, language and date).
+
+## Update 2026-11-01
+No client-facing writing exists yet (no client contact so far). Add Sample 2 after the first outreach
+message, proposal or post is sent.

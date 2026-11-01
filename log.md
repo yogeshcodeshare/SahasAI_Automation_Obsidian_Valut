@@ -448,3 +448,6 @@ Created [[whatsapp-agent-team-renault]], [[whatsapp-review-feedback-agent]], [[a
 
 ## [2026-11-01] onboard | AI OS Day-1 context
 Created [[about-yogesh]], [[priorities]], [[voice-samples]] in 01_Agency. Appended dated updates to [[sahas-ai-overview]] and [[short-term-goals-oct-2026-may-2027]]. Linked from 01_Agency/_index and MOC. Notes created: 3, updated: 2. Agent: claude-code
+
+## [2026-11-01] update | Onboarding open decisions clarified
+Appended updates to [[priorities]] (pricing → design first-three-client offers; car dealerships = current demo niche; long-term niche pending) and [[voice-samples]] (no client writing yet). Notes created: 0, updated: 2. Agent: claude-code

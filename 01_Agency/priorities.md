@@ -6,6 +6,7 @@ source: aios-intake 2026-11-01 (AI OS /onboard)
 origin: human
 author: yogesh
 maturity: established
+updated: 2026-11-01
 ---
 
 # Current 90-day priorities (Nov 2026 – Jan 2027)
@@ -33,3 +34,11 @@ This is the current-quarter view of [[short-term-goals-oct-2026-may-2027]]; revi
 - **Which niche leads sales:** the niche research report puts S1–S4 (interiors, renovation, wedding venues,
   solar) first; [[decision-car-dealership-first-pilot]] and the Renault agent team point at car
   dealerships. Decide one to start with.
+
+## Update 2026-11-01: open decisions clarified (Yogesh)
+- **Pricing:** not decided. Next step is to design **"first three client" offers** (introductory
+  packages for the first 3 clients), then price them.
+- **Niche:** the WhatsApp agent team is built for **car dealerships**, so that is the current demo niche.
+  Which niche(s) to target long-term is Yogesh's call later; no change to the research ranking until he
+  decides.
+- **No client contact yet**, so there are no client-facing messages.
