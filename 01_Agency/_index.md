@@ -41,3 +41,8 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 
 - [[sahas-ai-founder-blueprint-2026-09-10]]
 - [[short-term-goals-oct-2026-may-2027]]
+
+## Founder context (AI OS onboarding, 2026-11-01)
+- [[about-yogesh]] - founder role, time constraints, top pain, how to work with him.
+- [[priorities]] - current 90-day priorities (Nov 2026 – Jan 2027): sales and marketing, 1–2 paid clients.
+- [[voice-samples]] - verbatim writing samples; match this register when drafting.

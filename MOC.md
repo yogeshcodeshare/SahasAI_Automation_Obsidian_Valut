@@ -14,6 +14,9 @@ Home index for the vault. Links get added as content is ingested.
 - [[05_Agent-Memory/Hermes/obsidian-vault-access]] — chief-of-staff vault retrieval, client-silo, write, and sync protocol
 
 ## Agency (Sahas AI)
+- [[about-yogesh]] — founder context, time limits, top pain, working style
+- [[priorities]] — current 90-day priorities (Nov 2026 – Jan 2027)
+- [[voice-samples]] — verbatim writing samples for tone
 - [[sahas-ai-founder-blueprint-2026-09-10]] — established six-month founder direction: Pan-India multi-industry, eight-week build→sell sequence, weekly dashboard
 - [[short-term-goals-oct-2026-may-2027]] — monthly + 15-day goals: demos by Oct end, sales/Saturday Club Nov–Dec, AI employees and agentic AI from Jan, AI coaching → consulting
 - [[agency-go-to-market-sequence]] — staged launch, validation gates, and scale trigger

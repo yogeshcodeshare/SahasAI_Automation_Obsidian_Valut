@@ -445,3 +445,6 @@ Created [[whatsapp-bulk-broadcast-agent]] in 03_Projects and [[whatsapp-broadcas
 
 ## [2026-10-28] ingest | WhatsApp Agent Team (all 5 agents + support) and AI voice team (Sarvam)
 Created [[whatsapp-agent-team-renault]], [[whatsapp-review-feedback-agent]], [[ai-voice-calling-agents-sarvam]], [[decision-voice-team-two-agents-outbound-first]] in 03_Projects and [[sarvam-voice-agents-platform-facts]], [[google-review-gating-not-allowed]], [[n8n-lessons-whatsapp-agent-team]] in 04_Knowledge. Updated [[renault-whatsapp-agent-veblika]] and [[whatsapp-bulk-broadcast-agent]]. Notes created: 7, updated: 2. Agent: claude-code
+
+## [2026-11-01] onboard | AI OS Day-1 context
+Created [[about-yogesh]], [[priorities]], [[voice-samples]] in 01_Agency. Appended dated updates to [[sahas-ai-overview]] and [[short-term-goals-oct-2026-may-2027]]. Linked from 01_Agency/_index and MOC. Notes created: 3, updated: 2. Agent: claude-code
