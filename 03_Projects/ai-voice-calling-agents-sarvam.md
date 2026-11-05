@@ -6,6 +6,7 @@ source: Claude Code session 2026-10-27/28; local "What's App Automation/AI Voice
 origin: ai
 author: claude-code
 maturity: emerging
+updated: 2026-11-05
 ---
 
 # AI Voice Calling Agents (Sarvam) — designed + n8n built, not live
@@ -26,3 +27,13 @@ Why two agents: [[decision-voice-team-two-agents-outbound-first]].
 
 ## Open before live
 Sarvam account + number (Vobiz/rented if call transfer is needed) · build both agents from the specs · n8n credentials (Sarvam API Key, Voice Tools token) and config IDs · 7 new WhatsApp templates (`voice_call_alert`, `voice_call_summary_*`, `voice_missed_call_*`) · publish V-3 → V-2 → V-1.
+
+## Update 2026-11-05 — V1 built in Sarvam and tested; persona split decided
+- **Persona split (Yogesh decided):** WhatsApp agent stays **Akshay**; the voice agent is **Anjali** (female, feminine verb forms in Marathi/Hindi; never claims to be human, answers truthfully if sincerely asked). Each prompt tells the agent the other exists, so "Akshay told me your details" works.
+- **V1 outbound built** (committed version 1, then edited further as draft): Marathi first, **Marathi+English / Hindi+English code-mixed** (nobody speaks pure Marathi on the phone; everyday English words stay English), Bulbul V4 female voice, speed 1.05, temperature 0.4, silence nudges 6 s / 10 s then hang up, voicemail message, max call 5 min, pronunciation dictionary (Renault is said "Reno"), languages limited to the 9 Bulbul V4 supports.
+- **Knowledge search tool** `search_knowledge` = Sarvam API tool to n8n V-4 (same Supabase knowledge base as WhatsApp), bearer secret kept in Sarvam secrets, 15 s timeout, English fallback line (a fixed fallback cannot follow the caller's language).
+- **Call goal workaround:** Sarvam's call goal checks one variable against **one** value, so a boolean output `goal_achieved` is true when a booking / confirmation / reschedule is agreed; `call_outcome` (12 values incl. `breakdown_help`) still carries the detail for n8n V-2.
+- **Test calls:** a booking call passed the goal with all fields captured (car, service, date/time, registration, pickup, language). Two accident calls exposed the emergency-call problem, see [[decision-voice-emergency-calls-never-wait-until-morning]].
+- **V-2 verified by replaying a real call payload** into the production webhook (no phone number needed): call logged, lead updated, appointment `requested`, advisor alert and customer summary WhatsApp both accepted. Details and traps: [[n8n-lessons-whatsapp-agent-team]], [[sarvam-mcp-and-agent-build-lessons]].
+- **WhatsApp templates:** English only for now (`voice_call_alert`, `voice_call_summary_en`, `voice_missed_call_en`, all Utility, Approved); V-2 sends English to every customer; mr/hi versions later.
+- **Still open:** Vobiz number (KYC) for V-1 dialing and inbound; dealer facts (Renault Assist roadside number, hours, address, prices) in the knowledge base; recommit V1 after prompt fixes and set `app_version` in V-1; build V2 inbound; rotate the webhook key before go-live; delete test appointments before publishing V-1.

@@ -451,3 +451,6 @@ Created [[about-yogesh]], [[priorities]], [[voice-samples]] in 01_Agency. Append
 
 ## [2026-11-01] update | Onboarding open decisions clarified
 Appended updates to [[priorities]] (pricing → design first-three-client offers; car dealerships = current demo niche; long-term niche pending) and [[voice-samples]] (no client writing yet). Notes created: 0, updated: 2. Agent: claude-code
+
+## [2026-11-05] ingest | V1 voice agent (Anjali) built + tested; Sarvam MCP lessons; V-2 verification; emergency-call rule
+Created [[sarvam-mcp-and-agent-build-lessons]] in 04_Knowledge and [[decision-voice-emergency-calls-never-wait-until-morning]] in 03_Projects. Updated [[ai-voice-calling-agents-sarvam]] (persona split Akshay/Anjali, V1 settings, test results) and [[n8n-lessons-whatsapp-agent-team]] (V-2 testing lessons). Notes created: 2, updated: 2. Agent: claude-code

@@ -39,3 +39,4 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[whatsapp-review-feedback-agent]] — Agent 5 Review & Feedback: Google review button for everyone + private complaint path (supported).
 - [[ai-voice-calling-agents-sarvam]] — AI voice team on Sarvam: V1 outbound call-back, V2 inbound receptionist, n8n V-1/V-2/V-3 built (emerging; not live).
 - [[decision-voice-team-two-agents-outbound-first]] — #decision: two voice agents, outbound call-back first.
+- [[decision-voice-emergency-calls-never-wait-until-morning]] — #decision: accident/breakdown calls are urgent at any hour; never promise a next-morning call.

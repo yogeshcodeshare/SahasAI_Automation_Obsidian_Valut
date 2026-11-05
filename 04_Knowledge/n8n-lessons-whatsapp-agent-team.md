@@ -6,6 +6,7 @@ source: Claude Code build sessions 2026-10-26 → 2026-10-28 (WhatsApp Agents Te
 origin: ai
 author: claude-code
 maturity: supported
+updated: 2026-11-05
 ---
 
 # n8n lessons — WhatsApp Agent Team build
@@ -24,3 +25,11 @@ From [[whatsapp-agent-team-renault]] and [[ai-voice-calling-agents-sarvam]]. See
 - **Workflow SDK:** no arrow functions or helper functions outside Code strings; `sticky()` notes are not kept unless added — add sticky notes afterwards with `addNode`. `.onError()` requires `onError: 'continueErrorOutput'`.
 - **Multi-trigger branching order:** in v1 execution order, sibling branches run top-to-bottom by canvas position — put a "delete old" branch above the "insert" branch.
 - Webhooks from services that cannot sign or send headers (Sarvam result webhooks): put a shared key in the echoed metadata and check it in a Code node.
+
+## Added 2026-11-05 — testing the voice result workflow (V-2)
+- **"Continue on error" hides failures.** A WhatsApp send that fails still shows the execution as *success*. Read the node data of the execution (`get_workflow_execution` with node names): a real send returns `message_status: accepted` with a message id; a failure returns the API error.
+- **A template that does not exist yet fails with an odd Meta error** ("Unexpected key sampleValues on param template"). It meant the template had not been created/approved yet, not a payload problem.
+- **Test a webhook workflow without the real caller:** POST a copy of the real payload (same shape as the service sends, including the shared key in metadata) to the **production** webhook, then read the execution and the database. This proves the whole chain except the dial itself.
+- **Opt-out blocks the customer message by design:** check `leads.opt_out_whatsapp` on test leads before blaming the workflow.
+- **Meta template variables:** strip line breaks and repeated spaces from free text before sending; write a short clean line for the customer instead of internal wording ("The customer wants...").
+- **Editing a published workflow creates a new version:** it is not live until published again.

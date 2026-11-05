@@ -212,3 +212,5 @@ Home index for the vault. Links get added as content is ingested.
 - [[sarvam-voice-agents-platform-facts]] — Sarvam build facts: dashboard-only agents, API, webhook payload, Marathi, pricing
 - [[google-review-gating-not-allowed]] — same review link for every customer (verify Google's page before quoting)
 - [[n8n-lessons-whatsapp-agent-team]] — n8n mechanics learned building the team
+- [[sarvam-mcp-and-agent-build-lessons]] — what the Sarvam MCP and platform enforce (no language rules in prompts, one-value call goal, draft vs committed), how to read test calls, code-mixed voice style
+- [[decision-voice-emergency-calls-never-wait-until-morning]] — #decision: accident/breakdown calls are urgent at any hour; never "advisor calls tomorrow 10 AM"
