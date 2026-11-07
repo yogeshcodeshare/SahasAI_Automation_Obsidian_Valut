@@ -214,3 +214,5 @@ Home index for the vault. Links get added as content is ingested.
 - [[n8n-lessons-whatsapp-agent-team]] — n8n mechanics learned building the team
 - [[sarvam-mcp-and-agent-build-lessons]] — what the Sarvam MCP and platform enforce (no language rules in prompts, one-value call goal, draft vs committed), how to read test calls, code-mixed voice style
 - [[decision-voice-emergency-calls-never-wait-until-morning]] — #decision: accident/breakdown calls are urgent at any hour; never "advisor calls tomorrow 10 AM"
+- [[voice-instant-callback-from-whatsapp]] — WhatsApp "call me" + yes → the voice agent calls within ~2 min with the last 12 chat messages as context (V-0)
+- [[voice-missed-appointment-rebooking]] — 1 PM / 7 PM no-show check → advisor alert → voice call to rebook (V-5); advisor must mark jobs done

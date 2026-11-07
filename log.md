@@ -454,3 +454,6 @@ Appended updates to [[priorities]] (pricing → design first-three-client offers
 
 ## [2026-11-05] ingest | V1 voice agent (Anjali) built + tested; Sarvam MCP lessons; V-2 verification; emergency-call rule
 Created [[sarvam-mcp-and-agent-build-lessons]] in 04_Knowledge and [[decision-voice-emergency-calls-never-wait-until-morning]] in 03_Projects. Updated [[ai-voice-calling-agents-sarvam]] (persona split Akshay/Anjali, V1 settings, test results) and [[n8n-lessons-whatsapp-agent-team]] (V-2 testing lessons). Notes created: 2, updated: 2. Agent: claude-code
+
+## [2026-11-07] ingest | V2 Receptionist built; instant call-back (V-0); missed-appointment rebooking (V-5); client overview PDF
+Created [[voice-instant-callback-from-whatsapp]] and [[voice-missed-appointment-rebooking]] in 03_Projects. Updated [[ai-voice-calling-agents-sarvam]] (V2 build, call triggers, test placeholders, client PDF, go-live plan) and [[sarvam-mcp-and-agent-build-lessons]] (inbound-agent lessons). Notes created: 2, updated: 2. Agent: claude-code

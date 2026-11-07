@@ -6,7 +6,7 @@ source: Claude Code session 2026-10-27/28; local "What's App Automation/AI Voice
 origin: ai
 author: claude-code
 maturity: emerging
-updated: 2026-11-05
+updated: 2026-11-07
 ---
 
 # AI Voice Calling Agents (Sarvam) — designed + n8n built, not live
@@ -37,3 +37,12 @@ Sarvam account + number (Vobiz/rented if call transfer is needed) · build both 
 - **V-2 verified by replaying a real call payload** into the production webhook (no phone number needed): call logged, lead updated, appointment `requested`, advisor alert and customer summary WhatsApp both accepted. Details and traps: [[n8n-lessons-whatsapp-agent-team]], [[sarvam-mcp-and-agent-build-lessons]].
 - **WhatsApp templates:** English only for now (`voice_call_alert`, `voice_call_summary_en`, `voice_missed_call_en`, all Utility, Approved); V-2 sends English to every customer; mr/hi versions later.
 - **Still open:** Vobiz number (KYC) for V-1 dialing and inbound; dealer facts (Renault Assist roadside number, hours, address, prices) in the knowledge base; recommit V1 after prompt fixes and set `app_version` in V-1; build V2 inbound; rotate the webhook key before go-live; delete test appointments before publishing V-1.
+
+## Update 2026-11-07 — V2 Receptionist built, call triggers complete, client overview
+- **V2 Receptionist built through the Sarvam MCP** (draft, not committed): cloned from V1 committed v3, rewritten for incoming calls. An on-start tool `lookup_caller` (n8n V-3) fills name, car, last summary, open appointment and language before the greeting; transfer to the advisor Mon–Sat 10 AM–8 PM; asks once for WhatsApp consent (`whatsapp_ok`); never says a slot is free; same accident rule as V1; voicemail off; 5-minute calls. Still to do: select the bearer secret on `lookup_caller` in the console (the MCP cannot set credentials), upload the pronunciation file (a clone does not copy it), commit, then create the inbound deployment once the number exists.
+- **Four ways Anjali is asked to call:** instant call-back from WhatsApp ([[voice-instant-callback-from-whatsapp]]), next-morning call list, day-before appointment confirmation, missed-appointment rebooking ([[voice-missed-appointment-rebooking]]).
+- **Morning call list fix:** it now skips customers who opted out of *calls*, not of WhatsApp.
+- **Test placeholders (Yogesh's choice):** the advisor-alert number and the V2 transfer number are Yogesh's own test number for now — replace with the real advisor before go-live. V1 max call length stays 3 minutes (cost); V2 is 5 minutes.
+- **Client overview PDF** (Sahas notebook style, 13 pages, no tool names): problem, solution, one-page "How everything connects" map, both teams, a customer journey, special situations, the Customer Hub and the advisor's 3 daily tasks, rules, value (estimate labelled), add-ons. Local: `What's App Automation/Client Overview/`.
+- **Go-live + end-to-end test plan** (14 scenarios, how to rent the number on the Vobiz connection with KYC): local `AI Voice Calling Agents/GO-LIVE-AND-E2E-TEST.md`.
+- **Still open:** Sarvam number + KYC; publish order (most workflows unpublished; publishing from the MCP is blocked by the permission system, Yogesh publishes); dealer facts in the knowledge base; rotate the webhook key in V-0, V-1 and V-2 together.

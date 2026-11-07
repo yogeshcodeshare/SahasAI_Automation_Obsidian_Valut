@@ -6,6 +6,7 @@ source: Claude Code session 2026-11-05 (building and testing the V1 outbound age
 origin: ai
 author: claude-code
 maturity: supported
+updated: 2026-11-07
 ---
 
 # Sarvam voice agents — lessons from building V1 through the MCP
@@ -32,3 +33,11 @@ Platform facts live in [[sarvam-voice-agents-platform-facts]]; the project is [[
 - **Code-mixed speech (Marathi+English, Hindi+English)** sounds natural; pure Marathi/Hindi is not understood well by real customers. The prompt lists the English words to keep and gives example sentences.
 - **Pronunciation dictionary** (Devanagari spellings, one list per language): "Renault" must be written रेनो so it is said "Reno".
 - Never let the agent promise what no tool does (sending a location to a roadside service, sending documents on WhatsApp). See [[decision-voice-emergency-calls-never-wait-until-morning]].
+
+## Added 2026-11-07 — building the inbound agent
+- **Clone an agent to start a sibling** (configure_agent with clone_from + version): config, prompt and API tools copy; the **pronunciation dictionary does not**.
+- **The MCP cannot attach a credential to a tool** — create the tool without auth, then select the secret on the tool in the console.
+- **On-start tool** (`webhook_on_start`, via configure_app_tool): send the caller's number with a **system variable** `user_identifier` in the body, and map the reply fields into agent variables with save-to-variables.
+- **Call transfer:** set `call_transfer_config` (blind, phone) and turn the `call_transfer` tool on; the prompt must actually call it. Works on Vobiz connections only.
+- **Removing variables** the prompt still uses is refused — rewrite the prompt and null the variables in the same call.
+- **Chat test** (send_chat on the draft version) is cheap and catches wording problems — it showed the agent saying a slot "चालेल" (is available); fixed by a rule that it cannot see the calendar.

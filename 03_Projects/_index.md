@@ -40,3 +40,5 @@ Active builds (e.g. GMB Sarathi, WhatsApp automation).
 - [[ai-voice-calling-agents-sarvam]] — AI voice team on Sarvam: V1 outbound call-back, V2 inbound receptionist, n8n V-1/V-2/V-3 built (emerging; not live).
 - [[decision-voice-team-two-agents-outbound-first]] — #decision: two voice agents, outbound call-back first.
 - [[decision-voice-emergency-calls-never-wait-until-morning]] — #decision: accident/breakdown calls are urgent at any hour; never promise a next-morning call.
+- [[voice-instant-callback-from-whatsapp]] — instant call-back from a WhatsApp request (V-0).
+- [[voice-missed-appointment-rebooking]] — missed-appointment check and rebooking call (V-5).
