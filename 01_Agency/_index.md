@@ -18,6 +18,7 @@ Sahas AI itself: offerings, SOPs, pricing, and positioning.
 - [[sahas-ai-content-calendar]] — theoretical first-month Reel plan with three separate introduction videos and 12 calendar entries.
 - [[sahas-ai-reel-production-plan]] — emerging weekly production cadence and reviewed-workbook editorial boundary.
 - [[sahas-ai-social-channel-status]] — supported account-setup snapshot and unresolved channel checks.
+- [[personal-brand-content-plan]] — emerging personal-brand account roles, content mix and first three reels.
 - [[ai-content-strategy-blueprint]] — theoretical 35-topic Sahas AI content backlog with evidence and readiness safeguards.
 
 ## WhatsApp automation offer (added 2026-08-05)

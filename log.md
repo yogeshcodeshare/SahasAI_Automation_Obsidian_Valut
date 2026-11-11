@@ -457,3 +457,6 @@ Created [[sarvam-mcp-and-agent-build-lessons]] in 04_Knowledge and [[decision-vo
 
 ## [2026-11-07] ingest | V2 Receptionist built; instant call-back (V-0); missed-appointment rebooking (V-5); client overview PDF
 Created [[voice-instant-callback-from-whatsapp]] and [[voice-missed-appointment-rebooking]] in 03_Projects. Updated [[ai-voice-calling-agents-sarvam]] (V2 build, call triggers, test placeholders, client PDF, go-live plan) and [[sarvam-mcp-and-agent-build-lessons]] (inbound-agent lessons). Notes created: 2, updated: 2. Agent: claude-code
+
+## [2026-11-11] ingest | Personal brand plan; YouTube renamed and moved to a Brand Account
+Created [[personal-brand-content-plan]] in 01_Agency. Appended a dated update to [[sahas-ai-social-channel-status]] (YouTube now Yogesh Mohite | AI Automation, @yogeshmohiteai, Brand Account; primary-owner change earliest 2026-11-18). Notes created: 1, updated: 1. Agent: claude-code

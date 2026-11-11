@@ -31,3 +31,12 @@ Status snapshot from Yogesh's September 2026 account-setup conversation. Recheck
 Keep Yogesh's employment profile and agency identity distinct. Public visibility and platform account policies should be checked against the current interface before making a new Page or linking accounts. Do not infer that creating or administering a Page is invisible to other people.
 
 Related: [[sahas-ai-overview]], [[sahas-ai-reel-production-plan]].
+
+## Update 2026-11-11 — YouTube converted to Yogesh's personal-brand channel
+
+- The YouTube channel (same channel ID `UCEWHaQUpNvyCfmn3gsCZfxg`) was renamed **Yogesh Mohite | AI Automation** with handle **@yogeshmohiteai**, verified from Yogesh's screenshots of the live channel page (3 subscribers, 1 Short at the time).
+- The channel was moved from a personal Google account into a Brand Account (temporary Brand Account name "Yogesh Temp"). Yogesh's personal Gmail accepted an invitation to that Brand Account; its role (Owner vs Manager) was not verified in a screenshot. Making it Primary owner is possible only after Google's 7-day wait — earliest 2026-11-18. Account emails are deliberately not recorded here.
+- Instagram `@sahas_ai_automation` stays the **agency** account. A separate personal Instagram `@yogeshmohite.ai` is planned, not verified as created. Future language accounts (e.g. a Hindi one) are an idea, not reserved.
+- Still pending: personal profile photo and banner on YouTube, recovery email and two-factor authentication on both accounts.
+
+Related: [[personal-brand-content-plan]].
